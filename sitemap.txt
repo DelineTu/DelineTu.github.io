@@ -1,0 +1,3 @@
+http://example.com/2023/08/31/test/
+http://example.com/2023/08/31/test2/
+http://example.com/
