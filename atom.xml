@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-09-01T12:49:35.217Z</updated>
+  <updated>2023-09-01T13:42:13.536Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,13 +17,244 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Words for myself</title>
+    <link href="http://example.com/2023/09/01/Words-for-myself/"/>
+    <id>http://example.com/2023/09/01/Words-for-myself/</id>
+    <published>2023-09-01T13:42:13.000Z</published>
+    <updated>2023-09-01T13:42:13.536Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>TOEFL</title>
+    <link href="http://example.com/2023/09/01/TOEFL/"/>
+    <id>http://example.com/2023/09/01/TOEFL/</id>
+    <published>2023-09-01T13:10:01.000Z</published>
+    <updated>2023-09-01T13:10:01.448Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Photology</title>
+    <link href="http://example.com/2023/09/01/Photology/"/>
+    <id>http://example.com/2023/09/01/Photology/</id>
+    <published>2023-09-01T13:09:40.000Z</published>
+    <updated>2023-09-01T13:09:40.276Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Rational Mechanics</title>
+    <link href="http://example.com/2023/09/01/Rational-Mechanics/"/>
+    <id>http://example.com/2023/09/01/Rational-Mechanics/</id>
+    <published>2023-09-01T13:09:23.000Z</published>
+    <updated>2023-09-01T13:09:23.257Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Probability Theory and Mathematical Statistics</title>
+    <link href="http://example.com/2023/09/01/Probability-Theory-and-Mathematical-Statistics/"/>
+    <id>http://example.com/2023/09/01/Probability-Theory-and-Mathematical-Statistics/</id>
+    <published>2023-09-01T13:08:45.000Z</published>
+    <updated>2023-09-01T13:08:45.934Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>function of complex variable</title>
+    <link href="http://example.com/2023/09/01/function-of-complex-variable/"/>
+    <id>http://example.com/2023/09/01/function-of-complex-variable/</id>
+    <published>2023-09-01T13:07:33.000Z</published>
+    <updated>2023-09-01T13:07:33.132Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>variable</title>
+    <link href="http://example.com/2023/09/01/variable/"/>
+    <id>http://example.com/2023/09/01/variable/</id>
+    <published>2023-09-01T13:07:01.000Z</published>
+    <updated>2023-09-01T13:07:01.505Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Linear Algebra</title>
+    <link href="http://example.com/2023/09/01/Linear-Algebra/"/>
+    <id>http://example.com/2023/09/01/Linear-Algebra/</id>
+    <published>2023-09-01T13:06:04.000Z</published>
+    <updated>2023-09-01T13:06:04.024Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Mathematical Analysis(B2)</title>
+    <link href="http://example.com/2023/09/01/Mathematical-Analysis-B2/"/>
+    <id>http://example.com/2023/09/01/Mathematical-Analysis-B2/</id>
+    <published>2023-09-01T13:05:09.000Z</published>
+    <updated>2023-09-01T13:05:09.416Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Calorifics</title>
+    <link href="http://example.com/2023/09/01/Calorifics/"/>
+    <id>http://example.com/2023/09/01/Calorifics/</id>
+    <published>2023-09-01T13:03:33.000Z</published>
+    <updated>2023-09-01T13:03:33.109Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Weekly Physical Experiment</title>
+    <link href="http://example.com/2023/09/01/Weekly-Physical-Experiment/"/>
+    <id>http://example.com/2023/09/01/Weekly-Physical-Experiment/</id>
+    <published>2023-09-01T13:02:15.000Z</published>
+    <updated>2023-09-01T13:02:15.850Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Works in Casimir Lab</title>
+    <link href="http://example.com/2023/09/01/Works-in-Casimir-Lab/"/>
+    <id>http://example.com/2023/09/01/Works-in-Casimir-Lab/</id>
+    <published>2023-09-01T13:00:52.000Z</published>
+    <updated>2023-09-01T13:00:52.623Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Python</title>
+    <link href="http://example.com/2023/09/01/Python/"/>
+    <id>http://example.com/2023/09/01/Python/</id>
+    <published>2023-09-01T12:59:36.000Z</published>
+    <updated>2023-09-01T12:59:36.286Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Leaping Abroad</title>
+    <link href="http://example.com/2023/09/01/Leaping-Abroad/"/>
+    <id>http://example.com/2023/09/01/Leaping-Abroad/</id>
+    <published>2023-09-01T12:58:53.000Z</published>
+    <updated>2023-09-01T12:58:53.355Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Computer Science(C language)</title>
+    <link href="http://example.com/2023/09/01/Computer-Science-C-language/"/>
+    <id>http://example.com/2023/09/01/Computer-Science-C-language/</id>
+    <published>2023-09-01T12:56:33.000Z</published>
+    <updated>2023-09-01T12:56:33.237Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Machanics(A1)</title>
+    <link href="http://example.com/2023/09/01/Machanics-A1/"/>
+    <id>http://example.com/2023/09/01/Machanics-A1/</id>
+    <published>2023-09-01T12:55:37.000Z</published>
+    <updated>2023-09-01T12:55:37.948Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Mathematical Analysis(B1)</title>
+    <link href="http://example.com/2023/09/01/Mathematical-Analysis-B1/"/>
+    <id>http://example.com/2023/09/01/Mathematical-Analysis-B1/</id>
+    <published>2023-09-01T12:54:00.000Z</published>
+    <updated>2023-09-01T14:19:04.856Z</updated>
+    
+    <content type="html"><![CDATA[<p>因此课程为Blog搭建前学习，暂用于存放笔记及文件</p><span id="more"></span><p>得益于学期中精益求精，敢于面对困难的学习方式，以及假期高强度且状态好的复习，虽然期中未找清定位相对期末有些失利，但最终结果4.0足以令人满意。希望未来能找到与这门课相同的学习状态，需要改进的在于，学期内的学习效率，不要拖延畏难，争取在学期内达到假期复习的额外效果。</p><h5 id="笔记总结"><a href="#笔记总结" class="headerlink" title="笔记总结"></a>笔记总结</h5><a href="/2023/09/01/Mathematical-Analysis-B1/%E6%80%BB%E7%BB%93%E7%AC%94%E8%AE%B0.pdf" title="[总结笔记.pdf]">[总结笔记.pdf]</a><h5 id="wht老师讲义，见未解散的QQ群。"><a href="#wht老师讲义，见未解散的QQ群。" class="headerlink" title="wht老师讲义，见未解散的QQ群。"></a>wht老师讲义，见未解散的QQ群。</h5><h5 id="部分参考答案-笔记"><a href="#部分参考答案-笔记" class="headerlink" title="部分参考答案+笔记"></a>部分参考答案+笔记</h5><a href="/2023/09/01/Mathematical-Analysis-B1/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf" title="[第三次作业参考答案.pdf]">[第三次作业参考答案.pdf]</a><br><a href="/2023/09/01/Mathematical-Analysis-B1/%E7%AC%AC%E5%9B%9B%E6%AC%A1%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf" title="[第四次作业参考答案.pdf]">[第四次作业参考答案.pdf]</a><br><a href="/2023/09/01/Mathematical-Analysis-B1/%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88(2).pdf" title="[第五次作业参考答案(2).pdf]">[第五次作业参考答案(2).pdf]</a><br><a href="/2023/09/01/Mathematical-Analysis-B1/%E7%AC%AC%E4%B8%83%E6%AC%A1%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf" title="[第七次作业参考答案.pdf]">[第七次作业参考答案.pdf]</a><br><br><a href="/2023/09/01/Mathematical-Analysis-B1/%E7%AC%AC%E4%B9%9D%E5%91%A8%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf" title="[第九周作业答案.pdf]">[第九周作业答案.pdf]</a><br><a href="/2023/09/01/Mathematical-Analysis-B1/%E7%AC%AC%E5%8D%81%E5%91%A8%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf" title="[第十周作业参考答案.pdf]">[第十周作业参考答案.pdf]</a><br><a href="/2023/09/01/Mathematical-Analysis-B1/%E7%AC%AC%E5%8D%81%E6%AC%A1%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf" title="[第十次作业参考答案.pdf]">[第十次作业参考答案.pdf]</a><br><a href="/2023/09/01/Mathematical-Analysis-B1/%E7%AC%AC%E5%8D%81%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf" title="[第十一次作业参考答案.pdf]">[第十一次作业参考答案.pdf]</a><br><a href="/2023/09/01/Mathematical-Analysis-B1/%E7%AC%AC%E5%8D%81%E4%BA%8C%E6%AC%A1%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf" title="[第十二次作业参考答案.pdf]">[第十二次作业参考答案.pdf]</a><br><a href="/2023/09/01/Mathematical-Analysis-B1/%E7%AC%AC%E5%8D%81%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf" title="[第十三次作业参考答案.pdf]">[第十三次作业参考答案.pdf]</a><h5 id="习题课讲义"><a href="#习题课讲义" class="headerlink" title="习题课讲义"></a>习题课讲义</h5><a href="/2023/09/01/Mathematical-Analysis-B1/%E5%BE%AE%E7%A7%AF%E5%88%86%E5%AD%A6%E7%AE%80%E5%8F%B2.pdf" title="[微积分学简史.pdf]">[微积分学简史.pdf]</a><br><a href="/2023/09/01/Mathematical-Analysis-B1/MAB1ExerLesson1.pdf" title="[MAB1ExerLesson1.pdf]">[MAB1ExerLesson1.pdf]</a><br><a href="/2023/09/01/Mathematical-Analysis-B1/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90(B1)%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89(1).pdf" title="[数学分析(B1)习题课讲义(1).pdf]">[数学分析(B1)习题课讲义(1).pdf]</a><br><a href="/2023/09/01/Mathematical-Analysis-B1/MAB1ExerLesson4.pdf" title="[MAB1ExerLesson4.pdf]">[MAB1ExerLesson4.pdf]</a><br><a href="/2023/09/01/Mathematical-Analysis-B1/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90B1%E7%AC%AC%E4%B8%83%E6%AC%A1%E4%B9%A0%E9%A2%98%E8%AF%BE.pdf" title="[数学分析B1第七次习题课.pdf]">[数学分析B1第七次习题课.pdf]</a><br><h5 id="考试相关，历年真题，见note-shelf"><a href="#考试相关，历年真题，见note-shelf" class="headerlink" title="考试相关，历年真题，见note shelf"></a>考试相关，历年真题，见note shelf</h5><a href="/2023/09/01/Mathematical-Analysis-B1/MidtermAnswer(2).pdf" title="[MidtermAnswer(2).pdf]">[MidtermAnswer(2).pdf]</a>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;因此课程为Blog搭建前学习，暂用于存放笔记及文件&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="study" scheme="http://example.com/categories/study/"/>
+    
+    <category term="math" scheme="http://example.com/categories/study/math/"/>
+    
+    
+    <category term="proud,confidence" scheme="http://example.com/tags/proud-confidence/"/>
+    
+  </entry>
+  
+  <entry>
     <title>establishing-tips-of-the-blog</title>
     <link href="http://example.com/2023/08/31/establishing-tips-of-the-blog/"/>
     <id>http://example.com/2023/08/31/establishing-tips-of-the-blog/</id>
     <published>2023-08-31T15:57:17.000Z</published>
-    <updated>2023-09-01T12:49:35.217Z</updated>
+    <updated>2023-09-01T13:49:24.940Z</updated>
     
-    <content type="html"><![CDATA[<p>This passage is used to document the process I establish this blog in detail as far as possible. I would write some tips and warnings to remind myself,hoping that it can help someone who wants to create his blog in the future.</p><span id="more"></span><p>sjdbcksdlck</p><h4 id="Blog搭建初体验"><a href="#Blog搭建初体验" class="headerlink" title="Blog搭建初体验"></a>Blog搭建初体验</h4><p>整个过程走了一些弯路，也遇到了较多困难，因Jekyll配置完毕后，改变为静态Hexo，之后再转战动态Hexo教程，许多设置的重复更改导致了许多意料之外的bug，这对于程序运行逻辑理解甚少的我是很大的挑战，甚至一度想要放弃，但经过努力最终总算过五关斩六将把博客搭建起来并且关联到了GitHub账号，算是不负几天的努力和期待吧。我认为这一搜索资料，解决问题的过程，很大程度锻炼了我的动手能力，电脑项目资源搜索能力（如CSDN直接粘贴bug得到解决方法并付诸实践），加深了对于电脑文件系统操作，程序运行底层逻辑的认识，很有成就感，收获颇丰。</p><p>总体来说，如果找对目标，从初始配置跟随教程来，整个搭建过程并不难。</p><p>在B站上参考了一些视频后我决定用GitHub搭配模板搭建Blog。GitHub的好处在于，其上他人编写的项目资源全部开源，无需登录即可下载，且README等文件通常有较详细的操作方法，是需要掌握的一大资源库。</p><p>开始时，我花了半天时间跟随B站教程搭建了一个基于Jekyll的网页，网址后缀为org.edu.kg,整体复制于GitHub，未配置git，直接更改文件无法导入也无更改效果。最终放弃，狠心删除整个repository仓库。最终选择使用最广泛的hexo next模板，视频转战文档再转战视频，问题频发，但积累了经验认识，最终选定huanhao的博客网教程。</p><p>期间所遇问题及反思见下，大部分可能在后续基础搭建中不太用得到，但以备遇到问题的不时之需。</p><p>（中段的bug狂风暴雨阶段后，每次顺利运行后的”have a nice day“真是莫大的安慰）</p><h4 id="常用代码"><a href="#常用代码" class="headerlink" title="常用代码"></a>常用代码</h4><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server（用localhost查看）</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo d（eploy）</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;css/mycss.css&quot;</span><br><span class="line"></span><br></pre></td></tr></table></figure><h4 id="避坑"><a href="#避坑" class="headerlink" title="避坑"></a>避坑</h4><p>1.文章上方的tag一栏，书写时应以空格开头。</p><p>2.”主题配置设置“和”站点配置设置“要分清</p><p>3.将系统变量重置后，要重新打开git才行</p><p>4.先进入myblog再hexo s</p><p>5.在hexo s预览后再hexo d到远程仓库</p><h4 id="常见问题及解决方法"><a href="#常见问题及解决方法" class="headerlink" title="常见问题及解决方法"></a>常见问题及解决方法</h4><p>1.在文件位置直接”open git“无效</p><p>在git中写cd ，事实上不用一层层进，直接”cd “myblog””即可</p><p>2.ssh密钥问题</p><p>我的理解是他是已生成的本机certification，生成一次直接打开即可（位置可在git搜索到）（链接im_tuhua邮箱）</p><p>3.<a href="http://localhost:4000/">http://localhost:4000/</a> </p><p>应当是一个临时预览网站，ctrl c 即终止，”远程导入“用hexo d</p><p>4.node如果找不到了，就查看设置，系统中的环境变量，Path中有没有位置</p><p>5，nmp换为cnpm</p><p>6.extra operand 是多余参量</p><p>7.npm show stylus&#x2F;stylus-loader version 检查版本</p><p>默认路径：C:\Users\Huawei\AppData\Roaming\npm\node_modules</p><p>8.在md文件中插入图片的语法为<code>![]()</code>。</p><p>其中<strong>方括号</strong>是图片描述，<strong>圆括号</strong>是图片路径。</p><p>基本图片语法：</p>  <p>9.hexo clean</p><p>hexo g</p><p>hexo s</p><p>10.cat ~&#x2F;.ssh&#x2F;id_rsa.pub：找到文件，复制信息</p><p>11.文字编辑：</p><p>12.插入文件</p><p>md文件中直接用<div class="pdfobject-container" data-target="ppt.pdf" data-height="500px"></div>进行引用即可。用<div class="pdfobject-container" data-target="./ppt.pdf" data-height="500px"></div>也可以。</p><p>13.预设front matter模板在<code>scaffolds/post.md</code></p><p><strong>基本命令</strong></p><p>以下是一些基本的Vim命令：</p><ul><li><code>i</code>：在当前光标位置插入文本。</li><li><code>x</code>：删除当前光标所在位置的字符。</li><li><code>:w</code>：保存文件。</li><li><code>:q</code>：退出Vim编辑器。</li><li><code>:q!</code>：强制退出Vim编辑器，不保存文件。</li><li><code>:wq</code>：保存文件并退出Vim编辑器。</li><li><a href="https://zhuanlan.zhihu.com/p/628940845">vim命令大全，非常详细，强烈建议收藏！ - 知乎 (zhihu.com)</a></li></ul><p>12.要优化图片的话，去找那个三种方法不断优化，并调整typora路径的</p><p>&#x2F;n&#x2F;n&#x2F;sha是图片重名了</p><p>13.&#x2F;themes&#x2F;next&#x2F;layout&#x2F;_partials&#x2F;footer.swig  是修改底部图标的路径</p><h4 id="反思tips"><a href="#反思tips" class="headerlink" title="反思tips"></a>反思tips</h4><p>1.搭建项目，社区很重要，只有选择者多的项目，才有遇到困难时完善的处理方法汇总，不至于病急无处投医。</p><p>2.遇到问题不要急，不要随便删文件，问题可能更大（删文件造成的问题直接回收站恢复即可）。不用太担心重复操作，文件等若有重复会有提示。</p><ol start="3"><li></li></ol><h4 id="信息汇总"><a href="#信息汇总" class="headerlink" title="信息汇总"></a>信息汇总</h4><p>token序号：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</p><img src="/2023/08/31/establishing-tips-of-the-blog/1.jpg" class title="This is an example image"><img src="/2023/08/31/establishing-tips-of-the-blog/2.jpg" class title="This is an example image">]]></content>
+    <content type="html"><![CDATA[<p>This passage is used to document the process I establish this blog in detail as far as possible. I would write some tips and warnings to remind myself,hoping that it can help someone who wants to create his blog in the future.</p><span id="more"></span><p>sjdbcksdlck</p><h4 id="Blog搭建初体验"><a href="#Blog搭建初体验" class="headerlink" title="Blog搭建初体验"></a>Blog搭建初体验</h4><p>整个过程走了一些弯路，也遇到了较多困难，因Jekyll配置完毕后，改变为静态Hexo，之后再转战动态Hexo教程，许多设置的重复更改导致了许多意料之外的bug，这对于程序运行逻辑理解甚少的我是很大的挑战，甚至一度想要放弃，但经过努力最终总算过五关斩六将把博客搭建起来并且关联到了GitHub账号，算是不负几天的努力和期待吧。我认为这一搜索资料，解决问题的过程，很大程度锻炼了我的动手能力，电脑项目资源搜索能力（如CSDN直接粘贴bug得到解决方法并付诸实践），加深了对于电脑文件系统操作，程序运行底层逻辑的认识，很有成就感，收获颇丰。</p><p>总体来说，如果找对目标，从初始配置跟随教程来，整个搭建过程并不难。</p><p>在B站上参考了一些视频后我决定用GitHub搭配模板搭建Blog。GitHub的好处在于，其上他人编写的项目资源全部开源，无需登录即可下载，且README等文件通常有较详细的操作方法，是需要掌握的一大资源库。</p><p>开始时，我花了半天时间跟随B站教程搭建了一个基于Jekyll的网页，网址后缀为org.edu.kg,整体复制于GitHub，未配置git，直接更改文件无法导入也无更改效果。最终放弃，狠心删除整个repository仓库。最终选择使用最广泛的hexo next模板，视频转战文档再转战视频，问题频发，但积累了经验认识，最终选定huanhao的博客网教程。</p><p>期间所遇问题及反思见下，大部分可能在后续基础搭建中不太用得到，但以备遇到问题的不时之需。</p><p>（中段的bug狂风暴雨阶段后，每次顺利运行后的”have a nice day“真是莫大的安慰）</p><h4 id="常用代码"><a href="#常用代码" class="headerlink" title="常用代码"></a>常用代码</h4><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server（用localhost查看）</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo d（eploy）</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;css/mycss.css&quot;</span><br><span class="line"></span><br></pre></td></tr></table></figure><h4 id="避坑"><a href="#避坑" class="headerlink" title="避坑"></a>避坑</h4><p>1.文章上方的tag一栏，书写时应以空格开头。</p><p>2.”主题配置设置“和”站点配置设置“要分清</p><p>3.将系统变量重置后，要重新打开git才行</p><p>4.先进入myblog再hexo s</p><p>5.在hexo s预览后再hexo d到远程仓库</p><p>6.冒号一定要用英文冒号！冒号后一定要有空格！</p><h4 id="常见问题及解决方法"><a href="#常见问题及解决方法" class="headerlink" title="常见问题及解决方法"></a>常见问题及解决方法</h4><p>1.在文件位置直接”open git“无效</p><p>在git中写cd ，事实上不用一层层进，直接”cd “myblog””即可</p><p>2.ssh密钥问题</p><p>我的理解是他是已生成的本机certification，生成一次直接打开即可（位置可在git搜索到）（链接im_tuhua邮箱）</p><p>3.<a href="http://localhost:4000/">http://localhost:4000/</a> </p><p>应当是一个临时预览网站，ctrl c 即终止，”远程导入“用hexo d</p><p>4.node如果找不到了，就查看设置，系统中的环境变量，Path中有没有位置</p><p>5，nmp换为cnpm</p><p>6.extra operand 是多余参量</p><p>7.npm show stylus&#x2F;stylus-loader version 检查版本</p><p>默认路径：C:\Users\Huawei\AppData\Roaming\npm\node_modules</p><p>8.在md文件中插入图片的语法为<code>![]()</code>。</p><p>其中<strong>方括号</strong>是图片描述，<strong>圆括号</strong>是图片路径。</p><p>基本图片语法：</p>  <p>9.hexo clean</p><p>hexo g</p><p>hexo s</p><p>10.cat ~&#x2F;.ssh&#x2F;id_rsa.pub：找到文件，复制信息</p><p>11.文字编辑：</p><p>12.插入文件</p><p>md文件中直接用<div class="pdfobject-container" data-target="ppt.pdf" data-height="500px"></div>进行引用即可。用<div class="pdfobject-container" data-target="./ppt.pdf" data-height="500px"></div>也可以。</p><p>13.预设front matter模板在<code>scaffolds/post.md</code></p><p><strong>基本命令</strong></p><p>以下是一些基本的Vim命令：</p><ul><li><code>i</code>：在当前光标位置插入文本。</li><li><code>x</code>：删除当前光标所在位置的字符。</li><li><code>:w</code>：保存文件。</li><li><code>:q</code>：退出Vim编辑器。</li><li><code>:q!</code>：强制退出Vim编辑器，不保存文件。</li><li><code>:wq</code>：保存文件并退出Vim编辑器。</li><li><a href="https://zhuanlan.zhihu.com/p/628940845">vim命令大全，非常详细，强烈建议收藏！ - 知乎 (zhihu.com)</a></li></ul><p>12.要优化图片的话，去找那个三种方法不断优化，并调整typora路径的</p><p>&#x2F;n&#x2F;n&#x2F;sha是图片重名了</p><p>13.&#x2F;themes&#x2F;next&#x2F;layout&#x2F;_partials&#x2F;footer.swig  是修改底部图标的路径</p><h4 id="反思tips"><a href="#反思tips" class="headerlink" title="反思tips"></a>反思tips</h4><p>1.搭建项目，社区很重要，只有选择者多的项目，才有遇到困难时完善的处理方法汇总，不至于病急无处投医。</p><p>2.遇到问题不要急，不要随便删文件，问题可能更大（删文件造成的问题直接回收站恢复即可）。不用太担心重复操作，文件等若有重复会有提示。</p><ol start="3"><li></li></ol><h4 id="信息汇总"><a href="#信息汇总" class="headerlink" title="信息汇总"></a>信息汇总</h4><p>token序号：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</p><p>微信Files路径：”C:\Users\Huawei\Documents\WeChat Files\wxid_x8vxbobv5bsy12\FileStorage\File\2023-09”</p><p>huawei share路径：”D:\Huawei Share\Huawei Share\第九周作业答案.pdf”</p><img src="/2023/08/31/establishing-tips-of-the-blog/1.jpg" class title="This is an example image"><img src="/2023/08/31/establishing-tips-of-the-blog/2.jpg" class title="This is an example image">]]></content>
     
     
     <summary type="html">&lt;p&gt;This passage is used to document the process I establish this blog in detail as far as possible. I would write some tips and warnings to remind myself,hoping that it can help someone who wants to create his blog in the future.&lt;/p&gt;</summary>

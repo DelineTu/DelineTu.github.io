@@ -2,7 +2,160 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2023/09/01/Mathematical-Analysis-B1/</loc>
+    
+    <lastmod>2023-09-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/2023/08/31/establishing-tips-of-the-blog/</loc>
+    
+    <lastmod>2023-09-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2023/09/01/Words-for-myself/</loc>
+    
+    <lastmod>2023-09-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2023/09/01/TOEFL/</loc>
+    
+    <lastmod>2023-09-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2023/09/01/Photology/</loc>
+    
+    <lastmod>2023-09-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2023/09/01/Rational-Mechanics/</loc>
+    
+    <lastmod>2023-09-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2023/09/01/Probability-Theory-and-Mathematical-Statistics/</loc>
+    
+    <lastmod>2023-09-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2023/09/01/function-of-complex-variable/</loc>
+    
+    <lastmod>2023-09-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2023/09/01/variable/</loc>
+    
+    <lastmod>2023-09-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2023/09/01/Linear-Algebra/</loc>
+    
+    <lastmod>2023-09-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2023/09/01/Mathematical-Analysis-B2/</loc>
+    
+    <lastmod>2023-09-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2023/09/01/Calorifics/</loc>
+    
+    <lastmod>2023-09-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2023/09/01/Weekly-Physical-Experiment/</loc>
+    
+    <lastmod>2023-09-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2023/09/01/Works-in-Casimir-Lab/</loc>
+    
+    <lastmod>2023-09-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2023/09/01/Python/</loc>
+    
+    <lastmod>2023-09-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2023/09/01/Leaping-Abroad/</loc>
+    
+    <lastmod>2023-09-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2023/09/01/Computer-Science-C-language/</loc>
+    
+    <lastmod>2023-09-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2023/09/01/Machanics-A1/</loc>
     
     <lastmod>2023-09-01</lastmod>
     
@@ -56,6 +209,13 @@
 
   
   <url>
+    <loc>http://example.com/tags/proud-confidence/</loc>
+    <lastmod>2023-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/tags/%E6%A0%87%E7%AD%BE1/</loc>
     <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -70,6 +230,20 @@
   </url>
   
 
+  
+  <url>
+    <loc>http://example.com/categories/study/</loc>
+    <lastmod>2023-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/study/math/</loc>
+    <lastmod>2023-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>http://example.com/categories/tests/</loc>
