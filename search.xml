@@ -1,50 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>test2</title>
-    <url>/2023/08/31/test2/</url>
-    <content><![CDATA[<p>jhbhsxjhb</p>
-<span id="more"></span>
-
-<p>sjdbcksdlck</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>test</title>
-    <url>/2023/08/31/test/</url>
-    <content><![CDATA[<p>jhbhsxjhb</p>
-<!--  more -->
-
-<p>sjdbcksdlck</p>
-<img src="/2023/08/31/test/example.jpg" class title="This is an example image">	
-
-
-
-<div class="pdfobject-container" data-target="1.pdf" data-height="500px"></div>
-
-<p><object data="https://cloud.tsinghua.edu.cn/f/952edbd1e02d409cbd01/" type="application/pdf" width="100%" height="800px"></object></p>
-<iframe src="xxx.pdf" width="800px" height="800px" frameborder="0" scrolling="no"></iframe>
-
-<p>外部链接：</p>
-<div class="pdfobject-container" data-target="http://7xov2f.com1.z0.glb.clouddn.com/bash_freshman.pdf" data-height="500px"></div>
-<p>本地连接：</p>
-<div class="pdfobject-container" data-target="./1.pdf" data-height="500px"></div>
-
-<p><img src="https://cdn.jsdelivr.net/gh/DelineTu/Pictures@main/my1.png" alt="my1"></p>
-]]></content>
-      <categories>
-        <category>tests</category>
-      </categories>
-      <tags>
-        <tag>标签1</tag>
-        <tag>标签2</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>establishing-tips-of-the-blog</title>
     <url>/2023/08/31/establishing-tips-of-the-blog/</url>
     <content><![CDATA[<p>This passage is used to document the process I establish this blog in detail as far as possible. I would write some tips and warnings to remind myself,hoping that it can help someone who wants to create his blog in the future.</p>
-<!--  more -->
+<span id="more"></span>
 
 <p>sjdbcksdlck</p>
 <h4 id="Blog搭建初体验"><a href="#Blog搭建初体验" class="headerlink" title="Blog搭建初体验"></a>Blog搭建初体验</h4><p>整个过程走了一些弯路，也遇到了较多困难，因Jekyll配置完毕后，改变为静态Hexo，之后再转战动态Hexo教程，许多设置的重复更改导致了许多意料之外的bug，这对于程序运行逻辑理解甚少的我是很大的挑战，甚至一度想要放弃，但经过努力最终总算过五关斩六将把博客搭建起来并且关联到了GitHub账号，算是不负几天的努力和期待吧。我认为这一搜索资料，解决问题的过程，很大程度锻炼了我的动手能力，电脑项目资源搜索能力（如CSDN直接粘贴bug得到解决方法并付诸实践），加深了对于电脑文件系统操作，程序运行底层逻辑的认识，很有成就感，收获颇丰。</p>
@@ -119,6 +79,44 @@
 <img src="/2023/08/31/establishing-tips-of-the-blog/1.jpg" class title="This is an example image">	
 
 <img src="/2023/08/31/establishing-tips-of-the-blog/2.jpg" class title="This is an example image">	
+]]></content>
+  </entry>
+  <entry>
+    <title>test</title>
+    <url>/2023/08/31/test/</url>
+    <content><![CDATA[<p>jhbhsxjhb</p>
+<!--  more -->
+
+<p>sjdbcksdlck</p>
+<img src="/2023/08/31/test/example.jpg" class title="This is an example image">	
+
+<a href="/2023/08/31/test/1.pdf" title="[jdsjs]">[jdsjs]</a>
+
+<div class="pdfobject-container" data-target="1.pdf" data-height="500px"></div>
+
+<p><object data="https://cloud.tsinghua.edu.cn/f/952edbd1e02d409cbd01/" type="application/pdf" width="100%" height="800px"></object></p>
+<iframe src="xxx.pdf" width="800px" height="800px" frameborder="0" scrolling="no"></iframe>
+
+<p>外部链接：</p>
+<div class="pdfobject-container" data-target="http://7xov2f.com1.z0.glb.clouddn.com/bash_freshman.pdf" data-height="500px"></div>
+<p>本地连接：<br> <div class="pdfobject-container" data-target="./pdf/1.pdf" data-height="[dejksj]"></div></p>
+<p><img src="https://cdn.jsdelivr.net/gh/DelineTu/Pictures@main/my1.png" alt="my1"></p>
+]]></content>
+      <categories>
+        <category>tests</category>
+      </categories>
+      <tags>
+        <tag>标签1</tag>
+        <tag>标签2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>test2</title>
+    <url>/2023/08/31/test2/</url>
+    <content><![CDATA[<p>jhbhsxjhb</p>
+<span id="more"></span>
+
+<p>sjdbcksdlck</p>
 ]]></content>
   </entry>
 </search>
