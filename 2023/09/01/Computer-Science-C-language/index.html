@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+<meta name="generator" content="Hexo 7.3.0">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png">
+  <link rel="mask-icon" href="/images/logo.svg" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+<link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
+
+<script id="hexo-configurations">
+    var NexT = window.NexT || {};
+    var CONFIG = {"hostname":"example.com","root":"/","scheme":"Pisces","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":false,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"search.xml"};
+  </script>
+
+  <meta name="description" content="因此课程为Blog搭建前学习，暂用于存放笔记及文件">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Computer Science(C language)">
+<meta property="og:url" content="http://example.com/2023/09/01/Computer-Science-C-language/index.html">
+<meta property="og:site_name" content="Deline Tu&#39;s Blog">
+<meta property="og:description" content="因此课程为Blog搭建前学习，暂用于存放笔记及文件">
+<meta property="og:locale" content="zh_CN">
+<meta property="article:published_time" content="2023-09-01T12:56:33.000Z">
+<meta property="article:modified_time" content="2023-09-02T14:35:12.000Z">
+<meta property="article:author" content="Deline Tu">
+<meta property="article:tag" content="confidence">
+<meta property="article:tag" content="proud">
+<meta property="article:tag" content="satisfied">
+<meta name="twitter:card" content="summary">
+
+<link rel="canonical" href="http://example.com/2023/09/01/Computer-Science-C-language/">
+
+
+<script id="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome : false,
+    isPost : true,
+    lang   : 'zh-CN'
+  };
+</script>
+
+  <title>Computer Science(C language) | Deline Tu's Blog</title>
+  
+
+
+  <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?<336957f27725a31788dd39a13e24b3b4>";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+
+
+
+
+  <noscript>
+  <style>
+  .use-motion .brand,
+  .use-motion .menu-item,
+  .sidebar-inner,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-header { opacity: initial; }
+
+  .use-motion .site-title,
+  .use-motion .site-subtitle {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line-before i { left: initial; }
+  .use-motion .logo-line-after i { right: initial; }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div class="container use-motion">
+    <div class="headband"></div>
+
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏">
+      <span class="toggle-line toggle-line-first"></span>
+      <span class="toggle-line toggle-line-middle"></span>
+      <span class="toggle-line toggle-line-last"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <span class="logo-line-before"><i></i></span>
+      <h1 class="site-title">Deline Tu's Blog</h1>
+      <span class="logo-line-after"><i></i></span>
+    </a>
+      <p class="site-subtitle" itemprop="description">My studying space</p>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+    </div>
+  </div>
+</div>
+
+
+
+
+<nav class="site-nav">
+  <ul id="menu" class="main-menu menu">
+        <li class="menu-item menu-item-home">
+
+    <a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a>
+
+  </li>
+        <li class="menu-item menu-item-about">
+
+    <a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>关于</a>
+
+  </li>
+        <li class="menu-item menu-item-tags">
+
+    <a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签<span class="badge">14</span></a>
+
+  </li>
+        <li class="menu-item menu-item-categories">
+
+    <a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类<span class="badge">12</span></a>
+
+  </li>
+        <li class="menu-item menu-item-archives">
+
+    <a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档<span class="badge">26</span></a>
+
+  </li>
+        <li class="menu-item menu-item-schedule">
+
+    <a href="/schedule/" rel="section"><i class="fa fa-calendar fa-fw"></i>日程表</a>
+
+  </li>
+        <li class="menu-item menu-item-sitemap">
+
+    <a href="/sitemap.xml" rel="section"><i class="fa fa-sitemap fa-fw"></i>站点地图</a>
+
+  </li>
+  </ul>
+</nav>
+
+
+
+
+</div>
+    </header>
+
+    
+  <div class="back-to-top">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
+
+
+    <main class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          
+
+          <div class="content post posts-expand">
+            
+
+    
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="http://example.com/2023/09/01/Computer-Science-C-language/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.jpg">
+      <meta itemprop="name" content="Deline Tu">
+      <meta itemprop="description" content="Only substantial labour creates true significance">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Deline Tu's Blog">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          Computer Science(C language)
+        </h1>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+
+              <time title="创建时间：2023-09-01 20:56:33" itemprop="dateCreated datePublished" datetime="2023-09-01T20:56:33+08:00">2023-09-01</time>
+            </span>
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="far fa-calendar-check"></i>
+                </span>
+                <span class="post-meta-item-text">更新于</span>
+                <time title="修改时间：2023-09-02 22:35:12" itemprop="dateModified" datetime="2023-09-02T22:35:12+08:00">2023-09-02</time>
+              </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-folder"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/study/" itemprop="url" rel="index"><span itemprop="name">study</span></a>
+                </span>
+                  ，
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/study/computer-system/" itemprop="url" rel="index"><span itemprop="name">computer system</span></a>
+                </span>
+            </span>
+
+          
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+        <p>因此课程为Blog搭建前学习，暂用于存放笔记及文件</p>
+<span id="more"></span>
+
+<p>反思与感受同《Mechanics A1》所述，甚至更甚。这门课应该是我大一上学期学得最扎实的一门课，包括大作业的完成，都做到了一个优秀的学习过程该有的一切，但这却并不来自循规蹈矩的努力或课外资料的收集，而是来自谦虚平和，好学认真，不愿放过细节，不断探索方法的精神。还记得为了这门课，为了节省时间，决定上课看书，录好课程下课听，中午上课前，走在路上，坐在图书馆前的共享单车上，蹲在宿舍自行车场石阶上放倍速重听课程，补足笔记的时光，记得忘记带作业要回去取，却仍坚持把手机留下开好录音录课再走的执着，记得编程作业每遇到任何一个小问题，或是之后可能忘记的事项，都要拿出笔记记得清清楚楚，总结之详细，让自己复习时很受启发，记得下课后留在教室听他人问题，记得熬夜许久做出的飞机大战游戏，记得考试前起大早来到教室一口气复习八小时的坚定，记得在卷面既难又多，多数同学没有写完时，我绝不允许自己留下遗憾的尽力发挥。</p>
+<p>或许，第一学期的成功，不止来自假期的复习，成绩的获得，不止来自假期时的手写总结，复习的顺畅和效果需要建立在前期用执着和勇气搭建的根基上。若想见高楼，必要有根基。不要在往前走时，迷失了那一份敬畏。是的，这与自信无关，只有保持对自己所做事情的敬畏和执着，才有可能走一条实际的，付出的，有意义的道路，才有可能无愧于时间，人生和梦想。</p>
+<p>（果然又写远了，但在这即将启程的时刻，允许我畅想一下吧）</p>
+<h5 id="笔记总结"><a href="#笔记总结" class="headerlink" title="笔记总结"></a>笔记总结</h5><br/>
+
+<h5 id="两本指导书，见source文件夹"><a href="#两本指导书，见source文件夹" class="headerlink" title="两本指导书，见source文件夹"></a>两本指导书，见source文件夹</h5><h5 id="编程作品及大作业：飞机大战游戏（VisualStudio）"><a href="#编程作品及大作业：飞机大战游戏（VisualStudio）" class="headerlink" title="编程作品及大作业：飞机大战游戏（VisualStudio）"></a>编程作品及大作业：飞机大战游戏（VisualStudio）</h5><h5 id="习题课讲义"><a href="#习题课讲义" class="headerlink" title="习题课讲义"></a>习题课讲义</h5><a href="/2023/09/01/Computer-Science-C-language/C%E8%AF%AD%E8%A8%80%E4%B9%A0%E9%A2%98%E8%AF%BE.pdf" title="[C语言习题课.pdf]">[C语言习题课.pdf]</a><br/>
+
+<a href="/2023/09/01/Computer-Science-C-language/2022_C%E8%AF%AD%E8%A8%80%E4%B9%A0%E9%A2%98%E8%AF%BE.pdf" title="[2022_C语言习题课.pdf]">[2022_C语言习题课.pdf]</a><br/>
+
+<h5 id="考试相关"><a href="#考试相关" class="headerlink" title="考试相关"></a>考试相关</h5><a href="/2023/09/01/Computer-Science-C-language/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A12021%E5%B9%B4A%E5%8D%B7%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf" title="[计算机程序设计2021年A卷参考答案.pdf]">[计算机程序设计2021年A卷参考答案.pdf]</a>
+
+    </div>
+
+    
+    
+    
+
+    
+      <div>
+    
+        <div style="text-align:center;color: #ccc;font-size:14px;">-------------本文结束<i class="fa fa-paw"></i>感谢您的阅读-------------</div>
+    
+</div>
+    
+
+      <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/confidence/" rel="tag"><i class="fa fa-tag"></i>
+              <a href="/tags/proud/" rel="tag"><i class="fa fa-tag"></i>
+              <a href="/tags/satisfied/" rel="tag"><i class="fa fa-tag"></i>
+          </div>
+
+        
+
+
+        
+    <div class="post-nav">
+      <div class="post-nav-item">
+    <a href="/2023/09/01/Machanics-A1/" rel="prev" title="Machanics(A1)">
+      <i class="fa fa-chevron-left"></i> Machanics(A1)
+    </a></div>
+      <div class="post-nav-item">
+    <a href="/2023/09/01/Leaping-Abroad/" rel="next" title="Leaping Abroad">
+      Leaping Abroad <i class="fa fa-chevron-right"></i>
+    </a></div>
+    </div>
+      </footer>
+    
+  </article>
+  
+  
+  
+
+
+
+          </div>
+          
+
+<script>
+  window.addEventListener('tabs:register', () => {
+    let { activeClass } = CONFIG.comments;
+    if (CONFIG.comments.storage) {
+      activeClass = localStorage.getItem('comments_active') || activeClass;
+    }
+    if (activeClass) {
+      let activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      if (activeTab) {
+        activeTab.click();
+      }
+    }
+  });
+  if (CONFIG.comments.storage) {
+    window.addEventListener('tabs:click', event => {
+      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
+      let commentClass = event.target.classList[1];
+      localStorage.setItem('comments_active', commentClass);
+    });
+  }
+</script>
+
+        </div>
+          
+  
+  <div class="toggle sidebar-toggle">
+    <span class="toggle-line toggle-line-first"></span>
+    <span class="toggle-line toggle-line-middle"></span>
+    <span class="toggle-line toggle-line-last"></span>
+  </div>
+
+  <aside class="sidebar">
+    <div class="sidebar-inner">
+
+      <ul class="sidebar-nav motion-element">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <!--noindex-->
+      <div class="post-toc-wrap sidebar-panel">
+          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-5"><a class="nav-link" href="#%E7%AC%94%E8%AE%B0%E6%80%BB%E7%BB%93"><span class="nav-number">1.</span> <span class="nav-text">笔记总结</span></a></li><li class="nav-item nav-level-5"><a class="nav-link" href="#%E4%B8%A4%E6%9C%AC%E6%8C%87%E5%AF%BC%E4%B9%A6%EF%BC%8C%E8%A7%81source%E6%96%87%E4%BB%B6%E5%A4%B9"><span class="nav-number">2.</span> <span class="nav-text">两本指导书，见source文件夹</span></a></li><li class="nav-item nav-level-5"><a class="nav-link" href="#%E7%BC%96%E7%A8%8B%E4%BD%9C%E5%93%81%E5%8F%8A%E5%A4%A7%E4%BD%9C%E4%B8%9A%EF%BC%9A%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98%E6%B8%B8%E6%88%8F%EF%BC%88VisualStudio%EF%BC%89"><span class="nav-number">3.</span> <span class="nav-text">编程作品及大作业：飞机大战游戏（VisualStudio）</span></a></li><li class="nav-item nav-level-5"><a class="nav-link" href="#%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89"><span class="nav-number">4.</span> <span class="nav-text">习题课讲义</span></a></li><li class="nav-item nav-level-5"><a class="nav-link" href="#%E8%80%83%E8%AF%95%E7%9B%B8%E5%85%B3"><span class="nav-number">5.</span> <span class="nav-text">考试相关</span></a></li></ol></div>
+      </div>
+      <!--/noindex-->
+
+      <div class="site-overview-wrap sidebar-panel">
+        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="Deline Tu"
+      src="/images/avatar.jpg">
+  <p class="site-author-name" itemprop="name">Deline Tu</p>
+  <div class="site-description" itemprop="description">Only substantial labour creates true significance</div>
+</div>
+<div class="site-state-wrap motion-element">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+          <a href="/archives/">
+        
+          <span class="site-state-item-count">26</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+            <a href="/categories/">
+          
+        <span class="site-state-item-count">12</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+            <a href="/tags/">
+          
+        <span class="site-state-item-count">14</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+
+
+
+      </div>
+
+    
+<script type="text/javascript" charset="utf-8" src="/js/tagcloud.js"></script>
+<script type="text/javascript" charset="utf-8" src="/js/tagcanvas.js"></script>
+<div class="widget-wrap">
+    <h3 class="widget-title">Tag Cloud</h3>
+    <div id="myCanvasContainer" class="widget tagcloud">
+        <canvas width="250" height="250" id="resCanvas" style="width=100%">
+            <ul class="tag-list" itemprop="keywords"><li class="tag-list-item"><a class="tag-list-link" href="/tags/confidence/" rel="tag">confidence</a><span class="tag-list-count">2</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/dream-plan/" rel="tag">dream,plan</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/dream%EF%BC%8Cplan/" rel="tag">dream，plan</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/effective-method/" rel="tag">effective method</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/endeavour/" rel="tag">endeavour</a><span class="tag-list-count">2</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/experience/" rel="tag">experience</a><span class="tag-list-count">4</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/interpersonal/" rel="tag">interpersonal</a><span class="tag-list-count">2</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/lesson/" rel="tag">lesson</a><span class="tag-list-count">2</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/model-of-myself/" rel="tag">model-of-myself</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/not-so-satisfied/" rel="tag">not-so-satisfied</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/now/" rel="tag">now</a><span class="tag-list-count">10</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/proud/" rel="tag">proud</a><span class="tag-list-count">2</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/satisfied/" rel="tag">satisfied</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/take-it-easy/" rel="tag">take it easy</a><span class="tag-list-count">1</span></li></ul>
+        </canvas>
+    </div>
+</div>
+
+
+
+    </div>
+  </aside>
+  <div id="sidebar-dimmer"></div>
+
+
+      </div>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-inner">
+        
+
+        
+
+<script async src="https://dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<div class="copyright">
+  
+  &copy; 2023 – 
+  <span itemprop="copyrightYear">2024</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">Deline Tu</span>
+</div>
+  <div class="powered-by">
+  <i class="fa fa-user-md"></i><span id="busuanzi_container_site_uv">
+  本站访客数:<span id="busuanzi_value_site_uv"></span>
+  </span>
+  </div>
+
+<!--
+  <div class="powered-by">由 <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://pisces.theme-next.org/" class="theme-link" rel="noopener" target="_blank">NexT.Pisces</a> 强力驱动
+  </div>
+-->
+
+<div class="theme-info">
+  <div class="powered-by"></div>
+  <span class="post-count">博客全站共11k字</span>
+</div>
+
+        
+
+
+
+
+
+
+
+
+      </div>
+    </footer>
+  </div>
+
+  
+  <script src="/lib/anime.min.js"></script>
+  <script src="/lib/velocity/velocity.min.js"></script>
+  <script src="/lib/velocity/velocity.ui.min.js"></script>
+
+<script src="/js/utils.js"></script>
+
+<script src="/js/motion.js"></script>
+
+
+<script src="/js/schemes/pisces.js"></script>
+
+
+<script src="/js/next-boot.js"></script>
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+</body>
+</html>
