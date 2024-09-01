@@ -37,6 +37,33 @@
       </tags>
   </entry>
   <entry>
+    <title>Computer Science(C language)</title>
+    <url>/2023/09/01/Computer-Science-C-language/</url>
+    <content><![CDATA[<p>因此课程为Blog搭建前学习，暂用于存放笔记及文件</p>
+<span id="more"></span>
+
+<p>反思与感受同《Mechanics A1》所述，甚至更甚。这门课应该是我大一上学期学得最扎实的一门课，包括大作业的完成，都做到了一个优秀的学习过程该有的一切，但这却并不来自循规蹈矩的努力或课外资料的收集，而是来自谦虚平和，好学认真，不愿放过细节，不断探索方法的精神。还记得为了这门课，为了节省时间，决定上课看书，录好课程下课听，中午上课前，走在路上，坐在图书馆前的共享单车上，蹲在宿舍自行车场石阶上放倍速重听课程，补足笔记的时光，记得忘记带作业要回去取，却仍坚持把手机留下开好录音录课再走的执着，记得编程作业每遇到任何一个小问题，或是之后可能忘记的事项，都要拿出笔记记得清清楚楚，总结之详细，让自己复习时很受启发，记得下课后留在教室听他人问题，记得熬夜许久做出的飞机大战游戏，记得考试前起大早来到教室一口气复习八小时的坚定，记得在卷面既难又多，多数同学没有写完时，我绝不允许自己留下遗憾的尽力发挥。</p>
+<p>或许，第一学期的成功，不止来自假期的复习，成绩的获得，不止来自假期时的手写总结，复习的顺畅和效果需要建立在前期用执着和勇气搭建的根基上。若想见高楼，必要有根基。不要在往前走时，迷失了那一份敬畏。是的，这与自信无关，只有保持对自己所做事情的敬畏和执着，才有可能走一条实际的，付出的，有意义的道路，才有可能无愧于时间，人生和梦想。</p>
+<p>（果然又写远了，但在这即将启程的时刻，允许我畅想一下吧）</p>
+<h5 id="笔记总结"><a href="#笔记总结" class="headerlink" title="笔记总结"></a>笔记总结</h5><br/>
+
+<h5 id="两本指导书，见source文件夹"><a href="#两本指导书，见source文件夹" class="headerlink" title="两本指导书，见source文件夹"></a>两本指导书，见source文件夹</h5><h5 id="编程作品及大作业：飞机大战游戏（VisualStudio）"><a href="#编程作品及大作业：飞机大战游戏（VisualStudio）" class="headerlink" title="编程作品及大作业：飞机大战游戏（VisualStudio）"></a>编程作品及大作业：飞机大战游戏（VisualStudio）</h5><h5 id="习题课讲义"><a href="#习题课讲义" class="headerlink" title="习题课讲义"></a>习题课讲义</h5><a href="/2023/09/01/Computer-Science-C-language/C%E8%AF%AD%E8%A8%80%E4%B9%A0%E9%A2%98%E8%AF%BE.pdf" title="[C语言习题课.pdf]">[C语言习题课.pdf]</a><br/>
+
+<a href="/2023/09/01/Computer-Science-C-language/2022_C%E8%AF%AD%E8%A8%80%E4%B9%A0%E9%A2%98%E8%AF%BE.pdf" title="[2022_C语言习题课.pdf]">[2022_C语言习题课.pdf]</a><br/>
+
+<h5 id="考试相关"><a href="#考试相关" class="headerlink" title="考试相关"></a>考试相关</h5><a href="/2023/09/01/Computer-Science-C-language/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A12021%E5%B9%B4A%E5%8D%B7%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf" title="[计算机程序设计2021年A卷参考答案.pdf]">[计算机程序设计2021年A卷参考答案.pdf]</a>
+]]></content>
+      <categories>
+        <category>study</category>
+        <category>computer system</category>
+      </categories>
+      <tags>
+        <tag>confidence</tag>
+        <tag>proud</tag>
+        <tag>satisfied</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Daily Documentary</title>
     <url>/2023/09/03/Daily-Documentary/</url>
     <content><![CDATA[<p>本博客是为记录日常工作与生活。</p>
@@ -96,6 +123,11 @@
       <tags>
         <tag>health,care</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Linear Algebra</title>
+    <url>/2023/09/01/Linear-Algebra/</url>
+    <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>Leaping Abroad</title>
@@ -167,11 +199,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Linear Algebra</title>
-    <url>/2023/09/01/Linear-Algebra/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
     <title>Machanics(A1)</title>
     <url>/2023/09/01/Machanics-A1/</url>
     <content><![CDATA[<p>因此课程为Blog搭建前学习，暂用于存放笔记及文件</p>
@@ -222,6 +249,11 @@
         <tag>endeavour</tag>
         <tag>model-of-myself</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Mathematical Analysis(B2)</title>
+    <url>/2023/09/01/Mathematical-Analysis-B2/</url>
+    <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>Mathematical Analysis(B1)</title>
@@ -275,35 +307,8 @@
         <category>math</category>
       </categories>
       <tags>
-        <tag>proud</tag>
         <tag>confidence</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Computer Science(C language)</title>
-    <url>/2023/09/01/Computer-Science-C-language/</url>
-    <content><![CDATA[<p>因此课程为Blog搭建前学习，暂用于存放笔记及文件</p>
-<span id="more"></span>
-
-<p>反思与感受同《Mechanics A1》所述，甚至更甚。这门课应该是我大一上学期学得最扎实的一门课，包括大作业的完成，都做到了一个优秀的学习过程该有的一切，但这却并不来自循规蹈矩的努力或课外资料的收集，而是来自谦虚平和，好学认真，不愿放过细节，不断探索方法的精神。还记得为了这门课，为了节省时间，决定上课看书，录好课程下课听，中午上课前，走在路上，坐在图书馆前的共享单车上，蹲在宿舍自行车场石阶上放倍速重听课程，补足笔记的时光，记得忘记带作业要回去取，却仍坚持把手机留下开好录音录课再走的执着，记得编程作业每遇到任何一个小问题，或是之后可能忘记的事项，都要拿出笔记记得清清楚楚，总结之详细，让自己复习时很受启发，记得下课后留在教室听他人问题，记得熬夜许久做出的飞机大战游戏，记得考试前起大早来到教室一口气复习八小时的坚定，记得在卷面既难又多，多数同学没有写完时，我绝不允许自己留下遗憾的尽力发挥。</p>
-<p>或许，第一学期的成功，不止来自假期的复习，成绩的获得，不止来自假期时的手写总结，复习的顺畅和效果需要建立在前期用执着和勇气搭建的根基上。若想见高楼，必要有根基。不要在往前走时，迷失了那一份敬畏。是的，这与自信无关，只有保持对自己所做事情的敬畏和执着，才有可能走一条实际的，付出的，有意义的道路，才有可能无愧于时间，人生和梦想。</p>
-<p>（果然又写远了，但在这即将启程的时刻，允许我畅想一下吧）</p>
-<h5 id="笔记总结"><a href="#笔记总结" class="headerlink" title="笔记总结"></a>笔记总结</h5><br/>
-
-<h5 id="两本指导书，见source文件夹"><a href="#两本指导书，见source文件夹" class="headerlink" title="两本指导书，见source文件夹"></a>两本指导书，见source文件夹</h5><h5 id="编程作品及大作业：飞机大战游戏（VisualStudio）"><a href="#编程作品及大作业：飞机大战游戏（VisualStudio）" class="headerlink" title="编程作品及大作业：飞机大战游戏（VisualStudio）"></a>编程作品及大作业：飞机大战游戏（VisualStudio）</h5><h5 id="习题课讲义"><a href="#习题课讲义" class="headerlink" title="习题课讲义"></a>习题课讲义</h5><a href="/2023/09/01/Computer-Science-C-language/C%E8%AF%AD%E8%A8%80%E4%B9%A0%E9%A2%98%E8%AF%BE.pdf" title="[C语言习题课.pdf]">[C语言习题课.pdf]</a><br/>
-
-<a href="/2023/09/01/Computer-Science-C-language/2022_C%E8%AF%AD%E8%A8%80%E4%B9%A0%E9%A2%98%E8%AF%BE.pdf" title="[2022_C语言习题课.pdf]">[2022_C语言习题课.pdf]</a><br/>
-
-<h5 id="考试相关"><a href="#考试相关" class="headerlink" title="考试相关"></a>考试相关</h5><a href="/2023/09/01/Computer-Science-C-language/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A12021%E5%B9%B4A%E5%8D%B7%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf" title="[计算机程序设计2021年A卷参考答案.pdf]">[计算机程序设计2021年A卷参考答案.pdf]</a>
-]]></content>
-      <categories>
-        <category>study</category>
-        <category>computer system</category>
-      </categories>
-      <tags>
         <tag>proud</tag>
-        <tag>confidence</tag>
-        <tag>satisfied</tag>
       </tags>
   </entry>
   <entry>
@@ -395,11 +400,6 @@
         <tag>endeavour</tag>
         <tag>effective method</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>Mathematical Analysis(B2)</title>
-    <url>/2023/09/01/Mathematical-Analysis-B2/</url>
-    <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>Probability Theory and Mathematical Statistics</title>
@@ -632,70 +632,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Weekly Physical Experiment</title>
-    <url>/2023/09/01/Weekly-Physical-Experiment/</url>
-    <content><![CDATA[<p>以下为大物实验的实验报告及感悟</p>
-<span id="more"></span>
-
-<h5 id="学习记录"><a href="#学习记录" class="headerlink" title="学习记录"></a>学习记录</h5><p>二级出分3.7，反而下调。可能出入门测晚做和晚交报告会对分数有影响，注意一下。</p>
-<h5 id="有关信息总结"><a href="#有关信息总结" class="headerlink" title="有关信息总结"></a>有关信息总结</h5><br/>
-
-<br/>
-
-<br/>
-
-<a href="/2023/09/01/Weekly-Physical-Experiment/%E4%B8%8D%E7%A1%AE%E5%AE%9A%E5%BA%A6%E5%88%86%E6%9E%90%E7%90%86%E8%AE%BA.pdf" title="[不确定度分析理论.pdf]">[不确定度分析理论.pdf]</a><br/>
-
-<br/>
-
-<a href="/2023/09/01/Weekly-Physical-Experiment/%E5%A4%A7%E7%89%A9%E7%BB%AA%E8%AE%BAppt.pdf" title="[大物绪论ppt.pdf]">[大物绪论ppt.pdf]</a><br/>
-
-<a href="/2023/09/01/Weekly-Physical-Experiment/%E5%A4%A7%E9%9B%BE%E5%AE%9E%E9%AA%8C%E4%B8%8D%E5%AE%8C%E5%85%A8%E6%8C%87%E5%8C%97%EF%BC%88%E8%AF%95%E8%AF%BB%E7%89%88%EF%BC%89.pdf" title="[大雾实验不完全指北（试读版）.pdf]">[大雾实验不完全指北（试读版）.pdf]</a><br/>
-
-<br/>
-
-<h5 id="实验报告"><a href="#实验报告" class="headerlink" title="实验报告"></a>实验报告</h5><br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-
-
-]]></content>
-      <categories>
-        <category>study</category>
-        <category>physics</category>
-      </categories>
-      <tags>
-        <tag>experience</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Volunteering</title>
-    <url>/2024/03/10/Volunteering/</url>
-    <content><![CDATA[<p>以下为社会实践与志愿活动参与记录，加油！</p>
-<span id="more"></span>
-
-<p>60h 100h,分别有一，二级志愿星级证书（现38h），这学期集满</p>
-<p>参加一次周日特教，之后可去写社会实践</p>
-]]></content>
-      <categories>
-        <category>activity</category>
-        <category>volunteer</category>
-      </categories>
-  </entry>
-  <entry>
     <title>Thermodynamics and Mathematical Statistics</title>
     <url>/2024/03/02/Thermodynamics-and-Mathematical-Statistics/</url>
     <content><![CDATA[<p>以下为热力学与统计物理本学期学习记录，加油！</p>
@@ -780,17 +716,30 @@
       </tags>
   </entry>
   <entry>
-    <title>Works as League Secretary</title>
-    <url>/2023/09/03/Works-as-League-Secretary/</url>
-    <content><![CDATA[<p>以下为团支书工作经验记录</p>
+    <title>Weekly Physical Experiment</title>
+    <url>/2023/09/01/Weekly-Physical-Experiment/</url>
+    <content><![CDATA[<p>以下为大物实验的记录和实验报告</p>
 <span id="more"></span>
 
-<p>由于政治觉悟较高（在留学准备的关键时期以及下学期选到奇葩马原老师的情况下，还是要尽量让这方面的状态减轻一些），以及上学期因为成绩相对自负和端架子的表现（个人认为，其实多数是因为社恐，以及在大环境下不愿露怯，今后要更加放松和专注于自己的目标才行），在团支书转院的情况下被委以重任，目前不知是福是祸。</p>
-<p>开学前几天来看，似乎不算轻松，除了入团大会还有团务培训。</p>
-<p>重要的是，我希望借此锻炼的是多线处理事情，学会在不必要无意义的事情上学会取舍，以及减轻沟通包袱的能力，可不是来加重无用且已经足够多的责任心的，祝自己能收获到想要的吧。</p>
-<h5 id="Tips"><a href="#Tips" class="headerlink" title="Tips"></a>Tips</h5><p>1.有任何事情先问再做，不要自认为自己思考到了不用问，反而别人觉得不被尊重，把握好度，不要做吃力不讨好的事</p>
-<h5 id="wht老师讲义，见未解散的QQ群。"><a href="#wht老师讲义，见未解散的QQ群。" class="headerlink" title="wht老师讲义，见未解散的QQ群。"></a>wht老师讲义，见未解散的QQ群。</h5><h5 id="部分参考答案-笔记"><a href="#部分参考答案-笔记" class="headerlink" title="部分参考答案+笔记"></a>部分参考答案+笔记</h5><br/>
+<h5 id="学习记录"><a href="#学习记录" class="headerlink" title="学习记录"></a>学习记录</h5><p>二级出分3.7，反而下调。可能出入门测晚做会对分数有影响，注意一下。</p>
+<p>最终4，3.7，4结束大物，不错。与预习充分和报告完善有关。</p>
+<h5 id="有关信息总结"><a href="#有关信息总结" class="headerlink" title="有关信息总结"></a>有关信息总结</h5><br/>
 
+<br/>
+
+<a href="/2023/09/01/Weekly-Physical-Experiment/%E4%B8%8D%E7%A1%AE%E5%AE%9A%E5%BA%A6%E5%88%86%E6%9E%90%E7%90%86%E8%AE%BA_%E8%82%96.pdf" title="[不确定度分析理论_肖.pdf]">[不确定度分析理论_肖.pdf]</a><br/>
+
+<a href="/2023/09/01/Weekly-Physical-Experiment/%E4%B8%8D%E7%A1%AE%E5%AE%9A%E5%BA%A6%E5%88%86%E6%9E%90%E7%90%86%E8%AE%BA.pdf" title="[不确定度分析理论.pdf]">[不确定度分析理论.pdf]</a><br/>
+
+<br/>
+
+<a href="/2023/09/01/Weekly-Physical-Experiment/%E5%A4%A7%E7%89%A9%E7%BB%AA%E8%AE%BAppt.pdf" title="[大物绪论ppt.pdf]">[大物绪论ppt.pdf]</a><br/>
+
+<a href="/2023/09/01/Weekly-Physical-Experiment/%E5%A4%A7%E9%9B%BE%E5%AE%9E%E9%AA%8C%E4%B8%8D%E5%AE%8C%E5%85%A8%E6%8C%87%E5%8C%97(%E8%AF%95%E8%AF%BB%E7%89%88).pdf" title="[大雾实验不完全指北(试读版).pdf]">[大雾实验不完全指北(试读版).pdf]</a><br/>
+
+<br/>
+
+<h5 id="实验报告"><a href="#实验报告" class="headerlink" title="实验报告"></a>实验报告</h5><p>防抄袭，在校期间勿上传</p>
 <br/>
 
 <br/>
@@ -807,17 +756,30 @@
 
 <br/>
 
-<br/>
+
 
 ]]></content>
       <categories>
-        <category>work</category>
+        <category>study</category>
+        <category>physics</category>
       </categories>
       <tags>
         <tag>experience</tag>
-        <tag>take it easy</tag>
-        <tag>interpersonal</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Volunteering</title>
+    <url>/2024/03/10/Volunteering/</url>
+    <content><![CDATA[<p>以下为社会实践与志愿活动参与记录，加油！</p>
+<span id="more"></span>
+
+<p>60h 100h,分别有一，二级志愿星级证书（现38h），这学期集满</p>
+<p>参加一次周日特教，之后可去写社会实践</p>
+]]></content>
+      <categories>
+        <category>activity</category>
+        <category>volunteer</category>
+      </categories>
   </entry>
   <entry>
     <title>Words for myself</title>
@@ -867,6 +829,60 @@
         <tag>interpersonal</tag>
         <tag>dream，plan</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Works as League Secretary</title>
+    <url>/2023/09/03/Works-as-League-Secretary/</url>
+    <content><![CDATA[<p>以下为团支书工作经验记录</p>
+<span id="more"></span>
+
+<p>由于政治觉悟较高（在留学准备的关键时期以及下学期选到奇葩马原老师的情况下，还是要尽量让这方面的状态减轻一些），以及上学期因为成绩相对自负和端架子的表现（个人认为，其实多数是因为社恐，以及在大环境下不愿露怯，今后要更加放松和专注于自己的目标才行），在团支书转院的情况下被委以重任，目前不知是福是祸。</p>
+<p>开学前几天来看，似乎不算轻松，除了入团大会还有团务培训。</p>
+<p>重要的是，我希望借此锻炼的是多线处理事情，学会在不必要无意义的事情上学会取舍，以及减轻沟通包袱的能力，可不是来加重无用且已经足够多的责任心的，祝自己能收获到想要的吧。</p>
+<h5 id="Tips"><a href="#Tips" class="headerlink" title="Tips"></a>Tips</h5><p>1.有任何事情先问再做，不要自认为自己思考到了不用问，反而别人觉得不被尊重，把握好度，不要做吃力不讨好的事</p>
+<h5 id="wht老师讲义，见未解散的QQ群。"><a href="#wht老师讲义，见未解散的QQ群。" class="headerlink" title="wht老师讲义，见未解散的QQ群。"></a>wht老师讲义，见未解散的QQ群。</h5><h5 id="部分参考答案-笔记"><a href="#部分参考答案-笔记" class="headerlink" title="部分参考答案+笔记"></a>部分参考答案+笔记</h5><br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+]]></content>
+      <categories>
+        <category>work</category>
+      </categories>
+      <tags>
+        <tag>experience</tag>
+        <tag>interpersonal</tag>
+        <tag>take it easy</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Works in Casimir Lab</title>
+    <url>/2023/09/01/Works-in-Casimir-Lab/</url>
+    <content><![CDATA[<p>以下为实验相关感想记录，加油！</p>
+<span id="more"></span>
+
+<h5 id="学习记录"><a href="#学习记录" class="headerlink" title="学习记录"></a>学习记录</h5><p>以统计方法学习为重，生物相关多问即可，不必自学</p>
+<p>现在在光学方面希望多做一些科研，后续做应用</p>
+]]></content>
+      <categories>
+        <category>work</category>
+        <category>lab</category>
+      </categories>
   </entry>
   <entry>
     <title>atomic physics</title>
@@ -940,20 +956,6 @@
       <categories>
         <category>study</category>
         <category>physics</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>Works in Casimir Lab</title>
-    <url>/2023/09/01/Works-in-Casimir-Lab/</url>
-    <content><![CDATA[<p>以下为实验相关感想记录，加油！</p>
-<span id="more"></span>
-
-<h5 id="学习记录"><a href="#学习记录" class="headerlink" title="学习记录"></a>学习记录</h5><p>以统计方法学习为重，生物相关多问即可，不必自学</p>
-<p>现在在光学方面希望多做一些科研，后续做应用</p>
-]]></content>
-      <categories>
-        <category>work</category>
-        <category>lab</category>
       </categories>
   </entry>
   <entry>
@@ -1150,7 +1152,7 @@
 <p>ustc-guest 每周更新一次密码</p>
 <p>2024.2.23  107196</p>
 <p>LENOVO时代：</p>
-<p>密钥：tuhua@Hua_Tu MINGW64 &#x2F;e&#x2F;BlogBlog<br>$ cat ~&#x2F;.ssh&#x2F;id_rsa.pub<br>ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCgg9dGcj4pFDQ4phI9efca2&#x2F;276EG2Jl3zF7mankvutYWa7ry8jFrLUgYTUApPtPOdlSxftOKaGrIl&#x2F;2TPb2kJ6RHGTakgk7tACvqr&#x2F;Y+j64lhGBaJzHpboUTHjLoRe7eftDwWKz7engusfNN3ky+l&#x2F;4gMlVRLyVEzDxzO9nUB7J1uyiPhsLGmXZW2Kla&#x2F;vrYs0NlAd3g2j3qrHok2FVds85bA38omLJO9N&#x2F;D&#x2F;eA1nm3QZg9s6ituiTW+J2PZ66EuWX0kVL6xTKlmbWceXwNHkxUoDAAhFj9A&#x2F;&#x2F;rDJnZ7Y72xLvsixRQfOt&#x2F;D8S7Qc5Vvkse9jVWPK3qL5xvsHzJf0HT0f7O3oOrlUvDlyPv5dRI2c4nX3ZIW0gjqKVLz2lQ8fxWFxQrDgePKEYYBrQIy60tciEMpWB5x37lSXOUA80OvWqtsDWTmBbU53gsG5d0d3Ve7JPDBS9qxMoBZx&#x2F;gJ7dJHc93Zx7ZJAOaTDx3K1pqA+NKox9siVsYUr8i1WNvM&#x3D; <a href="mailto:&#x69;&#x6d;&#95;&#x74;&#x75;&#104;&#117;&#97;&#x40;&#x6d;&#97;&#105;&#108;&#x2e;&#117;&#115;&#116;&#x63;&#x2e;&#x65;&#100;&#117;&#46;&#99;&#x6e;">&#x69;&#x6d;&#95;&#x74;&#x75;&#104;&#117;&#97;&#x40;&#x6d;&#97;&#105;&#108;&#x2e;&#117;&#115;&#116;&#x63;&#x2e;&#x65;&#100;&#117;&#46;&#99;&#x6e;</a></p>
+<p>密钥：tuhua@Hua_Tu MINGW64 &#x2F;e&#x2F;BlogBlog<br>$ cat ~&#x2F;.ssh&#x2F;id_rsa.pub<br>ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCgg9dGcj4pFDQ4phI9efca2&#x2F;276EG2Jl3zF7mankvutYWa7ry8jFrLUgYTUApPtPOdlSxftOKaGrIl&#x2F;2TPb2kJ6RHGTakgk7tACvqr&#x2F;Y+j64lhGBaJzHpboUTHjLoRe7eftDwWKz7engusfNN3ky+l&#x2F;4gMlVRLyVEzDxzO9nUB7J1uyiPhsLGmXZW2Kla&#x2F;vrYs0NlAd3g2j3qrHok2FVds85bA38omLJO9N&#x2F;D&#x2F;eA1nm3QZg9s6ituiTW+J2PZ66EuWX0kVL6xTKlmbWceXwNHkxUoDAAhFj9A&#x2F;&#x2F;rDJnZ7Y72xLvsixRQfOt&#x2F;D8S7Qc5Vvkse9jVWPK3qL5xvsHzJf0HT0f7O3oOrlUvDlyPv5dRI2c4nX3ZIW0gjqKVLz2lQ8fxWFxQrDgePKEYYBrQIy60tciEMpWB5x37lSXOUA80OvWqtsDWTmBbU53gsG5d0d3Ve7JPDBS9qxMoBZx&#x2F;gJ7dJHc93Zx7ZJAOaTDx3K1pqA+NKox9siVsYUr8i1WNvM&#x3D; <a href="mailto:&#105;&#109;&#x5f;&#x74;&#x75;&#104;&#117;&#97;&#x40;&#109;&#x61;&#105;&#108;&#46;&#x75;&#x73;&#116;&#x63;&#x2e;&#x65;&#100;&#x75;&#46;&#x63;&#110;">&#105;&#109;&#x5f;&#x74;&#x75;&#104;&#117;&#97;&#x40;&#109;&#x61;&#105;&#108;&#46;&#x75;&#x73;&#116;&#x63;&#x2e;&#x65;&#100;&#x75;&#46;&#x63;&#110;</a></p>
 ]]></content>
       <categories>
         <category>tips</category>
@@ -1158,6 +1160,157 @@
       </categories>
       <tags>
         <tag>experience</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>function of complex variable</title>
+    <url>/2023/09/01/function-of-complex-variable/</url>
+    <content><![CDATA[<p>以下为复变函数本学期学习记录，加油！</p>
+<span id="more"></span>
+
+<h5 id="假期完成："><a href="#假期完成：" class="headerlink" title="假期完成："></a>假期完成：</h5><p>看了50页书，到第三章；</p>
+<h5 id="学习记录"><a href="#学习记录" class="headerlink" title="学习记录"></a>学习记录</h5><p>10.6之前</p>
+<p>完成三周作业，PPT完成精看，第一周作业未精看，其余次完成精看；</p>
+<p>10.8计划</p>
+<p>把第四周作业完成，那一天的ppt看了</p>
+<h5 id="现有资料汇总："><a href="#现有资料汇总：" class="headerlink" title="现有资料汇总："></a>现有资料汇总：</h5><p>习题答案：严镇军答案by张舒博，9月答案</p>
+<p>教辅：史济怀书（实体）；严镇军教材勘误；波波讲义；学长笔记（内有往年卷）</p>
+<p>习题集：复变函数习题精选精解，复变函数与积分变换</p>
+<p>知识点整理</p>
+<h5 id="课程时间："><a href="#课程时间：" class="headerlink" title="课程时间："></a>课程时间：</h5><p>3，67；5，34</p>
+<h5 id="评课tips"><a href="#评课tips" class="headerlink" title="评课tips"></a>评课tips</h5><p>PPT较详尽，可跟进度自学。（提前预习PPT）</p>
+<p>有小测。（保证到课）</p>
+<h5 id="部分资料"><a href="#部分资料" class="headerlink" title="部分资料"></a>部分资料</h5><a href="/2023/09/01/function-of-complex-variable/%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86%EF%BC%88pksq%EF%BC%89.pdf" title="[知识点整理（pksq）.pdf]">[知识点整理（pksq）.pdf]</a><br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<h5 id="笔记总结"><a href="#笔记总结" class="headerlink" title="笔记总结"></a>笔记总结</h5>
+
+<h5 id="wht老师讲义，见未解散的QQ群。"><a href="#wht老师讲义，见未解散的QQ群。" class="headerlink" title="wht老师讲义，见未解散的QQ群。"></a>wht老师讲义，见未解散的QQ群。</h5><h5 id="部分参考答案-笔记"><a href="#部分参考答案-笔记" class="headerlink" title="部分参考答案+笔记"></a>部分参考答案+笔记</h5><br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+
+
+<h5 id="习题课讲义"><a href="#习题课讲义" class="headerlink" title="习题课讲义"></a>习题课讲义</h5><br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+
+
+<h5 id="考试相关，历年真题，见note-shelf"><a href="#考试相关，历年真题，见note-shelf" class="headerlink" title="考试相关，历年真题，见note shelf"></a>考试相关，历年真题，见note shelf</h5>
+]]></content>
+      <categories>
+        <category>study</category>
+        <category>math</category>
+      </categories>
+      <tags>
+        <tag>now</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>fundamentals of electronic technology</title>
+    <url>/2024/03/04/fundamentals-of-electronic-technology/</url>
+    <content><![CDATA[<p>以下为电子技术基础本学期学习记录，加油！</p>
+<span id="more"></span>
+
+<h5 id="现有资料汇总："><a href="#现有资料汇总：" class="headerlink" title="现有资料汇总："></a>现有资料汇总：</h5><p>课本，PPT</p>
+<p>习题答案：有学习指导</p>
+<p>习题集：待收集</p>
+<h5 id="评课tips"><a href="#评课tips" class="headerlink" title="评课tips"></a>评课tips</h5><p>Xmind有更详细的介绍</p>
+<p>已有交流，后续用心些，保持交流</p>
+<p>课本足够详细了</p>
+<p>后半段较难</p>
+<p>这门课中间有一段时间会觉得很难。</p>
+<p>但是熬过去后会发现作业和考试很简单。</p>
+<p>只需看老师讲的内容，讲什么考什么，课本用来理解</p>
+<p>作业较多，一定自己完成再对答案，留出较多作业时间</p>
+<p>重视作业，多做几遍（尝试实施作业多遍训练）</p>
+<p>考前刷黑心书店的题目顺便过一下作业题。</p>
+<p>重视答题思路，重视查卷</p>
+<h5 id="部分资料"><a href="#部分资料" class="headerlink" title="部分资料"></a>部分资料</h5><br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<h5 id="笔记总结"><a href="#笔记总结" class="headerlink" title="笔记总结"></a>笔记总结</h5>
+
+<h5 id="wht老师讲义，见未解散的QQ群。"><a href="#wht老师讲义，见未解散的QQ群。" class="headerlink" title="wht老师讲义，见未解散的QQ群。"></a>wht老师讲义，见未解散的QQ群。</h5><h5 id="部分参考答案-笔记"><a href="#部分参考答案-笔记" class="headerlink" title="部分参考答案+笔记"></a>部分参考答案+笔记</h5><br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+
+
+<h5 id="习题课讲义"><a href="#习题课讲义" class="headerlink" title="习题课讲义"></a>习题课讲义</h5><br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+
+
+<h5 id="考试相关，历年真题，见note-shelf"><a href="#考试相关，历年真题，见note-shelf" class="headerlink" title="考试相关，历年真题，见note shelf"></a>考试相关，历年真题，见note shelf</h5>]]></content>
+      <categories>
+        <category>study</category>
+        <category>physics</category>
+      </categories>
+      <tags>
+        <tag>now</tag>
       </tags>
   </entry>
   <entry>
@@ -1247,157 +1400,6 @@
         <tag>not-so-satisfied</tag>
         <tag>lesson</tag>
         <tag>effective method</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>fundamentals of electronic technology</title>
-    <url>/2024/03/04/fundamentals-of-electronic-technology/</url>
-    <content><![CDATA[<p>以下为电子技术基础本学期学习记录，加油！</p>
-<span id="more"></span>
-
-<h5 id="现有资料汇总："><a href="#现有资料汇总：" class="headerlink" title="现有资料汇总："></a>现有资料汇总：</h5><p>课本，PPT</p>
-<p>习题答案：有学习指导</p>
-<p>习题集：待收集</p>
-<h5 id="评课tips"><a href="#评课tips" class="headerlink" title="评课tips"></a>评课tips</h5><p>Xmind有更详细的介绍</p>
-<p>已有交流，后续用心些，保持交流</p>
-<p>课本足够详细了</p>
-<p>后半段较难</p>
-<p>这门课中间有一段时间会觉得很难。</p>
-<p>但是熬过去后会发现作业和考试很简单。</p>
-<p>只需看老师讲的内容，讲什么考什么，课本用来理解</p>
-<p>作业较多，一定自己完成再对答案，留出较多作业时间</p>
-<p>重视作业，多做几遍（尝试实施作业多遍训练）</p>
-<p>考前刷黑心书店的题目顺便过一下作业题。</p>
-<p>重视答题思路，重视查卷</p>
-<h5 id="部分资料"><a href="#部分资料" class="headerlink" title="部分资料"></a>部分资料</h5><br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<h5 id="笔记总结"><a href="#笔记总结" class="headerlink" title="笔记总结"></a>笔记总结</h5>
-
-<h5 id="wht老师讲义，见未解散的QQ群。"><a href="#wht老师讲义，见未解散的QQ群。" class="headerlink" title="wht老师讲义，见未解散的QQ群。"></a>wht老师讲义，见未解散的QQ群。</h5><h5 id="部分参考答案-笔记"><a href="#部分参考答案-笔记" class="headerlink" title="部分参考答案+笔记"></a>部分参考答案+笔记</h5><br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-
-
-<h5 id="习题课讲义"><a href="#习题课讲义" class="headerlink" title="习题课讲义"></a>习题课讲义</h5><br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-
-
-<h5 id="考试相关，历年真题，见note-shelf"><a href="#考试相关，历年真题，见note-shelf" class="headerlink" title="考试相关，历年真题，见note shelf"></a>考试相关，历年真题，见note shelf</h5>]]></content>
-      <categories>
-        <category>study</category>
-        <category>physics</category>
-      </categories>
-      <tags>
-        <tag>now</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>function of complex variable</title>
-    <url>/2023/09/01/function-of-complex-variable/</url>
-    <content><![CDATA[<p>以下为复变函数本学期学习记录，加油！</p>
-<span id="more"></span>
-
-<h5 id="假期完成："><a href="#假期完成：" class="headerlink" title="假期完成："></a>假期完成：</h5><p>看了50页书，到第三章；</p>
-<h5 id="学习记录"><a href="#学习记录" class="headerlink" title="学习记录"></a>学习记录</h5><p>10.6之前</p>
-<p>完成三周作业，PPT完成精看，第一周作业未精看，其余次完成精看；</p>
-<p>10.8计划</p>
-<p>把第四周作业完成，那一天的ppt看了</p>
-<h5 id="现有资料汇总："><a href="#现有资料汇总：" class="headerlink" title="现有资料汇总："></a>现有资料汇总：</h5><p>习题答案：严镇军答案by张舒博，9月答案</p>
-<p>教辅：史济怀书（实体）；严镇军教材勘误；波波讲义；学长笔记（内有往年卷）</p>
-<p>习题集：复变函数习题精选精解，复变函数与积分变换</p>
-<p>知识点整理</p>
-<h5 id="课程时间："><a href="#课程时间：" class="headerlink" title="课程时间："></a>课程时间：</h5><p>3，67；5，34</p>
-<h5 id="评课tips"><a href="#评课tips" class="headerlink" title="评课tips"></a>评课tips</h5><p>PPT较详尽，可跟进度自学。（提前预习PPT）</p>
-<p>有小测。（保证到课）</p>
-<h5 id="部分资料"><a href="#部分资料" class="headerlink" title="部分资料"></a>部分资料</h5><a href="/2023/09/01/function-of-complex-variable/%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86%EF%BC%88pksq%EF%BC%89.pdf" title="[知识点整理（pksq）.pdf]">[知识点整理（pksq）.pdf]</a><br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<h5 id="笔记总结"><a href="#笔记总结" class="headerlink" title="笔记总结"></a>笔记总结</h5>
-
-<h5 id="wht老师讲义，见未解散的QQ群。"><a href="#wht老师讲义，见未解散的QQ群。" class="headerlink" title="wht老师讲义，见未解散的QQ群。"></a>wht老师讲义，见未解散的QQ群。</h5><h5 id="部分参考答案-笔记"><a href="#部分参考答案-笔记" class="headerlink" title="部分参考答案+笔记"></a>部分参考答案+笔记</h5><br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-
-
-<h5 id="习题课讲义"><a href="#习题课讲义" class="headerlink" title="习题课讲义"></a>习题课讲义</h5><br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-
-
-<h5 id="考试相关，历年真题，见note-shelf"><a href="#考试相关，历年真题，见note-shelf" class="headerlink" title="考试相关，历年真题，见note shelf"></a>考试相关，历年真题，见note shelf</h5>
-]]></content>
-      <categories>
-        <category>study</category>
-        <category>math</category>
-      </categories>
-      <tags>
-        <tag>now</tag>
       </tags>
   </entry>
   <entry>
