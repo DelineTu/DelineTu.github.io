@@ -1,33 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Computer Science(C language)</title>
-    <url>/2023/09/01/Computer-Science-C-language/</url>
-    <content><![CDATA[<p>因此课程为Blog搭建前学习，暂用于存放笔记及文件</p>
-<span id="more"></span>
-
-<p>反思与感受同《Mechanics A1》所述，甚至更甚。这门课应该是我大一上学期学得最扎实的一门课，包括大作业的完成，都做到了一个优秀的学习过程该有的一切，但这却并不来自循规蹈矩的努力或课外资料的收集，而是来自谦虚平和，好学认真，不愿放过细节，不断探索方法的精神。还记得为了这门课，为了节省时间，决定上课看书，录好课程下课听，中午上课前，走在路上，坐在图书馆前的共享单车上，蹲在宿舍自行车场石阶上放倍速重听课程，补足笔记的时光，记得忘记带作业要回去取，却仍坚持把手机留下开好录音录课再走的执着，记得编程作业每遇到任何一个小问题，或是之后可能忘记的事项，都要拿出笔记记得清清楚楚，总结之详细，让自己复习时很受启发，记得下课后留在教室听他人问题，记得熬夜许久做出的飞机大战游戏，记得考试前起大早来到教室一口气复习八小时的坚定，记得在卷面既难又多，多数同学没有写完时，我绝不允许自己留下遗憾的尽力发挥。</p>
-<p>或许，第一学期的成功，不止来自假期的复习，成绩的获得，不止来自假期时的手写总结，复习的顺畅和效果需要建立在前期用执着和勇气搭建的根基上。若想见高楼，必要有根基。不要在往前走时，迷失了那一份敬畏。是的，这与自信无关，只有保持对自己所做事情的敬畏和执着，才有可能走一条实际的，付出的，有意义的道路，才有可能无愧于时间，人生和梦想。</p>
-<p>（果然又写远了，但在这即将启程的时刻，允许我畅想一下吧）</p>
-<h5 id="笔记总结"><a href="#笔记总结" class="headerlink" title="笔记总结"></a>笔记总结</h5><br/>
-
-<h5 id="两本指导书，见source文件夹"><a href="#两本指导书，见source文件夹" class="headerlink" title="两本指导书，见source文件夹"></a>两本指导书，见source文件夹</h5><h5 id="编程作品及大作业：飞机大战游戏（VisualStudio）"><a href="#编程作品及大作业：飞机大战游戏（VisualStudio）" class="headerlink" title="编程作品及大作业：飞机大战游戏（VisualStudio）"></a>编程作品及大作业：飞机大战游戏（VisualStudio）</h5><h5 id="习题课讲义"><a href="#习题课讲义" class="headerlink" title="习题课讲义"></a>习题课讲义</h5><a href="/2023/09/01/Computer-Science-C-language/C%E8%AF%AD%E8%A8%80%E4%B9%A0%E9%A2%98%E8%AF%BE.pdf" title="[C语言习题课.pdf]">[C语言习题课.pdf]</a><br/>
-
-<a href="/2023/09/01/Computer-Science-C-language/2022_C%E8%AF%AD%E8%A8%80%E4%B9%A0%E9%A2%98%E8%AF%BE.pdf" title="[2022_C语言习题课.pdf]">[2022_C语言习题课.pdf]</a><br/>
-
-<h5 id="考试相关"><a href="#考试相关" class="headerlink" title="考试相关"></a>考试相关</h5><a href="/2023/09/01/Computer-Science-C-language/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A12021%E5%B9%B4A%E5%8D%B7%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf" title="[计算机程序设计2021年A卷参考答案.pdf]">[计算机程序设计2021年A卷参考答案.pdf]</a>
-]]></content>
-      <categories>
-        <category>study</category>
-        <category>computer system</category>
-      </categories>
-      <tags>
-        <tag>confidence</tag>
-        <tag>proud</tag>
-        <tag>satisfied</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Calorifics</title>
     <url>/2023/09/01/Calorifics/</url>
     <content><![CDATA[<p>因此课程为Blog搭建前学习，暂用于存放笔记及文件</p>
@@ -64,6 +37,33 @@
       </tags>
   </entry>
   <entry>
+    <title>Computer Science(C language)</title>
+    <url>/2023/09/01/Computer-Science-C-language/</url>
+    <content><![CDATA[<p>因此课程为Blog搭建前学习，暂用于存放笔记及文件</p>
+<span id="more"></span>
+
+<p>反思与感受同《Mechanics A1》所述，甚至更甚。这门课应该是我大一上学期学得最扎实的一门课，包括大作业的完成，都做到了一个优秀的学习过程该有的一切，但这却并不来自循规蹈矩的努力或课外资料的收集，而是来自谦虚平和，好学认真，不愿放过细节，不断探索方法的精神。还记得为了这门课，为了节省时间，决定上课看书，录好课程下课听，中午上课前，走在路上，坐在图书馆前的共享单车上，蹲在宿舍自行车场石阶上放倍速重听课程，补足笔记的时光，记得忘记带作业要回去取，却仍坚持把手机留下开好录音录课再走的执着，记得编程作业每遇到任何一个小问题，或是之后可能忘记的事项，都要拿出笔记记得清清楚楚，总结之详细，让自己复习时很受启发，记得下课后留在教室听他人问题，记得熬夜许久做出的飞机大战游戏，记得考试前起大早来到教室一口气复习八小时的坚定，记得在卷面既难又多，多数同学没有写完时，我绝不允许自己留下遗憾的尽力发挥。</p>
+<p>或许，第一学期的成功，不止来自假期的复习，成绩的获得，不止来自假期时的手写总结，复习的顺畅和效果需要建立在前期用执着和勇气搭建的根基上。若想见高楼，必要有根基。不要在往前走时，迷失了那一份敬畏。是的，这与自信无关，只有保持对自己所做事情的敬畏和执着，才有可能走一条实际的，付出的，有意义的道路，才有可能无愧于时间，人生和梦想。</p>
+<p>（果然又写远了，但在这即将启程的时刻，允许我畅想一下吧）</p>
+<h5 id="笔记总结"><a href="#笔记总结" class="headerlink" title="笔记总结"></a>笔记总结</h5><br/>
+
+<h5 id="两本指导书，见source文件夹"><a href="#两本指导书，见source文件夹" class="headerlink" title="两本指导书，见source文件夹"></a>两本指导书，见source文件夹</h5><h5 id="编程作品及大作业：飞机大战游戏（VisualStudio）"><a href="#编程作品及大作业：飞机大战游戏（VisualStudio）" class="headerlink" title="编程作品及大作业：飞机大战游戏（VisualStudio）"></a>编程作品及大作业：飞机大战游戏（VisualStudio）</h5><h5 id="习题课讲义"><a href="#习题课讲义" class="headerlink" title="习题课讲义"></a>习题课讲义</h5><a href="/2023/09/01/Computer-Science-C-language/C%E8%AF%AD%E8%A8%80%E4%B9%A0%E9%A2%98%E8%AF%BE.pdf" title="[C语言习题课.pdf]">[C语言习题课.pdf]</a><br/>
+
+<a href="/2023/09/01/Computer-Science-C-language/2022_C%E8%AF%AD%E8%A8%80%E4%B9%A0%E9%A2%98%E8%AF%BE.pdf" title="[2022_C语言习题课.pdf]">[2022_C语言习题课.pdf]</a><br/>
+
+<h5 id="考试相关"><a href="#考试相关" class="headerlink" title="考试相关"></a>考试相关</h5><a href="/2023/09/01/Computer-Science-C-language/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A12021%E5%B9%B4A%E5%8D%B7%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf" title="[计算机程序设计2021年A卷参考答案.pdf]">[计算机程序设计2021年A卷参考答案.pdf]</a>
+]]></content>
+      <categories>
+        <category>study</category>
+        <category>computer system</category>
+      </categories>
+      <tags>
+        <tag>confidence</tag>
+        <tag>proud</tag>
+        <tag>satisfied</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Daily Documentary</title>
     <url>/2023/09/03/Daily-Documentary/</url>
     <content><![CDATA[<p>本博客是为记录日常工作与生活。</p>
@@ -75,6 +75,26 @@
 <p>按顺序每日完善一个文章</p>
 <p>2024&#x2F;8&#x2F;23</p>
 <p><u>TOEFL练习计划</u>：</p>
+<p>2024&#x2F;8&#x2F;26</p>
+<p><u>2024大学生数学竞赛</u>：</p>
+<p>已报名，争取一等奖，得二课智学时（）最多50，或换学分</p>
+<p>记得11&#x2F;9考试</p>
+<p>2024&#x2F;8&#x2F;29</p>
+<p>关于学分认定</p>
+<p>竞赛学分认定：有希望的有全国大学生数学竞赛，省赛&#x2F;决赛（国赛）一二三等奖，省赛两学分，国赛四学分；挑战杯三等奖，不一定可以，因为事实上此赛事有特等奖，可以试试；“国才杯”全国英语演讲、写作、阅读大赛 可以试试。</p>
+<p>另外，在勾选时似乎不同类竞赛可以只4个算gpa，其他二等级，也就是不止得4学分，可以参照大雾群张dm同学的消息</p>
+<p>科研实践学分认定：大研大创暑研似乎相互覆盖，且全部自动平均算为4学分gpa，已咨询教秘，待补充。</p>
+<p>如大创不保准，可以延期一年，大四出成绩。</p>
+<p>策略为不保险的留到大四再申报。</p>
+<p>Tips：</p>
+<p>记得关注班长团支书群通知，例如申报等事项。班干部劳学时申报别忘了。</p>
+<p>2024&#x2F;9&#x2F;1</p>
+<p>24fall选课考察</p>
+<p>9.2：上午1102数电赵雷，下午2421量力</p>
+<p>9.3：上午1101数电&#x2F;2106计算物理B，下午8，9，10，1301，魏逸丰计算物理B</p>
+<p>9.4：早八英语，5505；量力；下午5503，计算方法</p>
+<p>9.5：早八英语2204；张志勇，1302计算物理&#x2F;1201计算物理A</p>
+<p>9.6：早八计算方法；量力；</p>
 ]]></content>
       <categories>
         <category>Daily-Life</category>
@@ -104,6 +124,75 @@
     <title>Linear Algebra</title>
     <url>/2023/09/01/Linear-Algebra/</url>
     <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>Leaping Abroad</title>
+    <url>/2023/09/01/Leaping-Abroad/</url>
+    <content><![CDATA[<p>本博客是为记录计划出国留学的历程与资料。</p>
+<span id="more"></span>
+
+<p>2024.3-2024.6or9学习托福</p>
+<p>后考试</p>
+<p>大二下学期可先申请暑研，尝试套磁+面试 OK</p>
+<p>大二夏or大三上下学期各选一学分英语</p>
+<p>大三开学再考TOEFL</p>
+<p>之后寒研&#x2F;暑研申请+PHD申请</p>
+<h5 id="Tips"><a href="#Tips" class="headerlink" title="Tips"></a>Tips</h5><p>填写资料，基本事务一定要早做准备！早做准备！多打磨！重点在于计划和时间的安排，行动力！这种事情去赶ddl，最后的损失不是你轻易能挽回的！</p>
+<p>光学通信&#x2F;成像</p>
+<h5 id="学长讲座资料"><a href="#学长讲座资料" class="headerlink" title="学长讲座资料"></a>学长讲座资料</h5><a href="/2023/09/01/Leaping-Abroad/%E5%87%BA%E5%9B%BD%E7%95%99%E5%AD%A6%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB_%E6%89%BE%E5%AF%BC%E5%B8%8820230130.pdf" title="[出国留学经验分享_找导师20230130.pdf]">[出国留学经验分享_找导师20230130.pdf]</a>
+
+<h5 id="方向"><a href="#方向" class="headerlink" title="方向"></a>方向</h5><p>可以关注一下太赫兹技术，基础科学与军事国防。</p>
+<p>任何行业都要综合起来看，像3c自动化行业的精密量测，可以去上市公司做视觉工程师，学一些opencv，halcon，sharlock之类的算法软件，加上一些打光方案，还是比较吃香的，做个tpm以后转管理。不过呢，制造业大多是乙方，在现场比较累。尽量去大厂的内部自研单位（华为2012，碧桂园等等），或者光学设备大厂商（dalsa，基恩士等等），轻松，钱多，少挨骂（相对的）。以后再找机会接接小厂商的视觉方案外包生意，或者自己找人合伙，光是生产光源往外卖卖都有的赚。</p>
+<p>据我所知，华为、oppo、vivo、大疆的光学工程师年薪可以达到50万，一些光学博士可以达到年薪100万。当前，消费级光学产品的研发中国刚刚起步，光学工程师的需求和待遇大幅上升。以往消费级光学产品都是找日本或则台湾供应商，两年前光学工程师的需求比现在少太多了，现在几家大企业都开始这方面的研发，相信中国的光学产业会快速进步，光学工程师的待遇也会提高。</p>
+<p>作者：再见理想<br>链接：<a href="https://www.zhihu.com/question/358860755/answer/929193441">https://www.zhihu.com/question/358860755/answer/929193441</a><br>来源：知乎<br>著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。</p>
+<p>作者：知乎用户<br>链接：<a href="https://www.zhihu.com/question/358860755/answer/3288306035">https://www.zhihu.com/question/358860755/answer/3288306035</a><br>来源：知乎<br>著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。</p>
+<p>年薪五十万真的很轻松。</p>
+<p><strong>学术界：</strong>国内土博士，在大佬组里留下，上三青，学校年薪会给到40+，加上项目经费，评审费等，一年上100都有可能。或者国外海龟，多发一点大子刊，海优回来，跟前面一样的待遇。</p>
+<p><strong>工业界：</strong>不要跟着老师搞科，科研基本与产业脱节，多去求职网站上看招聘要求。举个例子看苹果的招聘</p>
+<p><strong><a href="https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">苹果</a>的<a href="https://www.zhihu.com/search?q=%E5%85%89%E5%AD%A6%E5%B7%A5%E7%A8%8B%E5%B8%88&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">光学工程师</a>要求（</strong>$167,000 - $230,000 a year，工作地加州<strong>）：</strong></p>
+<ul>
+<li>对<a href="https://www.zhihu.com/search?q=%E6%88%90%E5%83%8F%E5%85%89%E5%AD%A6&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">成像光学</a>系统设计、建模和性能量化有透彻的理解和经验。</li>
+<li>熟练掌握一种或多种<a href="https://www.zhihu.com/search?q=%E6%88%90%E5%83%8F%E5%85%89%E5%AD%A6%E5%85%89%E5%AD%A6&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">成像光学光学</a>建模工具，例如<a href="https://www.zhihu.com/search?q=Zemax&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3288306035%7D">Zemax</a>、LightTools等；</li>
+<li>学习速度快，在成像光学、<a href="https://www.zhihu.com/search?q=%E6%88%90%E5%83%8F%E4%BC%A0%E6%84%9F%E5%99%A8&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">成像传感器</a>、照明和<a href="https://www.zhihu.com/search?q=%E5%85%89%E6%9C%BA%E6%A2%B0&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">光机械</a>方面拥有经过验证的基础；</li>
+<li>强大的<a href="https://www.zhihu.com/search?q=%E5%88%86%E6%9E%90%E6%A8%A1%E5%9E%8B&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">分析模型</a>构建和问题解决能力；</li>
+<li>强大的<a href="https://www.zhihu.com/search?q=%E5%AE%9A%E9%87%8F%E6%95%B0%E6%8D%AE&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">定量数据</a>分析能力，使用JMP、<a href="https://www.zhihu.com/search?q=Matlab&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3288306035%7D">Matlab</a>或同等工具；</li>
+<li>能够在一系列技术主题领域与广泛的合作伙伴（包括管理层、同行和<a href="https://www.zhihu.com/search?q=%E4%BE%9B%E5%BA%94%E5%95%86&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">供应商</a>）进行清晰有效的沟通；</li>
+<li>有以下领域经验者优先：OCT、<a href="https://www.zhihu.com/search?q=LIDAR&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3288306035%7D">LIDAR</a>、<a href="https://www.zhihu.com/search?q=%E6%98%BE%E5%BE%AE%E9%95%9C&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">显微镜</a>、AR&#x2F;VR 显示、<a href="https://www.zhihu.com/search?q=%E6%B3%A2%E5%89%8D%E8%AE%A1%E9%87%8F&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">波前计量</a>和光学光栅。</li>
+</ul>
+<p><strong>极米科技对光学工程师的要求工作技能要求（</strong>25-50K&#x2F;月，工作地成都<strong>）：</strong></p>
+<ul>
+<li>岗位职责： 1.负责镜头光学设计包括：解析度、调焦、变焦、杂散光、鬼影等； 2.配合结构工程师进行量产开发，解决设计问题并提升产出良率与效率； 3.参与&#x2F;负责<a href="https://www.zhihu.com/search?q=%E5%85%89%E5%AD%A6%E5%85%83%E4%BB%B6&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3288306035%7D">光学元件</a>规格指定与检验数据判定； 4.负责光学系统专利开发； 5.负责非球面镜片量测数据判定与分析； 6.参与光学品质判定与规格建立。  </li>
+<li>任职要求： 1.几何光学或相关镜头设计课程； 2.熟练使用 <a href="https://www.zhihu.com/search?q=ZEMAX&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3288306035%7D">ZEMAX</a> &#x2F; CodeV &#x2F; Lighttools； 3.具备解读结构件2D图纸与公差判断能力； 4.具备基本镜片组装与检验能力； 5.熟悉光学镜片加工限制与量产性评估； 5.有相关领域6年设计与量产经验; 6.动手能力强，具有强烈的责任心和团队合作精神，具有良好的沟通和较强的学习能力。</li>
+</ul>
+<p>要做这行，你需要在以下几个方面做准备。</p>
+<p><strong>1. 基础光学知识：</strong></p>
+<p><a href="https://www.zhihu.com/search?q=%E5%85%89%E5%AD%A6%E5%8E%9F%E7%90%86&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">光学原理</a>和公式，如透镜成像、<a href="https://www.zhihu.com/search?q=%E5%85%89%E7%9A%84%E5%B9%B2%E6%B6%89%E5%92%8C%E8%A1%8D%E5%B0%84&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">光的干涉和衍射</a>等。</p>
+<p>了解各种光学元件的工作原理和应用，如透镜、镜片、<a href="https://www.zhihu.com/search?q=%E5%88%86%E6%9D%9F%E5%99%A8&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">分束器</a>、<a href="https://www.zhihu.com/search?q=%E6%B3%A2%E7%89%87&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3288306035%7D">波片</a>、偏振器等。</p>
+<p><strong>2. <a href="https://www.zhihu.com/search?q=%E5%85%89%E5%AD%A6%E8%AE%BE%E8%AE%A1&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3288306035%7D">光学设计</a>与模拟软件能力：</strong></p>
+<p>熟悉如ZEMAX、Code V、FRED、LightTools等专业光学设计软件。</p>
+<p>能进行<a href="https://www.zhihu.com/search?q=%E5%85%89%E5%AD%A6%E7%B3%BB%E7%BB%9F&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3285836440%7D">光学系统</a>的设计、优化和分析。</p>
+<p><strong>3. 实验技能：</strong></p>
+<p>熟练操作<a href="https://www.zhihu.com/search?q=%E5%AE%9E%E9%AA%8C%E5%AE%A4%E8%AE%BE%E5%A4%87&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">实验室设备</a>，如<a href="https://www.zhihu.com/search?q=%E5%B9%B2%E6%B6%89%E4%BB%AA&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">干涉仪</a>、<a href="https://www.zhihu.com/search?q=%E5%81%8F%E6%8C%AF%E5%85%89&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">偏振光</a>学测试设备、<a href="https://www.zhihu.com/search?q=%E5%85%89%E8%B0%B1%E4%BB%AA&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">光谱仪</a>等。</p>
+<p>有<a href="https://www.zhihu.com/search?q=%E5%AE%9E%E9%AA%8C%E8%AE%BE%E8%AE%A1&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">实验设计</a>和数据分析能力。</p>
+<p><strong>4. 制造和<a href="https://www.zhihu.com/search?q=%E5%85%AC%E5%B7%AE&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">公差</a>知识：</strong></p>
+<p>了解光学元件的制造过程和技术，如磨削、抛光、薄膜涂层等。</p>
+<p>能根据实际制造能力进行光学设计<a href="https://www.zhihu.com/search?q=%E5%85%AC%E5%B7%AE%E5%88%86%E6%9E%90&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">公差分析</a>。</p>
+<p><strong>5.</strong> <strong><a href="https://www.zhihu.com/search?q=%E5%85%89%E7%94%B5%E5%AD%90&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">光电子</a>知识：</strong></p>
+<p>目前还是<a href="https://www.zhihu.com/search?q=%E5%BE%AE%E7%94%B5%E5%AD%90&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">微电子</a>统治<a href="https://www.zhihu.com/search?q=%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">信息技术</a>领域，虽然你是学光的，但是有基础的电子和光电子知识，了解如何与<a href="https://www.zhihu.com/search?q=%E5%85%89%E7%94%B5%E6%8E%A2%E6%B5%8B%E5%99%A8&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">光电探测器</a>、激光器、光纤等设备进行整合，可以让你<a href="https://www.zhihu.com/search?q=%E5%A6%82%E8%99%8E%E6%B7%BB%E7%BF%BC&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">如虎添翼</a>。</p>
+<p><strong>6. <a href="https://www.zhihu.com/search?q=CAD&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3288306035%7D">CAD</a>软件能力：</strong></p>
+<p>熟悉如SolidWorks、<a href="https://www.zhihu.com/search?q=AutoCAD&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3288306035%7D">AutoCAD</a>等<a href="https://www.zhihu.com/search?q=%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">机械设计</a>软件，以支持光学系统的结构设计和集成。</p>
+<p><strong>7. 其他特定领域的知识：</strong></p>
+<p>取决于企业的具体应用领域，如<a href="https://www.zhihu.com/search?q=%E7%94%9F%E7%89%A9%E5%8C%BB%E5%AD%A6&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">生物医学</a>成像、通信、<a href="https://www.zhihu.com/search?q=%E6%B6%88%E8%B4%B9%E7%94%B5%E5%AD%90&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">消费电子</a>、<a href="https://www.zhihu.com/search?q=%E9%98%B2%E5%BE%A1%E6%8A%80%E6%9C%AF&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">防御技术</a>等，可能需要特定的知识或技能。</p>
+<p>这些技能和知识是光学工程领域的基础，但具体的要求还取决于企业的专长和应用领域。</p>
+<h6 id="要找能学光学建模，软件处理技术的项目，有更大发展空间"><a href="#要找能学光学建模，软件处理技术的项目，有更大发展空间" class="headerlink" title="要找能学光学建模，软件处理技术的项目，有更大发展空间"></a>要找能学光学建模，软件处理技术的项目，有更大发展空间</h6><p>目前光学行业薪资比较高的主要是激光雷达，ar&#x2F;vr，HUD这些行业，这些行业有几年光学设计经验的超过50万不难</p>
+]]></content>
+      <categories>
+        <category>study</category>
+        <category>abroad</category>
+      </categories>
+      <tags>
+        <tag>dream,plan</tag>
+      </tags>
   </entry>
   <entry>
     <title>Machanics(A1)</title>
@@ -156,11 +245,6 @@
         <tag>endeavour</tag>
         <tag>model-of-myself</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>Mathematical Analysis(B2)</title>
-    <url>/2023/09/01/Mathematical-Analysis-B2/</url>
-    <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>Mathematical Analysis(B1)</title>
@@ -219,72 +303,9 @@
       </tags>
   </entry>
   <entry>
-    <title>Leaping Abroad</title>
-    <url>/2023/09/01/Leaping-Abroad/</url>
-    <content><![CDATA[<p>本博客是为记录计划出国留学的历程与资料。</p>
-<span id="more"></span>
-
-<p>2024.3-2024.6or9学习托福</p>
-<p>后考试</p>
-<p>大二下学期可先申请暑研，尝试套磁+面试 OK</p>
-<p>大二夏or大三上下学期各选一学分英语</p>
-<p>大三开学再考TOEFL</p>
-<p>之后寒研&#x2F;暑研申请+PHD申请</p>
-<h5 id="Tips"><a href="#Tips" class="headerlink" title="Tips"></a>Tips</h5><p>填写资料，基本事务一定要早做准备！早做准备！多打磨！重点在于计划和时间的安排，行动力！这种事情去赶ddl，最后的损失不是你轻易能挽回的！</p>
-<p>光学通信&#x2F;成像</p>
-<h5 id="学长讲座资料"><a href="#学长讲座资料" class="headerlink" title="学长讲座资料"></a>学长讲座资料</h5><a href="/2023/09/01/Leaping-Abroad/%E5%87%BA%E5%9B%BD%E7%95%99%E5%AD%A6%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB_%E6%89%BE%E5%AF%BC%E5%B8%8820230130.pdf" title="[出国留学经验分享_找导师20230130.pdf]">[出国留学经验分享_找导师20230130.pdf]</a>
-
-<h5 id="方向"><a href="#方向" class="headerlink" title="方向"></a>方向</h5><p>任何行业都要综合起来看，像3c自动化行业的精密量测，可以去上市公司做视觉工程师，学一些opencv，halcon，sharlock之类的算法软件，加上一些打光方案，还是比较吃香的，做个tpm以后转管理。不过呢，制造业大多是乙方，在现场比较累。尽量去大厂的内部自研单位（华为2012，碧桂园等等），或者光学设备大厂商（dalsa，基恩士等等），轻松，钱多，少挨骂（相对的）。以后再找机会接接小厂商的视觉方案外包生意，或者自己找人合伙，光是生产光源往外卖卖都有的赚。</p>
-<p>据我所知，华为、oppo、vivo、大疆的光学工程师年薪可以达到50万，一些光学博士可以达到年薪100万。当前，消费级光学产品的研发中国刚刚起步，光学工程师的需求和待遇大幅上升。以往消费级光学产品都是找日本或则台湾供应商，两年前光学工程师的需求比现在少太多了，现在几家大企业都开始这方面的研发，相信中国的光学产业会快速进步，光学工程师的待遇也会提高。</p>
-<p>作者：再见理想<br>链接：<a href="https://www.zhihu.com/question/358860755/answer/929193441">https://www.zhihu.com/question/358860755/answer/929193441</a><br>来源：知乎<br>著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。</p>
-<p>作者：知乎用户<br>链接：<a href="https://www.zhihu.com/question/358860755/answer/3288306035">https://www.zhihu.com/question/358860755/answer/3288306035</a><br>来源：知乎<br>著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。</p>
-<p>年薪五十万真的很轻松。</p>
-<p><strong>学术界：</strong>国内土博士，在大佬组里留下，上三青，学校年薪会给到40+，加上项目经费，评审费等，一年上100都有可能。或者国外海龟，多发一点大子刊，海优回来，跟前面一样的待遇。</p>
-<p><strong>工业界：</strong>不要跟着老师搞科，科研基本与产业脱节，多去求职网站上看招聘要求。举个例子看苹果的招聘</p>
-<p><strong><a href="https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">苹果</a>的<a href="https://www.zhihu.com/search?q=%E5%85%89%E5%AD%A6%E5%B7%A5%E7%A8%8B%E5%B8%88&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">光学工程师</a>要求（</strong>$167,000 - $230,000 a year，工作地加州<strong>）：</strong></p>
-<ul>
-<li>对<a href="https://www.zhihu.com/search?q=%E6%88%90%E5%83%8F%E5%85%89%E5%AD%A6&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">成像光学</a>系统设计、建模和性能量化有透彻的理解和经验。</li>
-<li>熟练掌握一种或多种<a href="https://www.zhihu.com/search?q=%E6%88%90%E5%83%8F%E5%85%89%E5%AD%A6%E5%85%89%E5%AD%A6&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">成像光学光学</a>建模工具，例如<a href="https://www.zhihu.com/search?q=Zemax&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3288306035%7D">Zemax</a>、LightTools等；</li>
-<li>学习速度快，在成像光学、<a href="https://www.zhihu.com/search?q=%E6%88%90%E5%83%8F%E4%BC%A0%E6%84%9F%E5%99%A8&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">成像传感器</a>、照明和<a href="https://www.zhihu.com/search?q=%E5%85%89%E6%9C%BA%E6%A2%B0&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">光机械</a>方面拥有经过验证的基础；</li>
-<li>强大的<a href="https://www.zhihu.com/search?q=%E5%88%86%E6%9E%90%E6%A8%A1%E5%9E%8B&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">分析模型</a>构建和问题解决能力；</li>
-<li>强大的<a href="https://www.zhihu.com/search?q=%E5%AE%9A%E9%87%8F%E6%95%B0%E6%8D%AE&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">定量数据</a>分析能力，使用JMP、<a href="https://www.zhihu.com/search?q=Matlab&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3288306035%7D">Matlab</a>或同等工具；</li>
-<li>能够在一系列技术主题领域与广泛的合作伙伴（包括管理层、同行和<a href="https://www.zhihu.com/search?q=%E4%BE%9B%E5%BA%94%E5%95%86&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">供应商</a>）进行清晰有效的沟通；</li>
-<li>有以下领域经验者优先：OCT、<a href="https://www.zhihu.com/search?q=LIDAR&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3288306035%7D">LIDAR</a>、<a href="https://www.zhihu.com/search?q=%E6%98%BE%E5%BE%AE%E9%95%9C&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">显微镜</a>、AR&#x2F;VR 显示、<a href="https://www.zhihu.com/search?q=%E6%B3%A2%E5%89%8D%E8%AE%A1%E9%87%8F&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">波前计量</a>和光学光栅。</li>
-</ul>
-<p><strong>极米科技对光学工程师的要求工作技能要求（</strong>25-50K&#x2F;月，工作地成都<strong>）：</strong></p>
-<ul>
-<li>岗位职责： 1.负责镜头光学设计包括：解析度、调焦、变焦、杂散光、鬼影等； 2.配合结构工程师进行量产开发，解决设计问题并提升产出良率与效率； 3.参与&#x2F;负责<a href="https://www.zhihu.com/search?q=%E5%85%89%E5%AD%A6%E5%85%83%E4%BB%B6&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3288306035%7D">光学元件</a>规格指定与检验数据判定； 4.负责光学系统专利开发； 5.负责非球面镜片量测数据判定与分析； 6.参与光学品质判定与规格建立。  </li>
-<li>任职要求： 1.几何光学或相关镜头设计课程； 2.熟练使用 <a href="https://www.zhihu.com/search?q=ZEMAX&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3288306035%7D">ZEMAX</a> &#x2F; CodeV &#x2F; Lighttools； 3.具备解读结构件2D图纸与公差判断能力； 4.具备基本镜片组装与检验能力； 5.熟悉光学镜片加工限制与量产性评估； 5.有相关领域6年设计与量产经验; 6.动手能力强，具有强烈的责任心和团队合作精神，具有良好的沟通和较强的学习能力。</li>
-</ul>
-<p>要做这行，你需要在以下几个方面做准备。</p>
-<p><strong>1. 基础光学知识：</strong></p>
-<p><a href="https://www.zhihu.com/search?q=%E5%85%89%E5%AD%A6%E5%8E%9F%E7%90%86&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">光学原理</a>和公式，如透镜成像、<a href="https://www.zhihu.com/search?q=%E5%85%89%E7%9A%84%E5%B9%B2%E6%B6%89%E5%92%8C%E8%A1%8D%E5%B0%84&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">光的干涉和衍射</a>等。</p>
-<p>了解各种光学元件的工作原理和应用，如透镜、镜片、<a href="https://www.zhihu.com/search?q=%E5%88%86%E6%9D%9F%E5%99%A8&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">分束器</a>、<a href="https://www.zhihu.com/search?q=%E6%B3%A2%E7%89%87&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3288306035%7D">波片</a>、偏振器等。</p>
-<p><strong>2. <a href="https://www.zhihu.com/search?q=%E5%85%89%E5%AD%A6%E8%AE%BE%E8%AE%A1&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3288306035%7D">光学设计</a>与模拟软件能力：</strong></p>
-<p>熟悉如ZEMAX、Code V、FRED、LightTools等专业光学设计软件。</p>
-<p>能进行<a href="https://www.zhihu.com/search?q=%E5%85%89%E5%AD%A6%E7%B3%BB%E7%BB%9F&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3285836440%7D">光学系统</a>的设计、优化和分析。</p>
-<p><strong>3. 实验技能：</strong></p>
-<p>熟练操作<a href="https://www.zhihu.com/search?q=%E5%AE%9E%E9%AA%8C%E5%AE%A4%E8%AE%BE%E5%A4%87&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">实验室设备</a>，如<a href="https://www.zhihu.com/search?q=%E5%B9%B2%E6%B6%89%E4%BB%AA&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">干涉仪</a>、<a href="https://www.zhihu.com/search?q=%E5%81%8F%E6%8C%AF%E5%85%89&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">偏振光</a>学测试设备、<a href="https://www.zhihu.com/search?q=%E5%85%89%E8%B0%B1%E4%BB%AA&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">光谱仪</a>等。</p>
-<p>有<a href="https://www.zhihu.com/search?q=%E5%AE%9E%E9%AA%8C%E8%AE%BE%E8%AE%A1&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">实验设计</a>和数据分析能力。</p>
-<p><strong>4. 制造和<a href="https://www.zhihu.com/search?q=%E5%85%AC%E5%B7%AE&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">公差</a>知识：</strong></p>
-<p>了解光学元件的制造过程和技术，如磨削、抛光、薄膜涂层等。</p>
-<p>能根据实际制造能力进行光学设计<a href="https://www.zhihu.com/search?q=%E5%85%AC%E5%B7%AE%E5%88%86%E6%9E%90&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">公差分析</a>。</p>
-<p><strong>5.</strong> <strong><a href="https://www.zhihu.com/search?q=%E5%85%89%E7%94%B5%E5%AD%90&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">光电子</a>知识：</strong></p>
-<p>目前还是<a href="https://www.zhihu.com/search?q=%E5%BE%AE%E7%94%B5%E5%AD%90&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">微电子</a>统治<a href="https://www.zhihu.com/search?q=%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">信息技术</a>领域，虽然你是学光的，但是有基础的电子和光电子知识，了解如何与<a href="https://www.zhihu.com/search?q=%E5%85%89%E7%94%B5%E6%8E%A2%E6%B5%8B%E5%99%A8&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">光电探测器</a>、激光器、光纤等设备进行整合，可以让你<a href="https://www.zhihu.com/search?q=%E5%A6%82%E8%99%8E%E6%B7%BB%E7%BF%BC&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">如虎添翼</a>。</p>
-<p><strong>6. <a href="https://www.zhihu.com/search?q=CAD&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3288306035%7D">CAD</a>软件能力：</strong></p>
-<p>熟悉如SolidWorks、<a href="https://www.zhihu.com/search?q=AutoCAD&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3288306035%7D">AutoCAD</a>等<a href="https://www.zhihu.com/search?q=%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">机械设计</a>软件，以支持光学系统的结构设计和集成。</p>
-<p><strong>7. 其他特定领域的知识：</strong></p>
-<p>取决于企业的具体应用领域，如<a href="https://www.zhihu.com/search?q=%E7%94%9F%E7%89%A9%E5%8C%BB%E5%AD%A6&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">生物医学</a>成像、通信、<a href="https://www.zhihu.com/search?q=%E6%B6%88%E8%B4%B9%E7%94%B5%E5%AD%90&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">消费电子</a>、<a href="https://www.zhihu.com/search?q=%E9%98%B2%E5%BE%A1%E6%8A%80%E6%9C%AF&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3251904010%7D">防御技术</a>等，可能需要特定的知识或技能。</p>
-<p>这些技能和知识是光学工程领域的基础，但具体的要求还取决于企业的专长和应用领域。</p>
-<h6 id="要找能学光学建模，软件处理技术的项目，有更大发展空间"><a href="#要找能学光学建模，软件处理技术的项目，有更大发展空间" class="headerlink" title="要找能学光学建模，软件处理技术的项目，有更大发展空间"></a>要找能学光学建模，软件处理技术的项目，有更大发展空间</h6><p>目前光学行业薪资比较高的主要是激光雷达，ar&#x2F;vr，HUD这些行业，这些行业有几年光学设计经验的超过50万不难</p>
-]]></content>
-      <categories>
-        <category>study</category>
-        <category>abroad</category>
-      </categories>
-      <tags>
-        <tag>dream,plan</tag>
-      </tags>
+    <title>Mathematical Analysis(B2)</title>
+    <url>/2023/09/01/Mathematical-Analysis-B2/</url>
+    <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>Photology</title>
@@ -377,6 +398,11 @@
       </tags>
   </entry>
   <entry>
+    <title>Python</title>
+    <url>/2023/09/01/Python/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title>Probability Theory and Mathematical Statistics</title>
     <url>/2023/09/01/Probability-Theory-and-Mathematical-Statistics/</url>
     <content><![CDATA[<p>以下为概率论与数理统计本学期学习记录，加油！</p>
@@ -456,9 +482,77 @@
       </tags>
   </entry>
   <entry>
-    <title>Python</title>
-    <url>/2023/09/01/Python/</url>
-    <content><![CDATA[]]></content>
+    <title>Rational Mechanics</title>
+    <url>/2023/09/01/Rational-Mechanics/</url>
+    <content><![CDATA[<p>以下为理论力学本学期学习记录，加油！</p>
+<span id="more"></span>
+
+<h5 id="现有资料汇总："><a href="#现有资料汇总：" class="headerlink" title="现有资料汇总："></a>现有资料汇总：</h5><p>习题答案：课本答案（实体）</p>
+<p>教辅：zjj讲义（一定作为课内内容用好）；力学  下册  理论力学；</p>
+<p>习题集：待收集</p>
+<h5 id="课程时间："><a href="#课程时间：" class="headerlink" title="课程时间："></a>课程时间：</h5><p>1，89；4，12 ；2，34旁听phj老师课</p>
+<h5 id="评课tips"><a href="#评课tips" class="headerlink" title="评课tips"></a>评课tips</h5><p>老师已有经验，上课前预习，跟ppt记好笔记，下课问了不懂的就行。可发邮件交流。要多看课外材料（zjj讲义），重视旁听（以提升思维为目标旁听），两位好老师应该足以培养思维了</p>
+<p>思考题！！！一定课前写，查资料也一定要课前写，尽量被抽到。一定要坚持到期末。</p>
+<p>作业可用mathematica</p>
+<p>重视作业，多做几遍（尝试实施作业多遍训练）</p>
+<p>重视答题思路，重视查卷</p>
+<h5 id="部分资料"><a href="#部分资料" class="headerlink" title="部分资料"></a>部分资料</h5><br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<h5 id="笔记总结"><a href="#笔记总结" class="headerlink" title="笔记总结"></a>笔记总结</h5>
+
+<h5 id="wht老师讲义，见未解散的QQ群。"><a href="#wht老师讲义，见未解散的QQ群。" class="headerlink" title="wht老师讲义，见未解散的QQ群。"></a>wht老师讲义，见未解散的QQ群。</h5><h5 id="部分参考答案-笔记"><a href="#部分参考答案-笔记" class="headerlink" title="部分参考答案+笔记"></a>部分参考答案+笔记</h5><br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+
+
+<h5 id="习题课讲义"><a href="#习题课讲义" class="headerlink" title="习题课讲义"></a>习题课讲义</h5><br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+
+
+<h5 id="考试相关，历年真题，见note-shelf"><a href="#考试相关，历年真题，见note-shelf" class="headerlink" title="考试相关，历年真题，见note shelf"></a>考试相关，历年真题，见note shelf</h5>
+]]></content>
+      <categories>
+        <category>study</category>
+        <category>physics</category>
+      </categories>
+      <tags>
+        <tag>now</tag>
+      </tags>
   </entry>
   <entry>
     <title>TOEFL</title>
@@ -553,6 +647,8 @@
 <p>重视作业，考试不难，有原题，故作业多做几遍（尝试实施作业多遍训练）</p>
 <p>有少量小测。（保证到课）</p>
 <h5 id="给分"><a href="#给分" class="headerlink" title="给分"></a>给分</h5><p>20%平时 20%期中1 20%期中2 期末40%</p>
+<p>中间有一些状况，反思见words for myself篇，3.3，重修吧。wzy或wcc，拿4，最好能4.3，4.3可以提高绩点0.03左右。</p>
+<p>要对得起自己。</p>
 <h5 id="部分资料"><a href="#部分资料" class="headerlink" title="部分资料"></a>部分资料</h5><p>作业答案：</p>
 <br/>
 
@@ -680,20 +776,128 @@
       </tags>
   </entry>
   <entry>
-    <title>Rational Mechanics</title>
-    <url>/2023/09/01/Rational-Mechanics/</url>
-    <content><![CDATA[<p>以下为理论力学本学期学习记录，加油！</p>
+    <title>Works as League Secretary</title>
+    <url>/2023/09/03/Works-as-League-Secretary/</url>
+    <content><![CDATA[<p>以下为团支书工作经验记录</p>
 <span id="more"></span>
 
-<h5 id="现有资料汇总："><a href="#现有资料汇总：" class="headerlink" title="现有资料汇总："></a>现有资料汇总：</h5><p>习题答案：课本答案（实体）</p>
-<p>教辅：zjj讲义（一定作为课内内容用好）；力学  下册  理论力学；</p>
-<p>习题集：待收集</p>
-<h5 id="课程时间："><a href="#课程时间：" class="headerlink" title="课程时间："></a>课程时间：</h5><p>1，89；4，12 ；2，34旁听phj老师课</p>
-<h5 id="评课tips"><a href="#评课tips" class="headerlink" title="评课tips"></a>评课tips</h5><p>老师已有经验，上课前预习，跟ppt记好笔记，下课问了不懂的就行。可发邮件交流。要多看课外材料（zjj讲义），重视旁听（以提升思维为目标旁听），两位好老师应该足以培养思维了</p>
-<p>思考题！！！一定课前写，查资料也一定要课前写，尽量被抽到。一定要坚持到期末。</p>
-<p>作业可用mathematica</p>
+<p>由于政治觉悟较高（在留学准备的关键时期以及下学期选到奇葩马原老师的情况下，还是要尽量让这方面的状态减轻一些），以及上学期因为成绩相对自负和端架子的表现（个人认为，其实多数是因为社恐，以及在大环境下不愿露怯，今后要更加放松和专注于自己的目标才行），在团支书转院的情况下被委以重任，目前不知是福是祸。</p>
+<p>开学前几天来看，似乎不算轻松，除了入团大会还有团务培训。</p>
+<p>重要的是，我希望借此锻炼的是多线处理事情，学会在不必要无意义的事情上学会取舍，以及减轻沟通包袱的能力，可不是来加重无用且已经足够多的责任心的，祝自己能收获到想要的吧。</p>
+<h5 id="Tips"><a href="#Tips" class="headerlink" title="Tips"></a>Tips</h5><p>1.有任何事情先问再做，不要自认为自己思考到了不用问，反而别人觉得不被尊重，把握好度，不要做吃力不讨好的事</p>
+<h5 id="wht老师讲义，见未解散的QQ群。"><a href="#wht老师讲义，见未解散的QQ群。" class="headerlink" title="wht老师讲义，见未解散的QQ群。"></a>wht老师讲义，见未解散的QQ群。</h5><h5 id="部分参考答案-笔记"><a href="#部分参考答案-笔记" class="headerlink" title="部分参考答案+笔记"></a>部分参考答案+笔记</h5><br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+]]></content>
+      <categories>
+        <category>work</category>
+      </categories>
+      <tags>
+        <tag>experience</tag>
+        <tag>take it easy</tag>
+        <tag>interpersonal</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Words for myself</title>
+    <url>/2023/09/01/Words-for-myself/</url>
+    <content><![CDATA[<p>以下为我对自己的警醒与勉励</p>
+<span id="more"></span>
+
+<p>2024&#x2F;3&#x2F;2</p>
+<p>又是一年春学期，回到了你上次失败的地方，一切情境都那样相似，我不知该如何劝诫你，给你怎样的压力或动力才能让你迎接一个不一样的未来，不要重蹈覆辙。</p>
+<p>莫名的自信和狂妄我不知该如何压制，倾于安逸的危险我不知怎样抗衡。只能时时记得对抗和反思。</p>
+<p>但自己给自己的压力是有限的，这只能用于规避最危险的情况。必须敢于给自己外部的压力，不要那样追求安全和完美！！正如上学期，在过程中你并不觉得完美，反而遇到了很多情况，解决的过程才是成长！你认为的不完美只是你给自己的枷锁，影响不了结果！这一点要牢记。</p>
+<p>你想要的光明结果不是你能够决定一丝一毫的，不要一心争取，而要放低姿态做付出。你不比别人高贵，你不比别人更值得一切，每个人所得都是他们应得的，每个人都在付出着努力，比你更多的努力，没有人会因着你的期望去照顾你。切记！！若你不在人后付出，就没有资格在人前争取！！你的付出与否，别人能从工作中看到，用踏实的工作给自己底气，而不是其他。（我想我做到了，恐怕这是一系列改变中唯一值得宽慰的了。可是我却似乎遇到了更复杂的问题，是的，我自身也变得复杂了，可我已经认识到，有些心气和单纯的勇气，是不能失去的）</p>
+<p>成长不是保护与保守能力的增强，而是经历风雨。</p>
+<p>放低姿态，对所做之事，所追求和争取之物一定要保持敬畏，切忌胜券在握，切忌自我膨胀。那些值得欣赏敬仰和学习的人，用仰望的姿态看他们，去虚心学习，而不是蠢蠢欲动只为竞争。</p>
+<p>追求完美引发自我保护乃至方向判断失败，规划混乱，百害一利。注意！一定坚信一点，完美主义是你的缺陷而不能视为工具！它会让你在不必要的事情上舍本逐末，扬琴就是例子。切忌对完美主义引以为豪，当你偶尔需要它帮助时它自会出现。切忌跟着情绪走。</p>
+<p>多向内施压，多压制自我膨胀，多探索高处，少拘泥一方。</p>
+<p>关于身边人，少听些吹捧吧，少做深谈吧，远离安逸的陷阱。你知道自己的模样，你最知道自己要做什么保持定力，对自己别怕多做否定，否定后你会去行动，行动给自己的底气，任何东西都换不来！</p>
+<p>记住，成功带来的，是继续接受更多挑战的机会，绝不应该以结果作为认同，平静下来去想想成功背后的方法和过程吧。</p>
+<p>少接触飞跃群等浮躁的结果导向消息，去逼迫和提升自己。</p>
+<p>若你不在人后付出，就没有资格在人前争取！！</p>
+<p>最后附上上学期初的感想，不要忘了初心。</p>
+<p>或许，第一学期的成功，不止来自假期的复习，成绩的获得，不止来自假期时的手写总结，复习的顺畅和效果需要建立在前期用执着和勇气搭建的根基上。若想见高楼，必要有根基。不要在往前走时，迷失了那一份敬畏。是的，这与自信无关，只有保持对自己所做事情的敬畏和执着，才有可能走一条实际的，付出的，有意义的道路，才有可能无愧于时间，人生和梦想。</p>
+<p>2024&#x2F;3&#x2F;4</p>
+<p>我想你已经想好了，光学培养方案看起来也很不错。</p>
+<p>偏向工程与应用的光学，目前确定到这里就可以了，这就是你选择的审美，时机到来时你自然能够选择了。剩下的是继续在人后充实自己，在选择上要学会控制，适可而止，选定了就不要左顾右盼了。不论如何，往前走就一定有结果，并且不会不好，游移不定才是最大的危险。</p>
+<p>这学期可以看看近代光学基础课。</p>
+<p>很多事情是不冲突的，保持危机感，我是说保持对止步不前的危机感。要对自己能把握的事情和努力程度有信心，少听些意见吧，只要自己手中紧握的机会，就义无反顾地付出，否则就是辜负，怀疑是最大的绊脚石。</p>
+<p>没有意义的东张西望只是一种对真正事业和努力的逃避。做了才会有结果，记住，结果不是选出来的。</p>
+<p>2024&#x2F;8&#x2F;23</p>
+<p>快开学了。</p>
+<p>今日想到热统的事情，发觉当初还有一条可行的解决方法，就是换到王zy班上，虽然必修课无法退课，但换课与退课是不同性质的两件事。</p>
+<p>当初为何没有想到，说到底是没有充分发挥思路，以及还是没有做到变通的勇气，还有就是在与他人的讨论中，和情绪的激化中，自己乱了阵脚，不够冷静。既然如此清楚另一个班更好，且自己也完全是按照他们的讲义学习，为何不能换班呢，为何没有想到这条路呢。</p>
+<p>启示：今后只要遇到自己想要的事物或机会，或想加入的团体，一定要做出行动去“靠近它”，既然已经看到有自己的容身之处，那么底层目标一定要清晰，那就是去到自己看到的合适的地方才好。必须以此为目标来思考，才能想出解决当前困境的最好办法，而不是握着自己手中的牌，食之无味，弃之可惜，埋头硬做。</p>
+<p>遇到问题时，首先让头脑冷静下来，从这一底层思路思考，想想看当前是否已有自己看中的牌面。想要换牌，其实往往充满机会，可这样的机会却往往被忽视。记住，看中一副好牌面，是你的优势所在，主动换牌的利落，是你的缺陷所在。</p>
+<p>徐徐图之，你还有很长的路要走，还需要很多次深刻的反思和突破才能成长，远没有到达安逸之所。前路遍布荆棘，无憾绝非易事，但不去追寻，你必将不甘。</p>
+<p>记住此刻的痛苦，你清楚该怎么做。</p>
+<p>2024&#x2F;8&#x2F;31</p>
+<p>做一只警惕的猫，走好自己认定的路，唯有光芒万丈是对一切不公的最好报复。</p>
+<p>我似乎变了，变得坚定洒脱，但也放弃了许多所谓“格局”，而选择了“自私”。这是否是好的成长？</p>
+<p>有些怀念今年在家过年时的自己，还有所纯真和信仰。如果没有发生这些事，我是否能以更好的姿态度过这个年龄段？还是说以我的能力，终究要走向如此。不论如何，这次直面的阴暗极端了些，可是我直面的阴暗哪一次不极端呢，都靠着自己坚持并成长了，这或许是属于我的命运吧。</p>
+<p>没有屈服的你，已经很棒了。最重要的是，上个学期那些不可能完成的任务，最终真的都做下来了不是吗。我知道自己心中一股劲始终奔涌着，虽然相比之前的纯粹光明多了一层阴霾，但力度未减。不管它是出于什么，你都要接受它，并在它的指引下前进，在前进中探索你真正让自己认同的方向，找寻自我的容身之处。</p>
+<p>我想，不要害怕改变，但要防止遗忘，要鼓励和回看之前的自己。只要还爱着自己的一切，从前的美好永远存于你的心间。你听，在你的音乐中，它们都还在，不是吗。</p>
+<p>最近不知为什么，常常回顾儿时的爱好和探索外界的思路，发觉一种自信，强大，审美坚定，专注，深爱自己所追求的境界的力量，我想念它，我不想失去它。</p>
+<p>我相信它仍在我的手中紧握。</p>
+]]></content>
+      <tags>
+        <tag>interpersonal</tag>
+        <tag>dream，plan</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Works in Casimir Lab</title>
+    <url>/2023/09/01/Works-in-Casimir-Lab/</url>
+    <content><![CDATA[<p>以下为实验相关感想记录，加油！</p>
+<span id="more"></span>
+
+<h5 id="学习记录"><a href="#学习记录" class="headerlink" title="学习记录"></a>学习记录</h5><p>以统计方法学习为重，生物相关多问即可，不必自学</p>
+<p>现在在光学方面希望多做一些科研，后续做应用</p>
+]]></content>
+      <categories>
+        <category>work</category>
+        <category>lab</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>atomic physics</title>
+    <url>/2024/03/04/atomic-physics/</url>
+    <content><![CDATA[<p>以下为原子物理本学期学习记录，加油！</p>
+<span id="more"></span>
+
+<h5 id="现有资料汇总："><a href="#现有资料汇总：" class="headerlink" title="现有资料汇总："></a>现有资料汇总：</h5><p>习题答案：只有课本后答案，一定早做</p>
+<p>教辅：听苑震生现代原分；看量子光学书（找小论文课题）；提纲，公式集，前后半学期总结</p>
+<p>习题集：期末试题，各章小测题（小测前做）</p>
+<h5 id="评课tips"><a href="#评课tips" class="headerlink" title="评课tips"></a>评课tips</h5><p>bb交作业，周四交，最晚周四晚</p>
+<p>内容多，但多数为实验讲解，科学史，是背书课，考的不难，但过程一定跟上（小测）</p>
+<p>拿提纲听课</p>
+<p>有PPT,内容不错</p>
+<p>只讲&#x2F;考1-5章</p>
+<p>最后会给考试范围</p>
 <p>重视作业，多做几遍（尝试实施作业多遍训练）</p>
-<p>重视答题思路，重视查卷</p>
+<p>重视答题思路，重视给分点</p>
+<h5 id="给分"><a href="#给分" class="headerlink" title="给分"></a>给分</h5><p>5次小测5%**，平时25%，研讨课10%，期末60%</p>
+<h5 id="结果"><a href="#结果" class="headerlink" title="结果"></a>结果</h5><p>小论文有些遗憾，据老师说可能问题在于选题与原子物理的联系，但我认为磁存储中的自旋原理与原子物理联系并不小。</p>
+<p>不过还好没有影响最终结果，光学，原子物理此类课程或许是我比较擅长的。</p>
 <h5 id="部分资料"><a href="#部分资料" class="headerlink" title="部分资料"></a>部分资料</h5><br/>
 
 <br/>
@@ -742,109 +946,10 @@
 
 
 
-<h5 id="考试相关，历年真题，见note-shelf"><a href="#考试相关，历年真题，见note-shelf" class="headerlink" title="考试相关，历年真题，见note shelf"></a>考试相关，历年真题，见note shelf</h5>
-]]></content>
+<h5 id="考试相关，历年真题，见note-shelf"><a href="#考试相关，历年真题，见note-shelf" class="headerlink" title="考试相关，历年真题，见note shelf"></a>考试相关，历年真题，见note shelf</h5>]]></content>
       <categories>
         <category>study</category>
         <category>physics</category>
-      </categories>
-      <tags>
-        <tag>now</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Words for myself</title>
-    <url>/2023/09/01/Words-for-myself/</url>
-    <content><![CDATA[<p>以下为我对自己的警醒与勉励</p>
-<span id="more"></span>
-
-<p>2024&#x2F;3&#x2F;2</p>
-<p>又是一年春学期，回到了你上次失败的地方，一切情境都那样相似，我不知该如何劝诫你，给你怎样的压力或动力才能让你迎接一个不一样的未来，不要重蹈覆辙。</p>
-<p>莫名的自信和狂妄我不知该如何压制，倾于安逸的危险我不知怎样抗衡。只能时时记得对抗和反思。</p>
-<p>但自己给自己的压力是有限的，这只能用于规避最危险的情况。必须敢于给自己外部的压力，不要那样追求安全和完美！！正如上学期，在过程中你并不觉得完美，反而遇到了很多情况，解决的过程才是成长！你认为的不完美只是你给自己的枷锁，影响不了结果！这一点要牢记。</p>
-<p>你想要的光明结果不是你能够决定一丝一毫的，不要一心争取，而要放低姿态做付出。你不比别人高贵，你不比别人更值得一切，每个人所得都是他们应得的，每个人都在付出着努力，比你更多的努力，没有人会因着你的期望去照顾你。切记！！若你不在人后付出，就没有资格在人前争取！！你的付出与否，别人能从工作中看到，用踏实的工作给自己底气，而不是其他。（我想我做到了，恐怕这是一系列改变中唯一值得宽慰的了。可是我却似乎遇到了更复杂的问题，是的，我自身也变得复杂了，可我已经认识到，有些心气和单纯的勇气，是不能失去的）</p>
-<p>成长不是保护与保守能力的增强，而是经历风雨。</p>
-<p>放低姿态，对所做之事，所追求和争取之物一定要保持敬畏，切忌胜券在握，切忌自我膨胀。那些值得欣赏敬仰和学习的人，用仰望的姿态看他们，去虚心学习，而不是蠢蠢欲动只为竞争。</p>
-<p>追求完美引发自我保护乃至方向判断失败，规划混乱，百害一利。注意！一定坚信一点，完美主义是你的缺陷而不能视为工具！它会让你在不必要的事情上舍本逐末，扬琴就是例子。切忌对完美主义引以为豪，当你偶尔需要它帮助时它自会出现。切忌跟着情绪走。</p>
-<p>多向内施压，多压制自我膨胀，多探索高处，少拘泥一方。</p>
-<p>关于身边人，少听些吹捧吧，少做深谈吧，远离安逸的陷阱。你知道自己的模样，你最知道自己要做什么保持定力，对自己别怕多做否定，否定后你会去行动，行动给自己的底气，任何东西都换不来！</p>
-<p>记住，成功带来的，是继续接受更多挑战的机会，绝不应该以结果作为认同，平静下来去想想成功背后的方法和过程吧。</p>
-<p>少接触飞跃群等浮躁的结果导向消息，去逼迫和提升自己。</p>
-<p>若你不在人后付出，就没有资格在人前争取！！</p>
-<p>最后附上上学期初的感想，不要忘了初心。</p>
-<p>或许，第一学期的成功，不止来自假期的复习，成绩的获得，不止来自假期时的手写总结，复习的顺畅和效果需要建立在前期用执着和勇气搭建的根基上。若想见高楼，必要有根基。不要在往前走时，迷失了那一份敬畏。是的，这与自信无关，只有保持对自己所做事情的敬畏和执着，才有可能走一条实际的，付出的，有意义的道路，才有可能无愧于时间，人生和梦想。</p>
-<p>2024&#x2F;3&#x2F;4</p>
-<p>我想你已经想好了，光学培养方案看起来也很不错。</p>
-<p>偏向工程与应用的光学，目前确定到这里就可以了，这就是你选择的审美，时机到来时你自然能够选择了。剩下的是继续在人后充实自己，在选择上要学会控制，适可而止，选定了就不要左顾右盼了。不论如何，往前走就一定有结果，并且不会不好，游移不定才是最大的危险。</p>
-<p>这学期可以看看近代光学基础课。</p>
-<p>很多事情是不冲突的，保持危机感，我是说保持对止步不前的危机感。要对自己能把握的事情和努力程度有信心，少听些意见吧，只要自己手中紧握的机会，就义无反顾地付出，否则就是辜负，怀疑是最大的绊脚石。</p>
-<p>没有意义的东张西望只是一种对真正事业和努力的逃避。做了才会有结果，记住，结果不是选出来的。</p>
-<p>2024&#x2F;8&#x2F;23</p>
-<p>快开学了。</p>
-<p>今日想到热统的事情，发觉当初还有一条可行的解决方法，就是换到王zy班上，虽然必修课无法退课，但换课与退课是不同性质的两件事。</p>
-<p>当初为何没有想到，说到底是没有充分发挥思路，以及还是没有做到变通的勇气，还有就是在与他人的讨论中，和情绪的激化中，自己乱了阵脚，不够冷静。既然如此清楚另一个班更好，且自己也完全是按照他们的讲义学习，为何不能换班呢，为何没有想到这条路呢。</p>
-<p>启示：今后只要遇到自己想要的事物或机会，或想加入的团体，一定要做出行动去“靠近它”，既然已经看到有自己的容身之处，那么底层目标一定要清晰，那就是去到自己看到的合适的地方才好。必须以此为目标来思考，才能想出解决当前困境的最好办法，而不是握着自己手中的牌，食之无味，弃之可惜，埋头硬做。</p>
-<p>遇到问题时，首先让头脑冷静下来，从这一底层思路思考，想想看当前是否已有自己看中的牌面。想要换牌，其实往往充满机会，可这样的机会却往往被忽视。记住，看中一副好牌面，是你的优势所在，主动换牌的利落，是你的缺陷所在。</p>
-<p>徐徐图之，你还有很长的路要走，还需要很多次深刻的反思和突破才能成长，远没有到达安逸之所。前路遍布荆棘，无憾绝非易事，但不去追寻，你必将不甘。</p>
-<p>记住此刻的痛苦，你清楚该怎么做。</p>
-]]></content>
-      <tags>
-        <tag>interpersonal</tag>
-        <tag>dream，plan</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Works as League Secretary</title>
-    <url>/2023/09/03/Works-as-League-Secretary/</url>
-    <content><![CDATA[<p>以下为团支书工作经验记录</p>
-<span id="more"></span>
-
-<p>由于政治觉悟较高（在留学准备的关键时期以及下学期选到奇葩马原老师的情况下，还是要尽量让这方面的状态减轻一些），以及上学期因为成绩相对自负和端架子的表现（个人认为，其实多数是因为社恐，以及在大环境下不愿露怯，今后要更加放松和专注于自己的目标才行），在团支书转院的情况下被委以重任，目前不知是福是祸。</p>
-<p>开学前几天来看，似乎不算轻松，除了入团大会还有团务培训。</p>
-<p>重要的是，我希望借此锻炼的是多线处理事情，学会在不必要无意义的事情上学会取舍，以及减轻沟通包袱的能力，可不是来加重无用且已经足够多的责任心的，祝自己能收获到想要的吧。</p>
-<h5 id="Tips"><a href="#Tips" class="headerlink" title="Tips"></a>Tips</h5><p>1.有任何事情先问再做，不要自认为自己思考到了不用问，反而别人觉得不被尊重，把握好度，不要做吃力不讨好的事</p>
-<h5 id="wht老师讲义，见未解散的QQ群。"><a href="#wht老师讲义，见未解散的QQ群。" class="headerlink" title="wht老师讲义，见未解散的QQ群。"></a>wht老师讲义，见未解散的QQ群。</h5><h5 id="部分参考答案-笔记"><a href="#部分参考答案-笔记" class="headerlink" title="部分参考答案+笔记"></a>部分参考答案+笔记</h5><br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-]]></content>
-      <categories>
-        <category>work</category>
-      </categories>
-      <tags>
-        <tag>experience</tag>
-        <tag>interpersonal</tag>
-        <tag>take it easy</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Works in Casimir Lab</title>
-    <url>/2023/09/01/Works-in-Casimir-Lab/</url>
-    <content><![CDATA[<p>以下为实验相关感想记录，加油！</p>
-<span id="more"></span>
-
-<h5 id="学习记录"><a href="#学习记录" class="headerlink" title="学习记录"></a>学习记录</h5><p>以统计方法学习为重，生物相关多问即可，不必自学</p>
-<p>现在在光学方面希望多做一些科研，后续做应用</p>
-]]></content>
-      <categories>
-        <category>work</category>
-        <category>lab</category>
       </categories>
   </entry>
   <entry>
@@ -958,6 +1063,7 @@
 <p>5.在hexo s预览后再hexo d到远程仓库</p>
 <p>6.冒号一定要用英文冒号！冒号后一定要有空格！</p>
 <p>7.不要传大于50的文件</p>
+<p>8.不要随便导入其他库和插件，保护github项目是最重要的</p>
 <h4 id="常见问题及解决方法"><a href="#常见问题及解决方法" class="headerlink" title="常见问题及解决方法"></a>常见问题及解决方法</h4><p>1.在文件位置直接”open git“无效</p>
 <p>在git中写cd ，事实上不用一层层进，直接”cd “myblog””即可</p>
 <p>2.ssh密钥问题</p>
@@ -1040,7 +1146,7 @@
 <p>ustc-guest 每周更新一次密码</p>
 <p>2024.2.23  107196</p>
 <p>LENOVO时代：</p>
-<p>密钥：tuhua@Hua_Tu MINGW64 &#x2F;e&#x2F;BlogBlog<br>$ cat ~&#x2F;.ssh&#x2F;id_rsa.pub<br>ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCgg9dGcj4pFDQ4phI9efca2&#x2F;276EG2Jl3zF7mankvutYWa7ry8jFrLUgYTUApPtPOdlSxftOKaGrIl&#x2F;2TPb2kJ6RHGTakgk7tACvqr&#x2F;Y+j64lhGBaJzHpboUTHjLoRe7eftDwWKz7engusfNN3ky+l&#x2F;4gMlVRLyVEzDxzO9nUB7J1uyiPhsLGmXZW2Kla&#x2F;vrYs0NlAd3g2j3qrHok2FVds85bA38omLJO9N&#x2F;D&#x2F;eA1nm3QZg9s6ituiTW+J2PZ66EuWX0kVL6xTKlmbWceXwNHkxUoDAAhFj9A&#x2F;&#x2F;rDJnZ7Y72xLvsixRQfOt&#x2F;D8S7Qc5Vvkse9jVWPK3qL5xvsHzJf0HT0f7O3oOrlUvDlyPv5dRI2c4nX3ZIW0gjqKVLz2lQ8fxWFxQrDgePKEYYBrQIy60tciEMpWB5x37lSXOUA80OvWqtsDWTmBbU53gsG5d0d3Ve7JPDBS9qxMoBZx&#x2F;gJ7dJHc93Zx7ZJAOaTDx3K1pqA+NKox9siVsYUr8i1WNvM&#x3D; <a href="mailto:&#x69;&#x6d;&#x5f;&#116;&#x75;&#x68;&#117;&#97;&#64;&#109;&#97;&#105;&#x6c;&#46;&#117;&#x73;&#116;&#x63;&#46;&#x65;&#100;&#x75;&#46;&#x63;&#x6e;">&#x69;&#x6d;&#x5f;&#116;&#x75;&#x68;&#117;&#97;&#64;&#109;&#97;&#105;&#x6c;&#46;&#117;&#x73;&#116;&#x63;&#46;&#x65;&#100;&#x75;&#46;&#x63;&#x6e;</a></p>
+<p>密钥：tuhua@Hua_Tu MINGW64 &#x2F;e&#x2F;BlogBlog<br>$ cat ~&#x2F;.ssh&#x2F;id_rsa.pub<br>ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCgg9dGcj4pFDQ4phI9efca2&#x2F;276EG2Jl3zF7mankvutYWa7ry8jFrLUgYTUApPtPOdlSxftOKaGrIl&#x2F;2TPb2kJ6RHGTakgk7tACvqr&#x2F;Y+j64lhGBaJzHpboUTHjLoRe7eftDwWKz7engusfNN3ky+l&#x2F;4gMlVRLyVEzDxzO9nUB7J1uyiPhsLGmXZW2Kla&#x2F;vrYs0NlAd3g2j3qrHok2FVds85bA38omLJO9N&#x2F;D&#x2F;eA1nm3QZg9s6ituiTW+J2PZ66EuWX0kVL6xTKlmbWceXwNHkxUoDAAhFj9A&#x2F;&#x2F;rDJnZ7Y72xLvsixRQfOt&#x2F;D8S7Qc5Vvkse9jVWPK3qL5xvsHzJf0HT0f7O3oOrlUvDlyPv5dRI2c4nX3ZIW0gjqKVLz2lQ8fxWFxQrDgePKEYYBrQIy60tciEMpWB5x37lSXOUA80OvWqtsDWTmBbU53gsG5d0d3Ve7JPDBS9qxMoBZx&#x2F;gJ7dJHc93Zx7ZJAOaTDx3K1pqA+NKox9siVsYUr8i1WNvM&#x3D; <a href="mailto:&#105;&#x6d;&#95;&#x74;&#117;&#x68;&#x75;&#x61;&#64;&#109;&#97;&#x69;&#x6c;&#46;&#117;&#x73;&#x74;&#99;&#x2e;&#101;&#x64;&#117;&#x2e;&#99;&#x6e;">&#105;&#x6d;&#95;&#x74;&#117;&#x68;&#x75;&#x61;&#64;&#109;&#97;&#x69;&#x6c;&#46;&#117;&#x73;&#x74;&#99;&#x2e;&#101;&#x64;&#117;&#x2e;&#99;&#x6e;</a></p>
 ]]></content>
       <categories>
         <category>tips</category>
@@ -1049,80 +1155,6 @@
       <tags>
         <tag>experience</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>atomic physics</title>
-    <url>/2024/03/04/atomic-physics/</url>
-    <content><![CDATA[<p>以下为原子物理本学期学习记录，加油！</p>
-<span id="more"></span>
-
-<h5 id="现有资料汇总："><a href="#现有资料汇总：" class="headerlink" title="现有资料汇总："></a>现有资料汇总：</h5><p>习题答案：只有课本后答案，一定早做</p>
-<p>教辅：听苑震生现代原分；看量子光学书（找小论文课题）；提纲，公式集，前后半学期总结</p>
-<p>习题集：期末试题，各章小测题（小测前做）</p>
-<h5 id="评课tips"><a href="#评课tips" class="headerlink" title="评课tips"></a>评课tips</h5><p>bb交作业，周四交，最晚周四晚</p>
-<p>内容多，但多数为实验讲解，科学史，是背书课，考的不难，但过程一定跟上（小测）</p>
-<p>拿提纲听课</p>
-<p>有PPT,内容不错</p>
-<p>只讲&#x2F;考1-5章</p>
-<p>最后会给考试范围</p>
-<p>重视作业，多做几遍（尝试实施作业多遍训练）</p>
-<p>重视答题思路，重视给分点</p>
-<h5 id="给分"><a href="#给分" class="headerlink" title="给分"></a>给分</h5><p>5次小测5%**，平时25%，研讨课10%，期末60%</p>
-<h5 id="结果"><a href="#结果" class="headerlink" title="结果"></a>结果</h5><p>小论文有些遗憾，据老师说可能问题在于选题与原子物理的联系，但我认为磁存储中的自旋原理与原子物理联系并不小。</p>
-<p>不过还好没有影响最终结果，光学，原子物理此类课程或许是我比较擅长的。</p>
-<h5 id="部分资料"><a href="#部分资料" class="headerlink" title="部分资料"></a>部分资料</h5><br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<h5 id="笔记总结"><a href="#笔记总结" class="headerlink" title="笔记总结"></a>笔记总结</h5>
-
-<h5 id="wht老师讲义，见未解散的QQ群。"><a href="#wht老师讲义，见未解散的QQ群。" class="headerlink" title="wht老师讲义，见未解散的QQ群。"></a>wht老师讲义，见未解散的QQ群。</h5><h5 id="部分参考答案-笔记"><a href="#部分参考答案-笔记" class="headerlink" title="部分参考答案+笔记"></a>部分参考答案+笔记</h5><br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-
-
-<h5 id="习题课讲义"><a href="#习题课讲义" class="headerlink" title="习题课讲义"></a>习题课讲义</h5><br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-
-
-<h5 id="考试相关，历年真题，见note-shelf"><a href="#考试相关，历年真题，见note-shelf" class="headerlink" title="考试相关，历年真题，见note shelf"></a>考试相关，历年真题，见note shelf</h5>]]></content>
-      <categories>
-        <category>study</category>
-        <category>physics</category>
-      </categories>
   </entry>
   <entry>
     <title>function of complex variable</title>
@@ -1276,44 +1308,6 @@
       </tags>
   </entry>
   <entry>
-    <title>毛泽东思想与中国特色社会主义理论体系概论</title>
-    <url>/2024/03/02/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA/</url>
-    <content><![CDATA[<p>以下为毛概本学期学习记录，加油！</p>
-<span id="more"></span>
-
-<h5 id="学习记录"><a href="#学习记录" class="headerlink" title="学习记录"></a>学习记录</h5><p>上课多看书，能记则记</p>
-<h5 id="评课tips"><a href="#评课tips" class="headerlink" title="评课tips"></a>评课tips</h5><p>老师不讲太多理论，听课不必要</p>
-<p>**课后提问两次 </p>
-<p>想法：对当今马克思主义理论的创新有什么看法？（看起来有些“这不是真正的”意见）</p>
-<p>老师更喜欢“真实的”经历和“独立的”“个人的”想法</p>
-<p>**你的民族选题很适合，向这边靠近 </p>
-<p>注意提及“中华民族”，他好像很关注。以及中国在世界上的理论特殊性</p>
-<p>作业重量大过质</p>
-<p>**计划：</p>
-<p>文章+采访（可采姥姥 民族团结）加图片</p>
-<p>喜欢真实，喜欢乡土化（穷日子） 如果你不喜欢，就后面转成发展，让自己舒心</p>
-<p>不直接给分，而是看印象</p>
-<p>结合自己亲身体会更好</p>
-<p>钢琴 彩云追月（国风歌曲），春舞（新疆舞曲，王洛宾）</p>
-<p>扬琴</p>
-<p>书法</p>
-<p>伊犁天鹅湖视频</p>
-<p>手编工艺品</p>
-<p>合唱 闪亮的名字</p>
-<h5 id="部分资料"><a href="#部分资料" class="headerlink" title="部分资料"></a>部分资料</h5><p>已购资料</p>
-<p>往年考试答案及评分标准待查询</p>
-<p>统考</p>
-<p>论文有出版范文（图书馆）</p>
-<h5 id="笔记"><a href="#笔记" class="headerlink" title="笔记"></a>笔记</h5>]]></content>
-      <categories>
-        <category>study</category>
-        <category>physics</category>
-      </categories>
-      <tags>
-        <tag>now</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>mathematical and physical equations</title>
     <url>/2024/03/04/mathematical-equations/</url>
     <content><![CDATA[<p>以下为数理方程本学期学习记录，加油！</p>
@@ -1400,6 +1394,44 @@
         <tag>not-so-satisfied</tag>
         <tag>lesson</tag>
         <tag>effective method</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>毛泽东思想与中国特色社会主义理论体系概论</title>
+    <url>/2024/03/02/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA/</url>
+    <content><![CDATA[<p>以下为毛概本学期学习记录，加油！</p>
+<span id="more"></span>
+
+<h5 id="学习记录"><a href="#学习记录" class="headerlink" title="学习记录"></a>学习记录</h5><p>上课多看书，能记则记</p>
+<h5 id="评课tips"><a href="#评课tips" class="headerlink" title="评课tips"></a>评课tips</h5><p>老师不讲太多理论，听课不必要</p>
+<p>**课后提问两次 </p>
+<p>想法：对当今马克思主义理论的创新有什么看法？（看起来有些“这不是真正的”意见）</p>
+<p>老师更喜欢“真实的”经历和“独立的”“个人的”想法</p>
+<p>**你的民族选题很适合，向这边靠近 </p>
+<p>注意提及“中华民族”，他好像很关注。以及中国在世界上的理论特殊性</p>
+<p>作业重量大过质</p>
+<p>**计划：</p>
+<p>文章+采访（可采姥姥 民族团结）加图片</p>
+<p>喜欢真实，喜欢乡土化（穷日子） 如果你不喜欢，就后面转成发展，让自己舒心</p>
+<p>不直接给分，而是看印象</p>
+<p>结合自己亲身体会更好</p>
+<p>钢琴 彩云追月（国风歌曲），春舞（新疆舞曲，王洛宾）</p>
+<p>扬琴</p>
+<p>书法</p>
+<p>伊犁天鹅湖视频</p>
+<p>手编工艺品</p>
+<p>合唱 闪亮的名字</p>
+<h5 id="部分资料"><a href="#部分资料" class="headerlink" title="部分资料"></a>部分资料</h5><p>已购资料</p>
+<p>往年考试答案及评分标准待查询</p>
+<p>统考</p>
+<p>论文有出版范文（图书馆）</p>
+<h5 id="笔记"><a href="#笔记" class="headerlink" title="笔记"></a>笔记</h5>]]></content>
+      <categories>
+        <category>study</category>
+        <category>physics</category>
+      </categories>
+      <tags>
+        <tag>now</tag>
       </tags>
   </entry>
 </search>
