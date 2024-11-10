@@ -44,6 +44,24 @@
       </tags>
   </entry>
   <entry>
+    <title>Computational Physics</title>
+    <url>/2024/09/03/Computational-Physics/</url>
+    <content><![CDATA[<p>以下为计算物理本学期学习记录，加油！</p>
+<span id="more"></span>
+
+<a href="/2024/09/03/Computational-Physics/%E7%BB%AA%E8%AE%BA.pdf" title="[绪论.pdf]">[绪论.pdf]</a><br/>
+
+<a href="/2024/09/03/Computational-Physics/%E8%92%99%E7%89%B9%E5%8D%A1%E6%B4%9B%E6%96%B9%E6%B3%95.pdf" title="[蒙特卡洛方法.pdf]">[蒙特卡洛方法.pdf]</a><br/>
+
+<a href="/2024/09/03/Computational-Physics/%E8%92%99%E7%89%B9%E5%8D%A1%E6%B4%9B%E6%96%B9%E6%B3%95-%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E6%8A%BD%E6%A0%B7%E6%96%B9%E6%B3%95.pdf" title="[蒙特卡洛方法-随机变量抽样方法.pdf]">[蒙特卡洛方法-随机变量抽样方法.pdf]</a><br/>
+]]></content>
+      <categories>
+        <category>study</category>
+        <category>computer system</category>
+        <category>physics</category>
+      </categories>
+  </entry>
+  <entry>
     <title>Calorifics</title>
     <url>/2023/09/01/Calorifics/</url>
     <content><![CDATA[<p>因此课程为Blog搭建前学习，暂用于存放笔记及文件</p>
@@ -79,24 +97,6 @@
         <tag>not-so-satisfied</tag>
         <tag>lesson</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>Computational Physics</title>
-    <url>/2024/09/03/Computational-Physics/</url>
-    <content><![CDATA[<p>以下为计算物理本学期学习记录，加油！</p>
-<span id="more"></span>
-
-<a href="/2024/09/03/Computational-Physics/%E7%BB%AA%E8%AE%BA.pdf" title="[绪论.pdf]">[绪论.pdf]</a><br/>
-
-<a href="/2024/09/03/Computational-Physics/%E8%92%99%E7%89%B9%E5%8D%A1%E6%B4%9B%E6%96%B9%E6%B3%95.pdf" title="[蒙特卡洛方法.pdf]">[蒙特卡洛方法.pdf]</a><br/>
-
-<a href="/2024/09/03/Computational-Physics/%E8%92%99%E7%89%B9%E5%8D%A1%E6%B4%9B%E6%96%B9%E6%B3%95-%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E6%8A%BD%E6%A0%B7%E6%96%B9%E6%B3%95.pdf" title="[蒙特卡洛方法-随机变量抽样方法.pdf]">[蒙特卡洛方法-随机变量抽样方法.pdf]</a><br/>
-]]></content>
-      <categories>
-        <category>study</category>
-        <category>physics</category>
-        <category>computer system</category>
-      </categories>
   </entry>
   <entry>
     <title>Computer Science(C language)</title>
@@ -183,17 +183,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Digital Circuit</title>
-    <url>/2024/09/03/Digital-Circuit/</url>
-    <content><![CDATA[<p>以下为数字电路本学期学习记录，加油！</p>
-<span id="more"></span>
-]]></content>
-      <categories>
-        <category>study</category>
-        <category>electric circuit</category>
-      </categories>
-  </entry>
-  <entry>
     <title>Healthy_Sports</title>
     <url>/2024/08/21/Healthy-Sports/</url>
     <content><![CDATA[<p>本博客是为记录运动日常</p>
@@ -214,6 +203,72 @@
       <tags>
         <tag>health,care</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Linear Algebra</title>
+    <url>/2023/09/01/Linear-Algebra/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>Mathematical Analysis(B1)</title>
+    <url>/2023/09/01/Mathematical-Analysis-B1/</url>
+    <content><![CDATA[<p>因此课程为Blog搭建前学习，暂用于存放笔记及文件</p>
+<span id="more"></span>
+
+<p>得益于学期中精益求精，敢于面对困难的学习方式，以及假期高强度且状态好的复习，虽然期中未找清定位相对期末有些失利，但最终结果4.0足以令人满意。希望未来能找到与这门课相同的学习状态，需要改进的在于，学期内的学习效率，不要拖延畏难，争取在学期内达到假期复习的额外效果。</p>
+<h5 id="笔记总结"><a href="#笔记总结" class="headerlink" title="笔记总结"></a>笔记总结</h5><a href="/2023/09/01/Mathematical-Analysis-B1/%E6%80%BB%E7%BB%93%E7%AC%94%E8%AE%B0.pdf" title="[总结笔记.pdf]">[总结笔记.pdf]</a>
+
+<h5 id="wht老师讲义，见未解散的QQ群。"><a href="#wht老师讲义，见未解散的QQ群。" class="headerlink" title="wht老师讲义，见未解散的QQ群。"></a>wht老师讲义，见未解散的QQ群。</h5><h5 id="部分参考答案-笔记"><a href="#部分参考答案-笔记" class="headerlink" title="部分参考答案+笔记"></a>部分参考答案+笔记</h5><a href="/2023/09/01/Mathematical-Analysis-B1/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf" title="[第三次作业参考答案.pdf]">[第三次作业参考答案.pdf]</a><br/>
+
+<a href="/2023/09/01/Mathematical-Analysis-B1/%E7%AC%AC%E5%9B%9B%E6%AC%A1%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf" title="[第四次作业参考答案.pdf]">[第四次作业参考答案.pdf]</a><br/>
+
+<a href="/2023/09/01/Mathematical-Analysis-B1/%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88(2).pdf" title="[第五次作业参考答案(2).pdf]">[第五次作业参考答案(2).pdf]</a><br/>
+
+<a href="/2023/09/01/Mathematical-Analysis-B1/%E7%AC%AC%E4%B8%83%E6%AC%A1%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf" title="[第七次作业参考答案.pdf]">[第七次作业参考答案.pdf]</a><br/>
+
+<br/>
+
+<a href="/2023/09/01/Mathematical-Analysis-B1/%E7%AC%AC%E4%B9%9D%E5%91%A8%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf" title="[第九周作业答案.pdf]">[第九周作业答案.pdf]</a><br/>
+
+<a href="/2023/09/01/Mathematical-Analysis-B1/%E7%AC%AC%E5%8D%81%E5%91%A8%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf" title="[第十周作业参考答案.pdf]">[第十周作业参考答案.pdf]</a><br/>
+
+<a href="/2023/09/01/Mathematical-Analysis-B1/%E7%AC%AC%E5%8D%81%E6%AC%A1%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf" title="[第十次作业参考答案.pdf]">[第十次作业参考答案.pdf]</a><br/>
+
+<a href="/2023/09/01/Mathematical-Analysis-B1/%E7%AC%AC%E5%8D%81%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf" title="[第十一次作业参考答案.pdf]">[第十一次作业参考答案.pdf]</a><br/>
+
+<a href="/2023/09/01/Mathematical-Analysis-B1/%E7%AC%AC%E5%8D%81%E4%BA%8C%E6%AC%A1%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf" title="[第十二次作业参考答案.pdf]">[第十二次作业参考答案.pdf]</a><br/>
+
+<a href="/2023/09/01/Mathematical-Analysis-B1/%E7%AC%AC%E5%8D%81%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf" title="[第十三次作业参考答案.pdf]">[第十三次作业参考答案.pdf]</a><br/>
+
+<a href="/2023/09/01/Mathematical-Analysis-B1/%E4%BE%8B%E9%A2%988%E5%AE%8C%E6%95%B4%E7%89%88.pdf" title="[例题8完整版.pdf]">[例题8完整版.pdf]</a>
+
+<h5 id="习题课讲义"><a href="#习题课讲义" class="headerlink" title="习题课讲义"></a>习题课讲义</h5><a href="/2023/09/01/Mathematical-Analysis-B1/%E5%BE%AE%E7%A7%AF%E5%88%86%E5%AD%A6%E7%AE%80%E5%8F%B2.pdf" title="[微积分学简史.pdf]">[微积分学简史.pdf]</a><br/>
+
+<a href="/2023/09/01/Mathematical-Analysis-B1/MAB1ExerLesson1.pdf" title="[MAB1ExerLesson1.pdf]">[MAB1ExerLesson1.pdf]</a><br/>
+
+<a href="/2023/09/01/Mathematical-Analysis-B1/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90(B1)%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89(1).pdf" title="[数学分析(B1)习题课讲义(1).pdf]">[数学分析(B1)习题课讲义(1).pdf]</a><br/>
+
+<a href="/2023/09/01/Mathematical-Analysis-B1/MAB1ExerLesson4.pdf" title="[MAB1ExerLesson4.pdf]">[MAB1ExerLesson4.pdf]</a><br/>
+
+<a href="/2023/09/01/Mathematical-Analysis-B1/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90B1%E7%AC%AC%E4%B8%83%E6%AC%A1%E4%B9%A0%E9%A2%98%E8%AF%BE.pdf" title="[数学分析B1第七次习题课.pdf]">[数学分析B1第七次习题课.pdf]</a><br/>
+
+
+
+<h5 id="考试相关，历年真题，见note-shelf"><a href="#考试相关，历年真题，见note-shelf" class="headerlink" title="考试相关，历年真题，见note shelf"></a>考试相关，历年真题，见note shelf</h5><a href="/2023/09/01/Mathematical-Analysis-B1/MidtermAnswer(2).pdf" title="[MidtermAnswer(2).pdf]">[MidtermAnswer(2).pdf]</a>
+]]></content>
+      <categories>
+        <category>study</category>
+        <category>math</category>
+      </categories>
+      <tags>
+        <tag>confidence</tag>
+        <tag>proud</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Mathematical Analysis(B2)</title>
+    <url>/2023/09/01/Mathematical-Analysis-B2/</url>
+    <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>Leaping Abroad</title>
@@ -284,288 +339,6 @@
       </categories>
       <tags>
         <tag>dream,plan</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Machanics(A1)</title>
-    <url>/2023/09/01/Machanics-A1/</url>
-    <content><![CDATA[<p>因此课程为Blog搭建前学习，暂用于存放笔记及文件</p>
-<span id="more"></span>
-
-<p>学期中事实上听课效果不算好，在学过竞赛的同学相对轻视这门课，而自己又没有找到自学方法，作业也未求甚解的气氛和情况下，期中考前幸而临时抱佛脚，认真理解完之前的内容+状态较好，保住了平均分，加上假期高强度且状态好的复习（人生第一次看辅导书《舒幼生力学》在流体部分和相对论部分有很大帮助，考试也恰好重视这一部分），最终结果3.7足以令人满意。想起来还是怀念大一上学期努力找方法，甚至上课状态不好便将课程录下来反复蹲在楼道里听，再把笔记全部补上的韧劲，凡事事出必有因，千万不要畏惧付出，患得患失，结果不太好时，是不是连自己都忘了，自己已经在幻梦和各种牵绊中丢失了出发时的这股勇气呢。要常常静下来对内反思，要从整体上独立起来，明白自己做事是为了自己的目标。学会了保护自己，是为了在更平坦的路上继续向前，而不是止步不前耽溺安稳啊。</p>
-<p>上传笔记过程中有感：谦虚才是你的本性和灵性的源泉，源源不断的探索，学习和吸收能够使你实现能力的超越。事实上，远离会伤害你的人，就不必学着为自己制作铠甲。在现在这一学习锻炼的重要时期，就谦虚地去做吧，你不需要向任何人展示什么，而是要尽一切可能去提升和锻炼自己，这一切是为了走自己的路，也是为了实现自我的超越。</p>
-<h5 id="笔记总结"><a href="#笔记总结" class="headerlink" title="笔记总结"></a>笔记总结</h5>
-
-<h5 id="课本有留存，习题解答，舒幼生力学见source文件"><a href="#课本有留存，习题解答，舒幼生力学见source文件" class="headerlink" title="课本有留存，习题解答，舒幼生力学见source文件"></a>课本有留存，习题解答，舒幼生力学见source文件</h5><h5 id="笔记"><a href="#笔记" class="headerlink" title="笔记"></a>笔记</h5><a href="/2023/09/01/Machanics-A1/%E5%8A%9B%E5%AD%A6A%EF%BC%88%E5%8A%A8%E9%87%8F%E5%AE%9A%E7%90%86%EF%BC%89.pdf" title="[力学A（动量定理）.pdf]">[力学A（动量定理）.pdf]</a><br/>
-
-<a href="/2023/09/01/Machanics-A1/%E5%8A%9B%E5%AD%A6A%EF%BC%88%E5%8A%A8%E9%87%8F%E5%AE%9A%E7%90%86%EF%BC%89.pdf" title="[力学A（动量定理）.pdf]">[力学A（动量定理）.pdf]</a><br/>
-
-<a href="/2023/09/01/Machanics-A1/%E5%8A%9B%E5%AD%A6A%EF%BC%88%E5%88%9A%E4%BD%93%EF%BC%89.pdf" title="[力学A（刚体）.pdf]">[力学A（刚体）.pdf]</a><br/>
-
-<a href="/2023/09/01/Machanics-A1/%E5%8A%9B%E5%AD%A6A%EF%BC%88%E6%83%AF%E6%80%A7%E5%8A%9B%EF%BC%89.pdf" title="[力学A（惯性力）.pdf]">[力学A（惯性力）.pdf]</a><br/>
-
-<a href="/2023/09/01/Machanics-A1/%E5%8A%9B%E5%AD%A6A%EF%BC%88%E8%A7%92%E5%8A%A8%E9%87%8F%EF%BC%89.pdf" title="[力学A（角动量）.pdf]">[力学A（角动量）.pdf]</a><br/>
-
-<a href="/2023/09/01/Machanics-A1/%E5%8A%9B%E5%AD%A6A%EF%BC%88%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%EF%BC%89.pdf" title="[力学A（流体力学）.pdf]">[力学A（流体力学）.pdf]</a><br/>
-
-<a href="/2023/09/01/Machanics-A1/%E5%8A%9B%E5%AD%A6A%EF%BC%88%E7%9F%A5%E8%AF%86%E7%A7%AF%E7%B4%AF%EF%BC%89.pdf" title="[力学A（知识积累）.pdf]">[力学A（知识积累）.pdf]</a><br/>
-
-<a href="/2023/09/01/Machanics-A1/%E5%8A%9B%E5%AD%A6A%EF%BC%88%E6%80%BB%E7%BB%93%E6%80%A7%E7%AC%94%E8%AE%B0%EF%BC%89.pdf" title="[力学A（总结性笔记）.pdf]">[力学A（总结性笔记）.pdf]</a><br/>
-
-<a href="/2023/09/01/Machanics-A1/%E5%8A%9B%E5%AD%A6A%EF%BC%88%E6%80%BB%E7%BB%93%E4%B8%8E%E6%8E%A2%E7%B4%A2%EF%BC%89.pdf" title="[力学A（总结与探索）.pdf]">[力学A（总结与探索）.pdf]</a><br/>
-
-<a href="/2023/09/01/Machanics-A1/%E6%B5%81%E4%BD%93U%E5%BD%A2%E7%AE%A1.pdf" title="[流体U形管.pdf]">[流体U形管.pdf]</a><br/>
-
-<h5 id="习题课讲义"><a href="#习题课讲义" class="headerlink" title="习题课讲义"></a>习题课讲义</h5><a href="/2023/09/01/Machanics-A1/%E4%B9%A0%E9%A2%98%E8%AF%BE1.pdf" title="[习题课1.pdf]">[习题课1.pdf]</a><br/>
-
-
-
-<br/>
-
-<br/>
-
-
-
-<h5 id="考试相关，历年真题，见note-shelf"><a href="#考试相关，历年真题，见note-shelf" class="headerlink" title="考试相关，历年真题，见note shelf"></a>考试相关，历年真题，见note shelf</h5>
-]]></content>
-      <categories>
-        <category>study</category>
-        <category>physics</category>
-      </categories>
-      <tags>
-        <tag>endeavour</tag>
-        <tag>experience</tag>
-        <tag>model-of-myself</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Linear Algebra</title>
-    <url>/2023/09/01/Linear-Algebra/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>Mathematical Analysis(B1)</title>
-    <url>/2023/09/01/Mathematical-Analysis-B1/</url>
-    <content><![CDATA[<p>因此课程为Blog搭建前学习，暂用于存放笔记及文件</p>
-<span id="more"></span>
-
-<p>得益于学期中精益求精，敢于面对困难的学习方式，以及假期高强度且状态好的复习，虽然期中未找清定位相对期末有些失利，但最终结果4.0足以令人满意。希望未来能找到与这门课相同的学习状态，需要改进的在于，学期内的学习效率，不要拖延畏难，争取在学期内达到假期复习的额外效果。</p>
-<h5 id="笔记总结"><a href="#笔记总结" class="headerlink" title="笔记总结"></a>笔记总结</h5><a href="/2023/09/01/Mathematical-Analysis-B1/%E6%80%BB%E7%BB%93%E7%AC%94%E8%AE%B0.pdf" title="[总结笔记.pdf]">[总结笔记.pdf]</a>
-
-<h5 id="wht老师讲义，见未解散的QQ群。"><a href="#wht老师讲义，见未解散的QQ群。" class="headerlink" title="wht老师讲义，见未解散的QQ群。"></a>wht老师讲义，见未解散的QQ群。</h5><h5 id="部分参考答案-笔记"><a href="#部分参考答案-笔记" class="headerlink" title="部分参考答案+笔记"></a>部分参考答案+笔记</h5><a href="/2023/09/01/Mathematical-Analysis-B1/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf" title="[第三次作业参考答案.pdf]">[第三次作业参考答案.pdf]</a><br/>
-
-<a href="/2023/09/01/Mathematical-Analysis-B1/%E7%AC%AC%E5%9B%9B%E6%AC%A1%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf" title="[第四次作业参考答案.pdf]">[第四次作业参考答案.pdf]</a><br/>
-
-<a href="/2023/09/01/Mathematical-Analysis-B1/%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88(2).pdf" title="[第五次作业参考答案(2).pdf]">[第五次作业参考答案(2).pdf]</a><br/>
-
-<a href="/2023/09/01/Mathematical-Analysis-B1/%E7%AC%AC%E4%B8%83%E6%AC%A1%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf" title="[第七次作业参考答案.pdf]">[第七次作业参考答案.pdf]</a><br/>
-
-<br/>
-
-<a href="/2023/09/01/Mathematical-Analysis-B1/%E7%AC%AC%E4%B9%9D%E5%91%A8%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf" title="[第九周作业答案.pdf]">[第九周作业答案.pdf]</a><br/>
-
-<a href="/2023/09/01/Mathematical-Analysis-B1/%E7%AC%AC%E5%8D%81%E5%91%A8%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf" title="[第十周作业参考答案.pdf]">[第十周作业参考答案.pdf]</a><br/>
-
-<a href="/2023/09/01/Mathematical-Analysis-B1/%E7%AC%AC%E5%8D%81%E6%AC%A1%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf" title="[第十次作业参考答案.pdf]">[第十次作业参考答案.pdf]</a><br/>
-
-<a href="/2023/09/01/Mathematical-Analysis-B1/%E7%AC%AC%E5%8D%81%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf" title="[第十一次作业参考答案.pdf]">[第十一次作业参考答案.pdf]</a><br/>
-
-<a href="/2023/09/01/Mathematical-Analysis-B1/%E7%AC%AC%E5%8D%81%E4%BA%8C%E6%AC%A1%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf" title="[第十二次作业参考答案.pdf]">[第十二次作业参考答案.pdf]</a><br/>
-
-<a href="/2023/09/01/Mathematical-Analysis-B1/%E7%AC%AC%E5%8D%81%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf" title="[第十三次作业参考答案.pdf]">[第十三次作业参考答案.pdf]</a><br/>
-
-<a href="/2023/09/01/Mathematical-Analysis-B1/%E4%BE%8B%E9%A2%988%E5%AE%8C%E6%95%B4%E7%89%88.pdf" title="[例题8完整版.pdf]">[例题8完整版.pdf]</a>
-
-<h5 id="习题课讲义"><a href="#习题课讲义" class="headerlink" title="习题课讲义"></a>习题课讲义</h5><a href="/2023/09/01/Mathematical-Analysis-B1/%E5%BE%AE%E7%A7%AF%E5%88%86%E5%AD%A6%E7%AE%80%E5%8F%B2.pdf" title="[微积分学简史.pdf]">[微积分学简史.pdf]</a><br/>
-
-<a href="/2023/09/01/Mathematical-Analysis-B1/MAB1ExerLesson1.pdf" title="[MAB1ExerLesson1.pdf]">[MAB1ExerLesson1.pdf]</a><br/>
-
-<a href="/2023/09/01/Mathematical-Analysis-B1/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90(B1)%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89(1).pdf" title="[数学分析(B1)习题课讲义(1).pdf]">[数学分析(B1)习题课讲义(1).pdf]</a><br/>
-
-<a href="/2023/09/01/Mathematical-Analysis-B1/MAB1ExerLesson4.pdf" title="[MAB1ExerLesson4.pdf]">[MAB1ExerLesson4.pdf]</a><br/>
-
-<a href="/2023/09/01/Mathematical-Analysis-B1/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90B1%E7%AC%AC%E4%B8%83%E6%AC%A1%E4%B9%A0%E9%A2%98%E8%AF%BE.pdf" title="[数学分析B1第七次习题课.pdf]">[数学分析B1第七次习题课.pdf]</a><br/>
-
-
-
-<h5 id="考试相关，历年真题，见note-shelf"><a href="#考试相关，历年真题，见note-shelf" class="headerlink" title="考试相关，历年真题，见note shelf"></a>考试相关，历年真题，见note shelf</h5><a href="/2023/09/01/Mathematical-Analysis-B1/MidtermAnswer(2).pdf" title="[MidtermAnswer(2).pdf]">[MidtermAnswer(2).pdf]</a>
-]]></content>
-      <categories>
-        <category>study</category>
-        <category>math</category>
-      </categories>
-      <tags>
-        <tag>confidence</tag>
-        <tag>proud</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Mathematical Analysis(B2)</title>
-    <url>/2023/09/01/Mathematical-Analysis-B2/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>Nonlinear Optics</title>
-    <url>/2024/09/01/Nonlinear-Optics/</url>
-    <content><![CDATA[<p>以下为非线性光学学习记录，加油！</p>
-<span id="more"></span>
-
-<h5 id="假期完成："><a href="#假期完成：" class="headerlink" title="假期完成："></a>假期完成：</h5><p>看了50页书，到第三章；</p>
-<h5 id="学习记录"><a href="#学习记录" class="headerlink" title="学习记录"></a>学习记录</h5><p>10.6之前</p>
-<p>完成三周作业，PPT完成精看，第一周作业未精看，其余次完成精看；</p>
-<p>10.8计划</p>
-<p>把第四周作业完成，那一天的ppt看了</p>
-<h5 id="现有资料汇总："><a href="#现有资料汇总：" class="headerlink" title="现有资料汇总："></a>现有资料汇总：</h5><p>习题答案：严镇军答案by张舒博，9月答案</p>
-<p>教辅：史济怀书（实体）；严镇军教材勘误；波波讲义；学长笔记（内有往年卷）</p>
-<p>习题集：复变函数习题精选精解，复变函数与积分变换</p>
-<p>知识点整理</p>
-<h5 id="课程时间："><a href="#课程时间：" class="headerlink" title="课程时间："></a>课程时间：</h5><p>3，67；5，34</p>
-<h5 id="评课tips"><a href="#评课tips" class="headerlink" title="评课tips"></a>评课tips</h5><p>PPT较详尽，可跟进度自学。（提前预习PPT）</p>
-<p>有小测。（保证到课）</p>
-<h5 id="部分资料"><a href="#部分资料" class="headerlink" title="部分资料"></a>部分资料</h5><br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<h5 id="笔记总结"><a href="#笔记总结" class="headerlink" title="笔记总结"></a>笔记总结</h5>
-
-<h5 id="wht老师讲义，见未解散的QQ群。"><a href="#wht老师讲义，见未解散的QQ群。" class="headerlink" title="wht老师讲义，见未解散的QQ群。"></a>wht老师讲义，见未解散的QQ群。</h5><h5 id="部分参考答案-笔记"><a href="#部分参考答案-笔记" class="headerlink" title="部分参考答案+笔记"></a>部分参考答案+笔记</h5><br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-
-
-<h5 id="习题课讲义"><a href="#习题课讲义" class="headerlink" title="习题课讲义"></a>习题课讲义</h5><br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-
-
-<h5 id="考试相关，历年真题，见note-shelf"><a href="#考试相关，历年真题，见note-shelf" class="headerlink" title="考试相关，历年真题，见note shelf"></a>考试相关，历年真题，见note shelf</h5>
-]]></content>
-      <categories>
-        <category>study</category>
-        <category>physics</category>
-      </categories>
-      <tags>
-        <tag>now</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Photology</title>
-    <url>/2023/09/01/Photology/</url>
-    <content><![CDATA[<p>以下为光学学习记录</p>
-<span id="more"></span>
-
-<h5 id="假期完成："><a href="#假期完成：" class="headerlink" title="假期完成："></a>假期完成：</h5><p>看了130页书，到第4章；总结了一部分笔记（记得看）</p>
-<h5 id="学习记录"><a href="#学习记录" class="headerlink" title="学习记录"></a>学习记录</h5><p>作业一定要先自己写 ，然后对照答案写反思</p>
-<p>先自己做一遍作业，再对照答案把作业反思写了，考前把作业重做一遍，笔记重看一遍</p>
-<p>再进一步学王沛ppt</p>
-<p>10.6</p>
-<p>精看完PPT102；第二周作业</p>
-<p>10.7计划</p>
-<p>预习下一节课内容（no）</p>
-<p>离期中还有一个月，加油加油！</p>
-<p>10.9完成</p>
-<p>PPT 103（9.18）；精看第三周作业；还是有点慢啊，加油！</p>
-<h5 id="现有资料汇总："><a href="#现有资料汇总：" class="headerlink" title="现有资料汇总："></a>现有资料汇总：</h5><p>习题答案：赵凯华答案</p>
-<p>教辅：王沛ppt（一定作为课内内容用好）；chb教材；知识点总结；部分课外pdf（小论文可用）</p>
-<p>习题集：往年卷，大题典</p>
-<h5 id="课程时间："><a href="#课程时间：" class="headerlink" title="课程时间："></a>课程时间：</h5><p>1，34；3，12 ；4，34旁听陈巍老师课</p>
-<h5 id="评课tips"><a href="#评课tips" class="headerlink" title="评课tips"></a>评课tips</h5><p>老师助教较摆，要要多看课外材料，重视旁听（以提升思维为目标旁听）（加好旁听群，利用好助教，找负责的）</p>
-<p>有小论文加分 ，提前考虑和准备，最好提前与老师讨论选题</p>
-<p>重视作业，考试不难，有原题，故作业多做几遍（尝试实施作业多遍训练）</p>
-<p>有少量小测。（保证到课）</p>
-<p>给分据说不错吧</p>
-<h5 id="部分资料"><a href="#部分资料" class="headerlink" title="部分资料"></a>部分资料</h5><p>作业答案：</p>
-<a href="/2023/09/01/Photology/%E5%85%89%E5%AD%A6%E4%B9%A0%E9%A2%98%E6%80%9D%E8%80%83%E9%A2%98%E8%A7%A3%E7%AD%94.pdf" title="[光学习题思考题解答.pdf]">[光学习题思考题解答.pdf]</a><br/>
-
-<p>已精读课内PPT：</p>
-<a href="/2023/09/01/Photology/potic101.pdf" title="[potic 101.pdf]">[potic 101.pdf]</a><br/>
-
-<a href="/2023/09/01/Photology/102.pdf" title="[potic 102.pdf]">[potic 102.pdf]</a><br/>
-
-<a href="/2023/09/01/Photology/103.pdf" title="[potic 103.pdf]">[potic 103.pdf]</a><br/>
-
-<h5 id="笔记"><a href="#笔记" class="headerlink" title="笔记"></a>笔记</h5><br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-
-
-<h5 id="习题课讲义"><a href="#习题课讲义" class="headerlink" title="习题课讲义"></a>习题课讲义</h5><br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-
-
-<h5 id="考试相关，历年真题，见note-shelf"><a href="#考试相关，历年真题，见note-shelf" class="headerlink" title="考试相关，历年真题，见note shelf"></a>考试相关，历年真题，见note shelf</h5>
-
-
-
-<p>结果：</p>
-<p>4.3，真棒！</p>
-<p>稍有天赋，努力为上，是用心用时间成功的好样本。</p>
-]]></content>
-      <categories>
-        <category>study</category>
-        <category>physics</category>
-      </categories>
-      <tags>
-        <tag>effective method</tag>
-        <tag>endeavour</tag>
-        <tag>lesson</tag>
       </tags>
   </entry>
   <entry>
@@ -648,53 +421,34 @@
       </tags>
   </entry>
   <entry>
-    <title>Python</title>
-    <url>/2023/09/01/Python/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>mathematical and physical equations</title>
-    <url>/2024/03/04/Mathematical-Equations/</url>
-    <content><![CDATA[<p>以下为数理方程本学期学习记录，加油！</p>
+    <title>Nonlinear Optics</title>
+    <url>/2024/09/01/Nonlinear-Optics/</url>
+    <content><![CDATA[<p>以下为非线性光学学习记录，加油！</p>
 <span id="more"></span>
 
-<h5 id="学习记录"><a href="#学习记录" class="headerlink" title="学习记录"></a>学习记录</h5><p>作业一定要先自己写 ，且要自己探究多方法解题。然后对照答案写反思</p>
-<p>先自己做一遍作业，再对照答案把作业反思写了，考前把作业重做一遍，笔记重看一遍</p>
-<h5 id="现有资料汇总："><a href="#现有资料汇总：" class="headerlink" title="现有资料汇总："></a>现有资料汇总：</h5><p>教材</p>
-<p>习题答案：有（比较简陋）</p>
-<p>教辅：李书敏ppt（一定作为课内内容用好），提前看</p>
-<p>习题集：近年真题，习题，习题集</p>
-<p>总结：结构图，tips and notes，波波总结</p>
-<h5 id="给分"><a href="#给分" class="headerlink" title="给分"></a>给分</h5><p>无小测，无期中</p>
-<p>4.3约20%，但后面不调，故尽量往前，你应当能做到</p>
-<h5 id="评课tips"><a href="#评课tips" class="headerlink" title="评课tips"></a>评课tips</h5><p>卷子计算量很大，刷题和平时作业练习非常重要，亲手算亲手研究！</p>
-<p>要不来十个往年卷。。。</p>
-<p>近年计算量激增，不要被往年迷惑</p>
-<p>作业较少，自己要补充</p>
-<p>自学会更好，听讲不易有思路</p>
-<p>讲义很好，面向考试，重点突出</p>
-<h5 id="复习参考"><a href="#复习参考" class="headerlink" title="复习参考"></a>复习参考</h5><p><em><strong>*速度+熟练&#x3D;辉煌！！*</strong></em></p>
-<p><em><strong>*考前：*</strong></em></p>
-<p>计算量比较大的题型（如****d’Alembert公式、冲量原理、三角函数、Bessel函数和Legendre多项式的分解、Fourier反变换、卷积****）考前如果有时间的话可以着重练习一下上面说的几个计算量比较大的题型，熟悉套路考试会轻松很多。比较冷门的题型（如Laplace变换、球空间Green函数）应该大概率不会考。</p>
-<p>复习的时候，****刷一遍书后题（不考的不看），刷一遍书（尤其老师重点强调的部分，像镜像法求格林函数，还有前面的分离变量，我推导了几遍，要熟练到不用怎么思考就能写下来的程度****，会很大程度上节省考试时间），再刷一遍10年往后的考卷（有时间的话自然可以再多看看以前的）</p>
-<p>层主就是平时上课听不懂，作业一脸懵逼，但是<em><strong>*基本的方法套路掌握了，考前疯狂刷试卷，手感很好*<em><strong>，考场上大牛们都在纠结细节结果很多人写不完，然后</strong></em>\我直接不管三七二十一写下去*<strong>亲测很棒！！</strong></strong></em>**，最后虽然错了不少细节，但扣分非常少！基本都是算错一个一分！考了92，也算非常对得起我这糊里糊涂的学习了！</p>
-<p><em><strong>*考试期间：*</strong></em></p>
-<p>快速而熟练地把所有的题目做完！！</p>
-<p>考试实际上很简单，套路痕迹很深，还有一两道套路和历届卷完全相同的题，所以考的也不错，考了99，总评也是99~</p>
-<p><em><strong>*考后：*</strong></em></p>
-<p><em><strong>*但是…一定记得要去查卷…因为卷子都是助教改的…风格就是那种最后结果和答案形式不同都会直接扣分的那种…所以要把握机会和老师argue，即使自己当时毫无想法也要理直气壮……*</strong></em></p>
-<p>关于期末考试，我想是一次教训，这种计算考试，要的就是最后的结果，而不是思路，你虽然感觉做的顺做完了，可却没有把握住最重要的部分。应与练习不足有关。</p>
-<h5 id="部分资料"><a href="#部分资料" class="headerlink" title="部分资料"></a>部分资料</h5><p>作业答案：</p>
-<br/>
+<h5 id="假期完成："><a href="#假期完成：" class="headerlink" title="假期完成："></a>假期完成：</h5><p>看了50页书，到第三章；</p>
+<h5 id="学习记录"><a href="#学习记录" class="headerlink" title="学习记录"></a>学习记录</h5><p>10.6之前</p>
+<p>完成三周作业，PPT完成精看，第一周作业未精看，其余次完成精看；</p>
+<p>10.8计划</p>
+<p>把第四周作业完成，那一天的ppt看了</p>
+<h5 id="现有资料汇总："><a href="#现有资料汇总：" class="headerlink" title="现有资料汇总："></a>现有资料汇总：</h5><p>习题答案：严镇军答案by张舒博，9月答案</p>
+<p>教辅：史济怀书（实体）；严镇军教材勘误；波波讲义；学长笔记（内有往年卷）</p>
+<p>习题集：复变函数习题精选精解，复变函数与积分变换</p>
+<p>知识点整理</p>
+<h5 id="课程时间："><a href="#课程时间：" class="headerlink" title="课程时间："></a>课程时间：</h5><p>3，67；5，34</p>
+<h5 id="评课tips"><a href="#评课tips" class="headerlink" title="评课tips"></a>评课tips</h5><p>PPT较详尽，可跟进度自学。（提前预习PPT）</p>
+<p>有小测。（保证到课）</p>
+<h5 id="部分资料"><a href="#部分资料" class="headerlink" title="部分资料"></a>部分资料</h5><br/>
 
-<p>已精读课内PPT：</p>
 <br/>
 
 <br/>
 
 <br/>
 
-<h5 id="笔记"><a href="#笔记" class="headerlink" title="笔记"></a>笔记</h5><br/>
+<h5 id="笔记总结"><a href="#笔记总结" class="headerlink" title="笔记总结"></a>笔记总结</h5>
+
+<h5 id="wht老师讲义，见未解散的QQ群。"><a href="#wht老师讲义，见未解散的QQ群。" class="headerlink" title="wht老师讲义，见未解散的QQ群。"></a>wht老师讲义，见未解散的QQ群。</h5><h5 id="部分参考答案-笔记"><a href="#部分参考答案-笔记" class="headerlink" title="部分参考答案+笔记"></a>部分参考答案+笔记</h5><br/>
 
 <br/>
 
@@ -730,24 +484,97 @@
 
 
 
-<h5 id="考试相关，历年真题，见note-shelf"><a href="#考试相关，历年真题，见note-shelf" class="headerlink" title="考试相关，历年真题，见note shelf"></a>考试相关，历年真题，见note shelf</h5>]]></content>
+<h5 id="考试相关，历年真题，见note-shelf"><a href="#考试相关，历年真题，见note-shelf" class="headerlink" title="考试相关，历年真题，见note shelf"></a>考试相关，历年真题，见note shelf</h5>
+]]></content>
       <categories>
         <category>study</category>
-        <category>math</category>
+        <category>physics</category>
       </categories>
       <tags>
-        <tag>effective method</tag>
-        <tag>not-so-satisfied</tag>
-        <tag>lesson</tag>
+        <tag>now</tag>
       </tags>
   </entry>
   <entry>
-    <title>Quantum Mechanics</title>
-    <url>/2024/09/02/Quantum-Mechanics/</url>
-    <content><![CDATA[<p>以下为量子力学学习记录，加油！</p>
+    <title>Digital Circuit</title>
+    <url>/2024/09/03/Digital-Circuit/</url>
+    <content><![CDATA[<p>以下为数字电路本学期学习记录，加油！</p>
 <span id="more"></span>
 
-<h5 id="现有资料汇总："><a href="#现有资料汇总：" class="headerlink" title="现有资料汇总："></a>现有资料汇总：</h5><h5 id="评课tips"><a href="#评课tips" class="headerlink" title="评课tips"></a>评课tips</h5>]]></content>
+<a href="/2024/09/03/Digital-Circuit/homework1.pdf" title="[homework1.pdf]">[homework1.pdf]</a><br/>
+
+<a href="/2024/09/03/Digital-Circuit/homework2.pdf" title="[homework2.pdf]">[homework2.pdf]</a><br/>
+
+<a href="/2024/09/03/Digital-Circuit/homework3.pdf" title="[homework3.pdf]">[homework3.pdf]</a><br/>
+
+<a href="/2024/09/03/Digital-Circuit/homework4.pdf" title="[homework4.pdf]">[homework4.pdf]</a><br/>
+
+<a href="/2024/09/03/Digital-Circuit/homework5.pdf" title="[homework5.pdf]">[homework5.pdf]</a><br/>
+
+<br/>
+
+<a href="/2024/09/03/Digital-Circuit/homework7.pdf" title="[homework7.pdf]">[homework7.pdf]</a><br/>
+]]></content>
+      <categories>
+        <category>study</category>
+        <category>electric circuit</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Machanics(A1)</title>
+    <url>/2023/09/01/Machanics-A1/</url>
+    <content><![CDATA[<p>因此课程为Blog搭建前学习，暂用于存放笔记及文件</p>
+<span id="more"></span>
+
+<p>学期中事实上听课效果不算好，在学过竞赛的同学相对轻视这门课，而自己又没有找到自学方法，作业也未求甚解的气氛和情况下，期中考前幸而临时抱佛脚，认真理解完之前的内容+状态较好，保住了平均分，加上假期高强度且状态好的复习（人生第一次看辅导书《舒幼生力学》在流体部分和相对论部分有很大帮助，考试也恰好重视这一部分），最终结果3.7足以令人满意。想起来还是怀念大一上学期努力找方法，甚至上课状态不好便将课程录下来反复蹲在楼道里听，再把笔记全部补上的韧劲，凡事事出必有因，千万不要畏惧付出，患得患失，结果不太好时，是不是连自己都忘了，自己已经在幻梦和各种牵绊中丢失了出发时的这股勇气呢。要常常静下来对内反思，要从整体上独立起来，明白自己做事是为了自己的目标。学会了保护自己，是为了在更平坦的路上继续向前，而不是止步不前耽溺安稳啊。</p>
+<p>上传笔记过程中有感：谦虚才是你的本性和灵性的源泉，源源不断的探索，学习和吸收能够使你实现能力的超越。事实上，远离会伤害你的人，就不必学着为自己制作铠甲。在现在这一学习锻炼的重要时期，就谦虚地去做吧，你不需要向任何人展示什么，而是要尽一切可能去提升和锻炼自己，这一切是为了走自己的路，也是为了实现自我的超越。</p>
+<h5 id="笔记总结"><a href="#笔记总结" class="headerlink" title="笔记总结"></a>笔记总结</h5>
+
+<h5 id="课本有留存，习题解答，舒幼生力学见source文件"><a href="#课本有留存，习题解答，舒幼生力学见source文件" class="headerlink" title="课本有留存，习题解答，舒幼生力学见source文件"></a>课本有留存，习题解答，舒幼生力学见source文件</h5><h5 id="笔记"><a href="#笔记" class="headerlink" title="笔记"></a>笔记</h5><a href="/2023/09/01/Machanics-A1/%E5%8A%9B%E5%AD%A6A%EF%BC%88%E5%8A%A8%E9%87%8F%E5%AE%9A%E7%90%86%EF%BC%89.pdf" title="[力学A（动量定理）.pdf]">[力学A（动量定理）.pdf]</a><br/>
+
+<a href="/2023/09/01/Machanics-A1/%E5%8A%9B%E5%AD%A6A%EF%BC%88%E5%8A%A8%E9%87%8F%E5%AE%9A%E7%90%86%EF%BC%89.pdf" title="[力学A（动量定理）.pdf]">[力学A（动量定理）.pdf]</a><br/>
+
+<a href="/2023/09/01/Machanics-A1/%E5%8A%9B%E5%AD%A6A%EF%BC%88%E5%88%9A%E4%BD%93%EF%BC%89.pdf" title="[力学A（刚体）.pdf]">[力学A（刚体）.pdf]</a><br/>
+
+<a href="/2023/09/01/Machanics-A1/%E5%8A%9B%E5%AD%A6A%EF%BC%88%E6%83%AF%E6%80%A7%E5%8A%9B%EF%BC%89.pdf" title="[力学A（惯性力）.pdf]">[力学A（惯性力）.pdf]</a><br/>
+
+<a href="/2023/09/01/Machanics-A1/%E5%8A%9B%E5%AD%A6A%EF%BC%88%E8%A7%92%E5%8A%A8%E9%87%8F%EF%BC%89.pdf" title="[力学A（角动量）.pdf]">[力学A（角动量）.pdf]</a><br/>
+
+<a href="/2023/09/01/Machanics-A1/%E5%8A%9B%E5%AD%A6A%EF%BC%88%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%EF%BC%89.pdf" title="[力学A（流体力学）.pdf]">[力学A（流体力学）.pdf]</a><br/>
+
+<a href="/2023/09/01/Machanics-A1/%E5%8A%9B%E5%AD%A6A%EF%BC%88%E7%9F%A5%E8%AF%86%E7%A7%AF%E7%B4%AF%EF%BC%89.pdf" title="[力学A（知识积累）.pdf]">[力学A（知识积累）.pdf]</a><br/>
+
+<a href="/2023/09/01/Machanics-A1/%E5%8A%9B%E5%AD%A6A%EF%BC%88%E6%80%BB%E7%BB%93%E6%80%A7%E7%AC%94%E8%AE%B0%EF%BC%89.pdf" title="[力学A（总结性笔记）.pdf]">[力学A（总结性笔记）.pdf]</a><br/>
+
+<a href="/2023/09/01/Machanics-A1/%E5%8A%9B%E5%AD%A6A%EF%BC%88%E6%80%BB%E7%BB%93%E4%B8%8E%E6%8E%A2%E7%B4%A2%EF%BC%89.pdf" title="[力学A（总结与探索）.pdf]">[力学A（总结与探索）.pdf]</a><br/>
+
+<a href="/2023/09/01/Machanics-A1/%E6%B5%81%E4%BD%93U%E5%BD%A2%E7%AE%A1.pdf" title="[流体U形管.pdf]">[流体U形管.pdf]</a><br/>
+
+<h5 id="习题课讲义"><a href="#习题课讲义" class="headerlink" title="习题课讲义"></a>习题课讲义</h5><a href="/2023/09/01/Machanics-A1/%E4%B9%A0%E9%A2%98%E8%AF%BE1.pdf" title="[习题课1.pdf]">[习题课1.pdf]</a><br/>
+
+
+
+<br/>
+
+<br/>
+
+
+
+<h5 id="考试相关，历年真题，见note-shelf"><a href="#考试相关，历年真题，见note-shelf" class="headerlink" title="考试相关，历年真题，见note shelf"></a>考试相关，历年真题，见note shelf</h5>
+]]></content>
+      <categories>
+        <category>study</category>
+        <category>physics</category>
+      </categories>
+      <tags>
+        <tag>endeavour</tag>
+        <tag>experience</tag>
+        <tag>model-of-myself</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Python</title>
+    <url>/2023/09/01/Python/</url>
+    <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>Rational Mechanics</title>
@@ -840,6 +667,14 @@
         <category>work</category>
         <category>lab</category>
       </categories>
+  </entry>
+  <entry>
+    <title>Quantum Mechanics</title>
+    <url>/2024/09/02/Quantum-Mechanics/</url>
+    <content><![CDATA[<p>以下为量子力学学习记录，加油！</p>
+<span id="more"></span>
+
+<h5 id="现有资料汇总："><a href="#现有资料汇总：" class="headerlink" title="现有资料汇总："></a>现有资料汇总：</h5><h5 id="评课tips"><a href="#评课tips" class="headerlink" title="评课tips"></a>评课tips</h5>]]></content>
   </entry>
   <entry>
     <title>TOEFL</title>
@@ -952,103 +787,42 @@
       </tags>
   </entry>
   <entry>
-    <title>Volunteering</title>
-    <url>/2024/03/10/Volunteering/</url>
-    <content><![CDATA[<p>以下为社会实践与志愿活动参与记录，加油！</p>
+    <title>Photology</title>
+    <url>/2023/09/01/Photology/</url>
+    <content><![CDATA[<p>以下为光学学习记录</p>
 <span id="more"></span>
 
-<p>60h 100h,分别有一，二级志愿星级证书（现38h），这学期集满</p>
-<p>参加一次周日特教，之后可去写社会实践</p>
-]]></content>
-      <categories>
-        <category>activity</category>
-        <category>volunteer</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>Works as League Secretary</title>
-    <url>/2023/09/03/Works-as-League-Secretary/</url>
-    <content><![CDATA[<p>以下为团支书工作经验记录</p>
-<span id="more"></span>
+<h5 id="假期完成："><a href="#假期完成：" class="headerlink" title="假期完成："></a>假期完成：</h5><p>看了130页书，到第4章；总结了一部分笔记（记得看）</p>
+<h5 id="学习记录"><a href="#学习记录" class="headerlink" title="学习记录"></a>学习记录</h5><p>作业一定要先自己写 ，然后对照答案写反思</p>
+<p>先自己做一遍作业，再对照答案把作业反思写了，考前把作业重做一遍，笔记重看一遍</p>
+<p>再进一步学王沛ppt</p>
+<p>10.6</p>
+<p>精看完PPT102；第二周作业</p>
+<p>10.7计划</p>
+<p>预习下一节课内容（no）</p>
+<p>离期中还有一个月，加油加油！</p>
+<p>10.9完成</p>
+<p>PPT 103（9.18）；精看第三周作业；还是有点慢啊，加油！</p>
+<h5 id="现有资料汇总："><a href="#现有资料汇总：" class="headerlink" title="现有资料汇总："></a>现有资料汇总：</h5><p>习题答案：赵凯华答案</p>
+<p>教辅：王沛ppt（一定作为课内内容用好）；chb教材；知识点总结；部分课外pdf（小论文可用）</p>
+<p>习题集：往年卷，大题典</p>
+<h5 id="课程时间："><a href="#课程时间：" class="headerlink" title="课程时间："></a>课程时间：</h5><p>1，34；3，12 ；4，34旁听陈巍老师课</p>
+<h5 id="评课tips"><a href="#评课tips" class="headerlink" title="评课tips"></a>评课tips</h5><p>老师助教较摆，要要多看课外材料，重视旁听（以提升思维为目标旁听）（加好旁听群，利用好助教，找负责的）</p>
+<p>有小论文加分 ，提前考虑和准备，最好提前与老师讨论选题</p>
+<p>重视作业，考试不难，有原题，故作业多做几遍（尝试实施作业多遍训练）</p>
+<p>有少量小测。（保证到课）</p>
+<p>给分据说不错吧</p>
+<h5 id="部分资料"><a href="#部分资料" class="headerlink" title="部分资料"></a>部分资料</h5><p>作业答案：</p>
+<a href="/2023/09/01/Photology/%E5%85%89%E5%AD%A6%E4%B9%A0%E9%A2%98%E6%80%9D%E8%80%83%E9%A2%98%E8%A7%A3%E7%AD%94.pdf" title="[光学习题思考题解答.pdf]">[光学习题思考题解答.pdf]</a><br/>
 
-<p>由于政治觉悟较高（在留学准备的关键时期以及下学期选到奇葩马原老师的情况下，还是要尽量让这方面的状态减轻一些），以及上学期因为成绩相对自负和端架子的表现（个人认为，其实多数是因为社恐，以及在大环境下不愿露怯，今后要更加放松和专注于自己的目标才行），在团支书转院的情况下被委以重任，目前不知是福是祸。</p>
-<p>开学前几天来看，似乎不算轻松，除了入团大会还有团务培训。</p>
-<p>重要的是，我希望借此锻炼的是多线处理事情，学会在不必要无意义的事情上学会取舍，以及减轻沟通包袱的能力，可不是来加重无用且已经足够多的责任心的，祝自己能收获到想要的吧。</p>
-<h5 id="Tips"><a href="#Tips" class="headerlink" title="Tips"></a>Tips</h5><p>1.有任何事情先问再做，不要自认为自己思考到了不用问，反而别人觉得不被尊重，把握好度，不要做吃力不讨好的事</p>
-<h5 id="wht老师讲义，见未解散的QQ群。"><a href="#wht老师讲义，见未解散的QQ群。" class="headerlink" title="wht老师讲义，见未解散的QQ群。"></a>wht老师讲义，见未解散的QQ群。</h5><h5 id="部分参考答案-笔记"><a href="#部分参考答案-笔记" class="headerlink" title="部分参考答案+笔记"></a>部分参考答案+笔记</h5><br/>
+<p>已精读课内PPT：</p>
+<a href="/2023/09/01/Photology/potic101.pdf" title="[potic 101.pdf]">[potic 101.pdf]</a><br/>
 
-<br/>
+<a href="/2023/09/01/Photology/102.pdf" title="[potic 102.pdf]">[potic 102.pdf]</a><br/>
 
-<br/>
+<a href="/2023/09/01/Photology/103.pdf" title="[potic 103.pdf]">[potic 103.pdf]</a><br/>
 
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-]]></content>
-      <categories>
-        <category>work</category>
-      </categories>
-      <tags>
-        <tag>experience</tag>
-        <tag>take it easy</tag>
-        <tag>interpersonal</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Words for myself</title>
-    <url>/2023/09/01/Words-for-myself/</url>
-    <content><![CDATA[<p>以下为我对自己的警醒与勉励</p>
-<span id="more"></span>
-
-
-
-]]></content>
-      <tags>
-        <tag>interpersonal</tag>
-        <tag>dream，plan</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>electrodynamics</title>
-    <url>/2024/03/05/electrodynamics/</url>
-    <content><![CDATA[<p>以下为电动力学本学期学习记录，加油！</p>
-<span id="more"></span>
-
-<h5 id="现有资料汇总："><a href="#现有资料汇总：" class="headerlink" title="现有资料汇总："></a>现有资料汇总：</h5><p>习题答案：学习辅导（共三本书了，主要看绿皮吧，但作业是蓝皮）</p>
-<p>教辅：zjj讲义（一定作为课内内容用好）；力学  下册  理论力学；</p>
-<p>习题集：有phj试卷，刘万东待收集</p>
-<p>总结：有复习纲要及总结</p>
-<h5 id="评课tips"><a href="#评课tips" class="headerlink" title="评课tips"></a>评课tips</h5><p>PPT的内容基本和郭硕鸿的书一致，只不过把书上没有的数学推导都补上了</p>
-<p>平时作业区分度较高</p>
-<p>期末有是非和简答，简答和判断要熟悉一些简单结论。（往年题）</p>
-<p>建议不要翘课，特别是翘课人多的时候</p>
-<p>思考题！！！一定课前写，查资料也一定要课前写，尽量被抽到。一定要坚持到期末。</p>
-<p>重视作业，多做几遍（尝试实施作业多遍训练）</p>
-<p>重视答题思路，重视查卷</p>
-<h5 id="部分资料"><a href="#部分资料" class="headerlink" title="部分资料"></a>部分资料</h5><br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<h5 id="笔记总结"><a href="#笔记总结" class="headerlink" title="笔记总结"></a>笔记总结</h5>
-
-<h5 id="wht老师讲义，见未解散的QQ群。"><a href="#wht老师讲义，见未解散的QQ群。" class="headerlink" title="wht老师讲义，见未解散的QQ群。"></a>wht老师讲义，见未解散的QQ群。</h5><h5 id="部分参考答案-笔记"><a href="#部分参考答案-笔记" class="headerlink" title="部分参考答案+笔记"></a>部分参考答案+笔记</h5><br/>
+<h5 id="笔记"><a href="#笔记" class="headerlink" title="笔记"></a>笔记</h5><br/>
 
 <br/>
 
@@ -1084,14 +858,37 @@
 
 
 
-<h5 id="考试相关，历年真题，见note-shelf"><a href="#考试相关，历年真题，见note-shelf" class="headerlink" title="考试相关，历年真题，见note shelf"></a>考试相关，历年真题，见note shelf</h5>]]></content>
+<h5 id="考试相关，历年真题，见note-shelf"><a href="#考试相关，历年真题，见note-shelf" class="headerlink" title="考试相关，历年真题，见note shelf"></a>考试相关，历年真题，见note shelf</h5>
+
+
+
+<p>结果：</p>
+<p>4.3，真棒！</p>
+<p>稍有天赋，努力为上，是用心用时间成功的好样本。</p>
+]]></content>
       <categories>
         <category>study</category>
         <category>physics</category>
       </categories>
       <tags>
-        <tag>now</tag>
+        <tag>effective method</tag>
+        <tag>endeavour</tag>
+        <tag>lesson</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Volunteering</title>
+    <url>/2024/03/10/Volunteering/</url>
+    <content><![CDATA[<p>以下为社会实践与志愿活动参与记录，加油！</p>
+<span id="more"></span>
+
+<p>60h 100h,分别有一，二级志愿星级证书（现38h），这学期集满</p>
+<p>参加一次周日特教，之后可去写社会实践</p>
+]]></content>
+      <categories>
+        <category>activity</category>
+        <category>volunteer</category>
+      </categories>
   </entry>
   <entry>
     <title>Weekly Physical Experiment</title>
@@ -1185,6 +982,297 @@
         <tag>effective method</tag>
         <tag>endeavour</tag>
         <tag>experience</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Words for myself</title>
+    <url>/2023/09/01/Words-for-myself/</url>
+    <content><![CDATA[<p>以下为我对自己的警醒与勉励</p>
+<span id="more"></span>
+
+
+
+]]></content>
+      <tags>
+        <tag>interpersonal</tag>
+        <tag>dream，plan</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Works as League Secretary</title>
+    <url>/2023/09/03/Works-as-League-Secretary/</url>
+    <content><![CDATA[<p>以下为团支书工作经验记录</p>
+<span id="more"></span>
+
+<p>由于政治觉悟较高（在留学准备的关键时期以及下学期选到奇葩马原老师的情况下，还是要尽量让这方面的状态减轻一些），以及上学期因为成绩相对自负和端架子的表现（个人认为，其实多数是因为社恐，以及在大环境下不愿露怯，今后要更加放松和专注于自己的目标才行），在团支书转院的情况下被委以重任，目前不知是福是祸。</p>
+<p>开学前几天来看，似乎不算轻松，除了入团大会还有团务培训。</p>
+<p>重要的是，我希望借此锻炼的是多线处理事情，学会在不必要无意义的事情上学会取舍，以及减轻沟通包袱的能力，可不是来加重无用且已经足够多的责任心的，祝自己能收获到想要的吧。</p>
+<h5 id="Tips"><a href="#Tips" class="headerlink" title="Tips"></a>Tips</h5><p>1.有任何事情先问再做，不要自认为自己思考到了不用问，反而别人觉得不被尊重，把握好度，不要做吃力不讨好的事</p>
+<h5 id="wht老师讲义，见未解散的QQ群。"><a href="#wht老师讲义，见未解散的QQ群。" class="headerlink" title="wht老师讲义，见未解散的QQ群。"></a>wht老师讲义，见未解散的QQ群。</h5><h5 id="部分参考答案-笔记"><a href="#部分参考答案-笔记" class="headerlink" title="部分参考答案+笔记"></a>部分参考答案+笔记</h5><br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+]]></content>
+      <categories>
+        <category>work</category>
+      </categories>
+      <tags>
+        <tag>experience</tag>
+        <tag>interpersonal</tag>
+        <tag>take it easy</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>electrodynamics</title>
+    <url>/2024/03/05/electrodynamics/</url>
+    <content><![CDATA[<p>以下为电动力学本学期学习记录，加油！</p>
+<span id="more"></span>
+
+<h5 id="现有资料汇总："><a href="#现有资料汇总：" class="headerlink" title="现有资料汇总："></a>现有资料汇总：</h5><p>习题答案：学习辅导（共三本书了，主要看绿皮吧，但作业是蓝皮）</p>
+<p>教辅：zjj讲义（一定作为课内内容用好）；力学  下册  理论力学；</p>
+<p>习题集：有phj试卷，刘万东待收集</p>
+<p>总结：有复习纲要及总结</p>
+<h5 id="评课tips"><a href="#评课tips" class="headerlink" title="评课tips"></a>评课tips</h5><p>PPT的内容基本和郭硕鸿的书一致，只不过把书上没有的数学推导都补上了</p>
+<p>平时作业区分度较高</p>
+<p>期末有是非和简答，简答和判断要熟悉一些简单结论。（往年题）</p>
+<p>建议不要翘课，特别是翘课人多的时候</p>
+<p>思考题！！！一定课前写，查资料也一定要课前写，尽量被抽到。一定要坚持到期末。</p>
+<p>重视作业，多做几遍（尝试实施作业多遍训练）</p>
+<p>重视答题思路，重视查卷</p>
+<h5 id="部分资料"><a href="#部分资料" class="headerlink" title="部分资料"></a>部分资料</h5><br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<h5 id="笔记总结"><a href="#笔记总结" class="headerlink" title="笔记总结"></a>笔记总结</h5>
+
+<h5 id="wht老师讲义，见未解散的QQ群。"><a href="#wht老师讲义，见未解散的QQ群。" class="headerlink" title="wht老师讲义，见未解散的QQ群。"></a>wht老师讲义，见未解散的QQ群。</h5><h5 id="部分参考答案-笔记"><a href="#部分参考答案-笔记" class="headerlink" title="部分参考答案+笔记"></a>部分参考答案+笔记</h5><br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+
+
+<h5 id="习题课讲义"><a href="#习题课讲义" class="headerlink" title="习题课讲义"></a>习题课讲义</h5><br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+
+
+<h5 id="考试相关，历年真题，见note-shelf"><a href="#考试相关，历年真题，见note-shelf" class="headerlink" title="考试相关，历年真题，见note shelf"></a>考试相关，历年真题，见note shelf</h5>]]></content>
+      <categories>
+        <category>study</category>
+        <category>physics</category>
+      </categories>
+      <tags>
+        <tag>now</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Function of Complex Variable</title>
+    <url>/2023/09/01/function-of-complex-variable/</url>
+    <content><![CDATA[<p>以下为复变函数学习记录。</p>
+<span id="more"></span>
+
+<h5 id="假期完成："><a href="#假期完成：" class="headerlink" title="假期完成："></a>假期完成：</h5><p>看了50页书，到第三章；</p>
+<h5 id="学习记录"><a href="#学习记录" class="headerlink" title="学习记录"></a>学习记录</h5><p>10.6之前</p>
+<p>完成三周作业，PPT完成精看，第一周作业未精看，其余次完成精看；</p>
+<p>10.8计划</p>
+<p>把第四周作业完成，那一天的ppt看了</p>
+<h5 id="现有资料汇总："><a href="#现有资料汇总：" class="headerlink" title="现有资料汇总："></a>现有资料汇总：</h5><p>习题答案：严镇军答案by张舒博，9月答案</p>
+<p>教辅：史济怀书（实体）；严镇军教材勘误；波波讲义；学长笔记（内有往年卷）</p>
+<p>习题集：复变函数习题精选精解，复变函数与积分变换</p>
+<p>知识点整理</p>
+<h5 id="课程时间："><a href="#课程时间：" class="headerlink" title="课程时间："></a>课程时间：</h5><p>3，67；5，34</p>
+<h5 id="评课tips"><a href="#评课tips" class="headerlink" title="评课tips"></a>评课tips</h5><p>PPT较详尽，可跟进度自学。（提前预习PPT）</p>
+<p>有小测。（保证到课）</p>
+<h5 id="部分资料"><a href="#部分资料" class="headerlink" title="部分资料"></a>部分资料</h5><a href="/2023/09/01/function-of-complex-variable/%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86%EF%BC%88pksq%EF%BC%89.pdf" title="[知识点整理（pksq）.pdf]">[知识点整理（pksq）.pdf]</a><br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<h5 id="笔记总结"><a href="#笔记总结" class="headerlink" title="笔记总结"></a>笔记总结</h5>
+
+<h5 id="wht老师讲义，见未解散的QQ群。"><a href="#wht老师讲义，见未解散的QQ群。" class="headerlink" title="wht老师讲义，见未解散的QQ群。"></a>wht老师讲义，见未解散的QQ群。</h5><h5 id="部分参考答案-笔记"><a href="#部分参考答案-笔记" class="headerlink" title="部分参考答案+笔记"></a>部分参考答案+笔记</h5><br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+
+
+<h5 id="习题课讲义"><a href="#习题课讲义" class="headerlink" title="习题课讲义"></a>习题课讲义</h5><br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+
+
+<h5 id="考试相关，历年真题，见note-shelf"><a href="#考试相关，历年真题，见note-shelf" class="headerlink" title="考试相关，历年真题，见note shelf"></a>考试相关，历年真题，见note shelf</h5>
+]]></content>
+      <categories>
+        <category>study</category>
+        <category>math</category>
+      </categories>
+      <tags>
+        <tag>now</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>mathematical and physical equations</title>
+    <url>/2024/03/04/Mathematical-Equations/</url>
+    <content><![CDATA[<p>以下为数理方程本学期学习记录，加油！</p>
+<span id="more"></span>
+
+<h5 id="学习记录"><a href="#学习记录" class="headerlink" title="学习记录"></a>学习记录</h5><p>作业一定要先自己写 ，且要自己探究多方法解题。然后对照答案写反思</p>
+<p>先自己做一遍作业，再对照答案把作业反思写了，考前把作业重做一遍，笔记重看一遍</p>
+<h5 id="现有资料汇总："><a href="#现有资料汇总：" class="headerlink" title="现有资料汇总："></a>现有资料汇总：</h5><p>教材</p>
+<p>习题答案：有（比较简陋）</p>
+<p>教辅：李书敏ppt（一定作为课内内容用好），提前看</p>
+<p>习题集：近年真题，习题，习题集</p>
+<p>总结：结构图，tips and notes，波波总结</p>
+<h5 id="给分"><a href="#给分" class="headerlink" title="给分"></a>给分</h5><p>无小测，无期中</p>
+<p>4.3约20%，但后面不调，故尽量往前，你应当能做到</p>
+<h5 id="评课tips"><a href="#评课tips" class="headerlink" title="评课tips"></a>评课tips</h5><p>卷子计算量很大，刷题和平时作业练习非常重要，亲手算亲手研究！</p>
+<p>要不来十个往年卷。。。</p>
+<p>近年计算量激增，不要被往年迷惑</p>
+<p>作业较少，自己要补充</p>
+<p>自学会更好，听讲不易有思路</p>
+<p>讲义很好，面向考试，重点突出</p>
+<h5 id="复习参考"><a href="#复习参考" class="headerlink" title="复习参考"></a>复习参考</h5><p><em><strong>*速度+熟练&#x3D;辉煌！！*</strong></em></p>
+<p><em><strong>*考前：*</strong></em></p>
+<p>计算量比较大的题型（如****d’Alembert公式、冲量原理、三角函数、Bessel函数和Legendre多项式的分解、Fourier反变换、卷积****）考前如果有时间的话可以着重练习一下上面说的几个计算量比较大的题型，熟悉套路考试会轻松很多。比较冷门的题型（如Laplace变换、球空间Green函数）应该大概率不会考。</p>
+<p>复习的时候，****刷一遍书后题（不考的不看），刷一遍书（尤其老师重点强调的部分，像镜像法求格林函数，还有前面的分离变量，我推导了几遍，要熟练到不用怎么思考就能写下来的程度****，会很大程度上节省考试时间），再刷一遍10年往后的考卷（有时间的话自然可以再多看看以前的）</p>
+<p>层主就是平时上课听不懂，作业一脸懵逼，但是<em><strong>*基本的方法套路掌握了，考前疯狂刷试卷，手感很好*<em><strong>，考场上大牛们都在纠结细节结果很多人写不完，然后</strong></em>\我直接不管三七二十一写下去*<strong>亲测很棒！！</strong></strong></em>**，最后虽然错了不少细节，但扣分非常少！基本都是算错一个一分！考了92，也算非常对得起我这糊里糊涂的学习了！</p>
+<p><em><strong>*考试期间：*</strong></em></p>
+<p>快速而熟练地把所有的题目做完！！</p>
+<p>考试实际上很简单，套路痕迹很深，还有一两道套路和历届卷完全相同的题，所以考的也不错，考了99，总评也是99~</p>
+<p><em><strong>*考后：*</strong></em></p>
+<p><em><strong>*但是…一定记得要去查卷…因为卷子都是助教改的…风格就是那种最后结果和答案形式不同都会直接扣分的那种…所以要把握机会和老师argue，即使自己当时毫无想法也要理直气壮……*</strong></em></p>
+<p>关于期末考试，我想是一次教训，这种计算考试，要的就是最后的结果，而不是思路，你虽然感觉做的顺做完了，可却没有把握住最重要的部分。应与练习不足有关。</p>
+<h5 id="部分资料"><a href="#部分资料" class="headerlink" title="部分资料"></a>部分资料</h5><p>作业答案：</p>
+<br/>
+
+<p>已精读课内PPT：</p>
+<br/>
+
+<br/>
+
+<br/>
+
+<h5 id="笔记"><a href="#笔记" class="headerlink" title="笔记"></a>笔记</h5><br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+
+
+<h5 id="习题课讲义"><a href="#习题课讲义" class="headerlink" title="习题课讲义"></a>习题课讲义</h5><br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+
+
+<h5 id="考试相关，历年真题，见note-shelf"><a href="#考试相关，历年真题，见note-shelf" class="headerlink" title="考试相关，历年真题，见note shelf"></a>考试相关，历年真题，见note shelf</h5>]]></content>
+      <categories>
+        <category>study</category>
+        <category>math</category>
+      </categories>
+      <tags>
+        <tag>effective method</tag>
+        <tag>not-so-satisfied</tag>
+        <tag>lesson</tag>
       </tags>
   </entry>
   <entry>
@@ -1307,7 +1395,7 @@
 <p>ustc-guest 每周更新一次密码</p>
 <p>2024.2.23  107196</p>
 <p>LENOVO时代：</p>
-<p>密钥：tuhua@Hua_Tu MINGW64 &#x2F;e&#x2F;BlogBlog<br>$ cat ~&#x2F;.ssh&#x2F;id_rsa.pub<br>ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCgg9dGcj4pFDQ4phI9efca2&#x2F;276EG2Jl3zF7mankvutYWa7ry8jFrLUgYTUApPtPOdlSxftOKaGrIl&#x2F;2TPb2kJ6RHGTakgk7tACvqr&#x2F;Y+j64lhGBaJzHpboUTHjLoRe7eftDwWKz7engusfNN3ky+l&#x2F;4gMlVRLyVEzDxzO9nUB7J1uyiPhsLGmXZW2Kla&#x2F;vrYs0NlAd3g2j3qrHok2FVds85bA38omLJO9N&#x2F;D&#x2F;eA1nm3QZg9s6ituiTW+J2PZ66EuWX0kVL6xTKlmbWceXwNHkxUoDAAhFj9A&#x2F;&#x2F;rDJnZ7Y72xLvsixRQfOt&#x2F;D8S7Qc5Vvkse9jVWPK3qL5xvsHzJf0HT0f7O3oOrlUvDlyPv5dRI2c4nX3ZIW0gjqKVLz2lQ8fxWFxQrDgePKEYYBrQIy60tciEMpWB5x37lSXOUA80OvWqtsDWTmBbU53gsG5d0d3Ve7JPDBS9qxMoBZx&#x2F;gJ7dJHc93Zx7ZJAOaTDx3K1pqA+NKox9siVsYUr8i1WNvM&#x3D; <a href="mailto:&#105;&#109;&#95;&#x74;&#x75;&#x68;&#x75;&#97;&#x40;&#x6d;&#x61;&#105;&#108;&#x2e;&#117;&#x73;&#x74;&#99;&#46;&#101;&#100;&#117;&#x2e;&#x63;&#110;">&#105;&#109;&#95;&#x74;&#x75;&#x68;&#x75;&#97;&#x40;&#x6d;&#x61;&#105;&#108;&#x2e;&#117;&#x73;&#x74;&#99;&#46;&#101;&#100;&#117;&#x2e;&#x63;&#110;</a></p>
+<p>密钥：tuhua@Hua_Tu MINGW64 &#x2F;e&#x2F;BlogBlog<br>$ cat ~&#x2F;.ssh&#x2F;id_rsa.pub<br>ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCgg9dGcj4pFDQ4phI9efca2&#x2F;276EG2Jl3zF7mankvutYWa7ry8jFrLUgYTUApPtPOdlSxftOKaGrIl&#x2F;2TPb2kJ6RHGTakgk7tACvqr&#x2F;Y+j64lhGBaJzHpboUTHjLoRe7eftDwWKz7engusfNN3ky+l&#x2F;4gMlVRLyVEzDxzO9nUB7J1uyiPhsLGmXZW2Kla&#x2F;vrYs0NlAd3g2j3qrHok2FVds85bA38omLJO9N&#x2F;D&#x2F;eA1nm3QZg9s6ituiTW+J2PZ66EuWX0kVL6xTKlmbWceXwNHkxUoDAAhFj9A&#x2F;&#x2F;rDJnZ7Y72xLvsixRQfOt&#x2F;D8S7Qc5Vvkse9jVWPK3qL5xvsHzJf0HT0f7O3oOrlUvDlyPv5dRI2c4nX3ZIW0gjqKVLz2lQ8fxWFxQrDgePKEYYBrQIy60tciEMpWB5x37lSXOUA80OvWqtsDWTmBbU53gsG5d0d3Ve7JPDBS9qxMoBZx&#x2F;gJ7dJHc93Zx7ZJAOaTDx3K1pqA+NKox9siVsYUr8i1WNvM&#x3D; <a href="mailto:&#105;&#x6d;&#95;&#116;&#x75;&#x68;&#117;&#97;&#x40;&#109;&#97;&#x69;&#108;&#46;&#x75;&#x73;&#x74;&#x63;&#x2e;&#x65;&#100;&#117;&#46;&#x63;&#x6e;">&#105;&#x6d;&#95;&#116;&#x75;&#x68;&#117;&#97;&#x40;&#109;&#97;&#x69;&#108;&#46;&#x75;&#x73;&#x74;&#x63;&#x2e;&#x65;&#100;&#117;&#46;&#x63;&#x6e;</a></p>
 ]]></content>
       <categories>
         <category>tips</category>
@@ -1318,78 +1406,57 @@
       </tags>
   </entry>
   <entry>
-    <title>Function of Complex Variable</title>
-    <url>/2023/09/01/function-of-complex-variable/</url>
-    <content><![CDATA[<p>以下为复变函数学习记录。</p>
+    <title>毛泽东思想与中国特色社会主义理论体系概论</title>
+    <url>/2024/03/02/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA/</url>
+    <content><![CDATA[<p>以下为毛概本学期学习记录，加油！</p>
 <span id="more"></span>
 
-<h5 id="假期完成："><a href="#假期完成：" class="headerlink" title="假期完成："></a>假期完成：</h5><p>看了50页书，到第三章；</p>
-<h5 id="学习记录"><a href="#学习记录" class="headerlink" title="学习记录"></a>学习记录</h5><p>10.6之前</p>
-<p>完成三周作业，PPT完成精看，第一周作业未精看，其余次完成精看；</p>
-<p>10.8计划</p>
-<p>把第四周作业完成，那一天的ppt看了</p>
-<h5 id="现有资料汇总："><a href="#现有资料汇总：" class="headerlink" title="现有资料汇总："></a>现有资料汇总：</h5><p>习题答案：严镇军答案by张舒博，9月答案</p>
-<p>教辅：史济怀书（实体）；严镇军教材勘误；波波讲义；学长笔记（内有往年卷）</p>
-<p>习题集：复变函数习题精选精解，复变函数与积分变换</p>
-<p>知识点整理</p>
-<h5 id="课程时间："><a href="#课程时间：" class="headerlink" title="课程时间："></a>课程时间：</h5><p>3，67；5，34</p>
-<h5 id="评课tips"><a href="#评课tips" class="headerlink" title="评课tips"></a>评课tips</h5><p>PPT较详尽，可跟进度自学。（提前预习PPT）</p>
-<p>有小测。（保证到课）</p>
-<h5 id="部分资料"><a href="#部分资料" class="headerlink" title="部分资料"></a>部分资料</h5><a href="/2023/09/01/function-of-complex-variable/%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86%EF%BC%88pksq%EF%BC%89.pdf" title="[知识点整理（pksq）.pdf]">[知识点整理（pksq）.pdf]</a><br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<h5 id="笔记总结"><a href="#笔记总结" class="headerlink" title="笔记总结"></a>笔记总结</h5>
-
-<h5 id="wht老师讲义，见未解散的QQ群。"><a href="#wht老师讲义，见未解散的QQ群。" class="headerlink" title="wht老师讲义，见未解散的QQ群。"></a>wht老师讲义，见未解散的QQ群。</h5><h5 id="部分参考答案-笔记"><a href="#部分参考答案-笔记" class="headerlink" title="部分参考答案+笔记"></a>部分参考答案+笔记</h5><br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-
-
-<h5 id="习题课讲义"><a href="#习题课讲义" class="headerlink" title="习题课讲义"></a>习题课讲义</h5><br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-
-
-<h5 id="考试相关，历年真题，见note-shelf"><a href="#考试相关，历年真题，见note-shelf" class="headerlink" title="考试相关，历年真题，见note shelf"></a>考试相关，历年真题，见note shelf</h5>
-]]></content>
+<h5 id="学习记录"><a href="#学习记录" class="headerlink" title="学习记录"></a>学习记录</h5><p>上课多看书，能记则记</p>
+<h5 id="评课tips"><a href="#评课tips" class="headerlink" title="评课tips"></a>评课tips</h5><p>老师不讲太多理论，听课不必要</p>
+<p>**课后提问两次 </p>
+<p>想法：对当今马克思主义理论的创新有什么看法？（看起来有些“这不是真正的”意见）</p>
+<p>老师更喜欢“真实的”经历和“独立的”“个人的”想法</p>
+<p>**你的民族选题很适合，向这边靠近 </p>
+<p>注意提及“中华民族”，他好像很关注。以及中国在世界上的理论特殊性</p>
+<p>作业重量大过质</p>
+<p>**计划：</p>
+<p>文章+采访（可采姥姥 民族团结）加图片</p>
+<p>喜欢真实，喜欢乡土化（穷日子） 如果你不喜欢，就后面转成发展，让自己舒心</p>
+<p>不直接给分，而是看印象</p>
+<p>结合自己亲身体会更好</p>
+<p>钢琴 彩云追月（国风歌曲），春舞（新疆舞曲，王洛宾）</p>
+<p>扬琴</p>
+<p>书法</p>
+<p>伊犁天鹅湖视频</p>
+<p>手编工艺品</p>
+<p>合唱 闪亮的名字</p>
+<h5 id="部分资料"><a href="#部分资料" class="headerlink" title="部分资料"></a>部分资料</h5><p>已购资料</p>
+<p>往年考试答案及评分标准待查询</p>
+<p>统考</p>
+<p>论文有出版范文（图书馆）</p>
+<h5 id="笔记"><a href="#笔记" class="headerlink" title="笔记"></a>笔记</h5>]]></content>
       <categories>
         <category>study</category>
-        <category>math</category>
+        <category>physics</category>
       </categories>
       <tags>
         <tag>now</tag>
       </tags>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/2024/09/08/Research/%E8%AE%BA%E6%96%87%E6%B3%A8%E9%87%8A%E8%8D%89%E7%A8%BF/</url>
+    <content><![CDATA[<p>关于经典光学衍射极限：</p>
+<p>当光通过透镜时，会发生衍射现象，导致图像的分辨率受到限制，使得透镜成像的分辨率有理论极限。在激光聚焦三维加工中有类似情况。</p>
+<p>在传统光学加工中，若使用透镜将激光聚焦到一个点上，点的大小受衍射极限的限制。</p>
+<p>衍射点大小：<br>$$<br>d&#x3D;\frac{1.22\lambda}{N.A.}<br>$$<br>其中，N.A.是透镜的数值孔径（基本只与透镜本身有关），是衡量透镜吸收光线能力的指标：<br>$$<br>N.A.&#x3D;nsin\theta<br>$$<br>其中，n为透镜周围介质折射率，\theta 为光线的最大接收角度，代表透镜能有效接收并聚焦的光线的最大范围，即有效工作区域。当入射角度超过\theta,光线无法被有效聚焦到焦点。</p>
+<p>由上可见，要使衍射点更小，应波长更短，数值孔径更大，接收角更大（通常对应大曲率半径和厚度）。</p>
+<p>根据瑞利判据，最小可分辨距离：<br>$$<br>\Delta x&#x3D;\frac{0.61\lambda}{N.A.}<br>$$<br>（边缘与相邻衍射点中心重合）</p>
+<p>双光子聚合技术突破衍射极限限制：</p>
+<p>双光子非线性吸收概率与光强平方成正比，是非线性的。</p>
+<p>只有在焦点区域（光强最高的区域）才会发生显著吸收，这种选择性使得双管这个i吸收只在非常小的区域发生，具有极高空间局域性</p>
+<p>阈值效应：光强超过一定阈值才会发生双光子吸收。</p>
+]]></content>
   </entry>
   <entry>
     <title>fundamentals of electronic technology</title>
@@ -1460,59 +1527,6 @@
 
 
 <h5 id="考试相关，历年真题，见note-shelf"><a href="#考试相关，历年真题，见note-shelf" class="headerlink" title="考试相关，历年真题，见note shelf"></a>考试相关，历年真题，见note shelf</h5>]]></content>
-      <categories>
-        <category>study</category>
-        <category>physics</category>
-      </categories>
-      <tags>
-        <tag>now</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title></title>
-    <url>/2024/09/08/Research/%E8%AE%BA%E6%96%87%E6%B3%A8%E9%87%8A%E8%8D%89%E7%A8%BF/</url>
-    <content><![CDATA[<p>关于经典光学衍射极限：</p>
-<p>当光通过透镜时，会发生衍射现象，导致图像的分辨率受到限制，使得透镜成像的分辨率有理论极限。在激光聚焦三维加工中有类似情况。</p>
-<p>在传统光学加工中，若使用透镜将激光聚焦到一个点上，点的大小受衍射极限的限制。</p>
-<p>衍射点大小：<br>$$<br>d&#x3D;\frac{1.22\lambda}{N.A.}<br>$$<br>其中，N.A.是透镜的数值孔径（基本只与透镜本身有关），是衡量透镜吸收光线能力的指标：<br>$$<br>N.A.&#x3D;nsin\theta<br>$$<br>其中，n为透镜周围介质折射率，\theta 为光线的最大接收角度，代表透镜能有效接收并聚焦的光线的最大范围，即有效工作区域。当入射角度超过\theta,光线无法被有效聚焦到焦点。</p>
-<p>由上可见，要使衍射点更小，应波长更短，数值孔径更大，接收角更大（通常对应大曲率半径和厚度）。</p>
-<p>根据瑞利判据，最小可分辨距离：<br>$$<br>\Delta x&#x3D;\frac{0.61\lambda}{N.A.}<br>$$<br>（边缘与相邻衍射点中心重合）</p>
-<p>双光子聚合技术突破衍射极限限制：</p>
-<p>双光子非线性吸收概率与光强平方成正比，是非线性的。</p>
-<p>只有在焦点区域（光强最高的区域）才会发生显著吸收，这种选择性使得双管这个i吸收只在非常小的区域发生，具有极高空间局域性</p>
-<p>阈值效应：光强超过一定阈值才会发生双光子吸收。</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>毛泽东思想与中国特色社会主义理论体系概论</title>
-    <url>/2024/03/02/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA/</url>
-    <content><![CDATA[<p>以下为毛概本学期学习记录，加油！</p>
-<span id="more"></span>
-
-<h5 id="学习记录"><a href="#学习记录" class="headerlink" title="学习记录"></a>学习记录</h5><p>上课多看书，能记则记</p>
-<h5 id="评课tips"><a href="#评课tips" class="headerlink" title="评课tips"></a>评课tips</h5><p>老师不讲太多理论，听课不必要</p>
-<p>**课后提问两次 </p>
-<p>想法：对当今马克思主义理论的创新有什么看法？（看起来有些“这不是真正的”意见）</p>
-<p>老师更喜欢“真实的”经历和“独立的”“个人的”想法</p>
-<p>**你的民族选题很适合，向这边靠近 </p>
-<p>注意提及“中华民族”，他好像很关注。以及中国在世界上的理论特殊性</p>
-<p>作业重量大过质</p>
-<p>**计划：</p>
-<p>文章+采访（可采姥姥 民族团结）加图片</p>
-<p>喜欢真实，喜欢乡土化（穷日子） 如果你不喜欢，就后面转成发展，让自己舒心</p>
-<p>不直接给分，而是看印象</p>
-<p>结合自己亲身体会更好</p>
-<p>钢琴 彩云追月（国风歌曲），春舞（新疆舞曲，王洛宾）</p>
-<p>扬琴</p>
-<p>书法</p>
-<p>伊犁天鹅湖视频</p>
-<p>手编工艺品</p>
-<p>合唱 闪亮的名字</p>
-<h5 id="部分资料"><a href="#部分资料" class="headerlink" title="部分资料"></a>部分资料</h5><p>已购资料</p>
-<p>往年考试答案及评分标准待查询</p>
-<p>统考</p>
-<p>论文有出版范文（图书馆）</p>
-<h5 id="笔记"><a href="#笔记" class="headerlink" title="笔记"></a>笔记</h5>]]></content>
       <categories>
         <category>study</category>
         <category>physics</category>
